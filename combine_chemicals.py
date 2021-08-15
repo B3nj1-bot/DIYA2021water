@@ -1,3 +1,4 @@
+#merges data into one set with county as index. code has not been updated to include later additions to the data like lifestyle data and other types of cancer, but the approach is identical.
 import pandas as pd
 import os
 import sys
@@ -24,15 +25,9 @@ cancer_incidence = cancer_incidence.reset_index()[["county","Incidence"]].iloc[1
 cancer_incidence["Incidence"] = pd.to_numeric(cancer_incidence["Incidence"])
 cancer_incidence = cancer_incidence.rename(columns={"Incidence":f"cancer rate (per 100K)"})
 
-poverty_percent = pd.read_csv("PovertyEstimates.csv")
-poverty_percent = poverty_percent[["Stabr","Area_name","PCTPOVALL_2019"]].iloc[1:]
-poverty_percent["Stabr"] = poverty_percent["Stabr"].apply(lambda x: states.get(x))
-poverty_percent["Area_name"] = poverty_percent["Area_name"].apply(clean_county)
-poverty_percent.dropna(inplace=True)
-poverty_percent['county'] = poverty_percent['Area_name'] + ', ' + poverty_percent['Stabr']
-poverty_percent = poverty_percent[["county","PCTPOVALL_2019"]].reset_index(drop=True)
+
 final = pd.merge(bladder_incidence,cancer_incidence,how='outer',on='county')
-final = pd.merge(final,poverty_percent,how='outer',on='county')
+
 for filename in os.listdir(directory):
     if not filename.startswith('.'):
         print(filename)
