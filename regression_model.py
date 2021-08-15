@@ -32,7 +32,7 @@ six_year = pd.read_csv("six_year_all_cancers_obesity_alcohol_smoking.csv")
 # six_year = pd.merge(six_year,alcohol,how='outer',on='county')
 # six_year = pd.merge(six_year,activity,how='outer',on='county')
 # six_year = pd.merge(six_year,smoking,how='outer',on='county')
-type_cancer = 'liver cancer rate (per 100K)'#'PCTPOVALL_2019'
+type_cancer = 'liver cancer rate (per 100K)' #change this to different target variables
 rand_state = 17
 feature_dict = {
     'kidney cancer rate (per 100K)': ['chlorite','fluoride', 'total_organic_carbon', 'dichloroacetic_acid', 'TTHM', 'monochloroacetic_acid','obesity','physical_activity','smoking'],
