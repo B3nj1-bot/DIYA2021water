@@ -1,0 +1,3143 @@
+county,physical_activity
+"Autauga, Alabama",50.2
+"Baldwin, Alabama",51.85
+"Barbour, Alabama",40.349999999999994
+"Bibb, Alabama",40.05
+"Blount, Alabama",40.35
+"Bullock, Alabama",38.75
+"Butler, Alabama",42.7
+"Calhoun, Alabama",44.7
+"Chambers, Alabama",40.8
+"Cherokee, Alabama",42.8
+"Chilton, Alabama",41.05
+"Choctaw, Alabama",38.6
+"Clarke, Alabama",42.95
+"Clay, Alabama",41.55
+"Cleburne, Alabama",44.05
+"Coffee, Alabama",47.25
+"Colbert, Alabama",46.650000000000006
+"Conecuh, Alabama",39.0
+"Coosa, Alabama",42.0
+"Covington, Alabama",43.15
+"Crenshaw, Alabama",45.75
+"Cullman, Alabama",43.25
+"Dale, Alabama",49.6
+"Dallas, Alabama",39.85
+"DeKalb, Alabama",41.25
+"Elmore, Alabama",49.75
+"Escambia, Alabama",42.75
+"Etowah, Alabama",44.8
+"Fayette, Alabama",41.1
+"Franklin, Alabama",42.15
+"Geneva, Alabama",44.7
+"Greene, Alabama",37.7
+"Hale, Alabama",37.3
+"Henry, Alabama",46.55
+"Houston, Alabama",46.3
+"Jackson, Alabama",41.7
+"Jefferson, Alabama",45.849999999999994
+"Lamar, Alabama",42.2
+"Lauderdale, Alabama",44.900000000000006
+"Lawrence, Alabama",43.25
+"Lee, Alabama",53.599999999999994
+"Limestone, Alabama",45.95
+"Lowndes, Alabama",41.0
+"Macon, Alabama",43.3
+"Madison, Alabama",50.2
+"Marengo, Alabama",44.55
+"Marion, Alabama",36.4
+"Marshall, Alabama",41.5
+"Mobile, Alabama",45.75
+"Monroe, Alabama",43.5
+"Montgomery, Alabama",47.5
+"Morgan, Alabama",47.9
+"Perry, Alabama",36.900000000000006
+"Pickens, Alabama",41.9
+"Pike, Alabama",46.15
+"Randolph, Alabama",40.4
+"Russell, Alabama",44.75
+"Shelby, Alabama",51.3
+"St. Clair, Alabama",43.45
+"Sumter, Alabama",39.2
+"Talladega, Alabama",42.85
+"Tallapoosa, Alabama",44.35
+"Tuscaloosa, Alabama",46.9
+"Walker, Alabama",39.05
+"Washington, Alabama",46.0
+"Wilcox, Alabama",38.25
+"Winston, Alabama",40.05
+"Aleutians East, Alaska",59.55
+"Aleutians West, Alaska",54.75
+"Anchorage, Alaska",59.75
+"Bethel, Alaska",47.75
+"Bristol Bay, Alaska",57.849999999999994
+"Dillingham, Alaska",50.4
+"Fairbanks North Star, Alaska",60.9
+"Haines, Alaska",60.7
+"Hoonah-Angoon, Alaska",58.75
+"Juneau City and, Alaska",59.15
+"Kenai Peninsula, Alaska",56.95
+"Ketchikan Gateway, Alaska",59.0
+"Kodiak Island, Alaska",61.35
+"Lake and Peninsula, Alaska",51.55
+"Matanuska-Susitna, Alaska",59.6
+"Nome, Alaska",49.9
+"North Slope, Alaska",51.35
+"Northwest Arctic, Alaska",46.2
+"Petersburg, Alaska",59.0
+"Prince of Wales-Hyder, Alaska",59.0
+"Sitka City and, Alaska",59.2
+"Skagway, Alaska",58.75
+"Southeast Fairbanks, Alaska",59.95
+"Valdez-Cordova, Alaska",60.400000000000006
+"Wade Hampton, Alaska",42.65
+"Wrangell City and, Alaska",59.0
+"Yakutat City and, Alaska",61.15
+"Yukon-Koyukuk, Alaska",53.599999999999994
+"Apache, Arizona",54.0
+"Cochise, Arizona",57.55
+"Coconino, Arizona",62.55
+"Gila, Arizona",57.05
+"Graham, Arizona",56.1
+"Greenlee, Arizona",60.45
+"La Paz, Arizona",50.25
+"Maricopa, Arizona",58.599999999999994
+"Mohave, Arizona",52.0
+"Navajo, Arizona",61.099999999999994
+"Pima, Arizona",59.95
+"Pinal, Arizona",55.5
+"Santa Cruz, Arizona",52.45
+"Yavapai, Arizona",61.0
+"Yuma, Arizona",48.9
+"Arkansas, Arkansas",43.650000000000006
+"Ashley, Arkansas",47.0
+"Baxter, Arkansas",53.7
+"Benton, Arkansas",54.3
+"Boone, Arkansas",51.75
+"Bradley, Arkansas",43.2
+"Calhoun, Arkansas",46.2
+"Carroll, Arkansas",50.3
+"Chicot, Arkansas",39.650000000000006
+"Clark, Arkansas",48.5
+"Clay, Arkansas",42.150000000000006
+"Cleburne, Arkansas",50.4
+"Cleveland, Arkansas",50.7
+"Columbia, Arkansas",49.5
+"Conway, Arkansas",49.85
+"Craighead, Arkansas",47.35
+"Crawford, Arkansas",47.650000000000006
+"Crittenden, Arkansas",42.8
+"Cross, Arkansas",45.05
+"Dallas, Arkansas",43.7
+"Desha, Arkansas",42.8
+"Drew, Arkansas",49.9
+"Faulkner, Arkansas",52.099999999999994
+"Franklin, Arkansas",49.599999999999994
+"Fulton, Arkansas",49.05
+"Garland, Arkansas",52.3
+"Grant, Arkansas",47.55
+"Greene, Arkansas",45.05
+"Hempstead, Arkansas",47.150000000000006
+"Hot Spring, Arkansas",44.95
+"Howard, Arkansas",46.05
+"Independence, Arkansas",47.7
+"Izard, Arkansas",48.15
+"Jackson, Arkansas",40.3
+"Jefferson, Arkansas",43.9
+"Johnson, Arkansas",46.099999999999994
+"Lafayette, Arkansas",44.7
+"Lawrence, Arkansas",42.3
+"Lee, Arkansas",38.3
+"Lincoln, Arkansas",40.25
+"Little River, Arkansas",45.95
+"Logan, Arkansas",45.0
+"Lonoke, Arkansas",47.4
+"Madison, Arkansas",48.8
+"Marion, Arkansas",54.05
+"Miller, Arkansas",46.05
+"Mississippi, Arkansas",39.8
+"Monroe, Arkansas",40.0
+"Montgomery, Arkansas",48.55
+"Nevada, Arkansas",44.1
+"Newton, Arkansas",49.5
+"Ouachita, Arkansas",45.25
+"Perry, Arkansas",48.7
+"Phillips, Arkansas",39.25
+"Pike, Arkansas",47.650000000000006
+"Poinsett, Arkansas",38.849999999999994
+"Polk, Arkansas",47.85
+"Pope, Arkansas",50.05
+"Prairie, Arkansas",42.55
+"Pulaski, Arkansas",49.0
+"Randolph, Arkansas",48.150000000000006
+"Saline, Arkansas",52.4
+"Scott, Arkansas",45.5
+"Searcy, Arkansas",45.2
+"Sebastian, Arkansas",48.4
+"Sevier, Arkansas",41.9
+"Sharp, Arkansas",51.45
+"St. Francis, Arkansas",42.3
+"Stone, Arkansas",49.15
+"Union, Arkansas",48.35
+"Van Buren, Arkansas",52.4
+"Washington, Arkansas",51.099999999999994
+"White, Arkansas",47.349999999999994
+"Woodruff, Arkansas",40.45
+"Yell, Arkansas",44.5
+"Alameda, California",63.900000000000006
+"Alpine, California",61.7
+"Amador, California",57.349999999999994
+"Butte, California",60.5
+"Calaveras, California",62.1
+"Colusa, California",51.75
+"Contra Costa, California",66.5
+"Del Norte, California",57.0
+"El Dorado, California",63.7
+"Fresno, California",54.65
+"Glenn, California",54.5
+"Humboldt, California",63.95
+"Imperial, California",45.650000000000006
+"Inyo, California",57.650000000000006
+"Kern, California",53.25
+"Kings, California",51.6
+"Lake, California",59.8
+"Lassen, California",57.65
+"Los Angeles, California",57.5
+"Madera, California",52.7
+"Marin, California",72.15
+"Mariposa, California",60.7
+"Mendocino, California",61.65
+"Merced, California",51.85
+"Modoc, California",57.7
+"Mono, California",61.349999999999994
+"Monterey, California",58.25
+"Napa, California",63.3
+"Nevada, California",68.55000000000001
+"Orange, California",62.65
+"Placer, California",66.95
+"Plumas, California",63.95
+"Riverside, California",58.1
+"Sacramento, California",61.1
+"San Benito, California",59.8
+"San Bernardino, California",56.8
+"San Diego, California",63.9
+"San Francisco, California",65.19999999999999
+"San Joaquin, California",56.2
+"San Luis Obispo, California",65.69999999999999
+"San Mateo, California",66.1
+"Santa Barbara, California",61.45
+"Santa Clara, California",64.1
+"Santa Cruz, California",64.0
+"Shasta, California",60.5
+"Sierra, California",60.75
+"Siskiyou, California",63.0
+"Solano, California",61.45
+"Sonoma, California",66.9
+"Stanislaus, California",55.9
+"Sutter, California",58.0
+"Tehama, California",59.25
+"Trinity, California",62.650000000000006
+"Tulare, California",52.3
+"Tuolumne, California",61.15
+"Ventura, California",60.3
+"Yolo, California",64.35
+"Yuba, California",55.9
+"Adams, Colorado",63.3
+"Alamosa, Colorado",58.55
+"Arapahoe, Colorado",64.1
+"Archuleta, Colorado",64.0
+"Baca, Colorado",52.2
+"Bent, Colorado",49.9
+"Boulder, Colorado",63.3
+"Broomfield, Colorado",63.3
+"Chaffee, Colorado",64.15
+"Cheyenne, Colorado",52.6
+"Clear Creek, Colorado",66.9
+"Conejos, Colorado",56.849999999999994
+"Costilla, Colorado",52.5
+"Crowley, Colorado",43.400000000000006
+"Custer, Colorado",61.4
+"Delta, Colorado",62.9
+"Denver, Colorado",63.6
+"Dolores, Colorado",59.25
+"Douglas, Colorado",68.75
+"Eagle, Colorado",69.94999999999999
+"El Paso, Colorado",63.3
+"Elbert, Colorado",62.7
+"Fremont, Colorado",59.25
+"Garfield, Colorado",65.25
+"Gilpin, Colorado",65.5
+"Grand, Colorado",69.25
+"Gunnison, Colorado",66.1
+"Hinsdale, Colorado",63.5
+"Huerfano, Colorado",53.55
+"Jackson, Colorado",62.35
+"Jefferson, Colorado",63.3
+"Kiowa, Colorado",57.599999999999994
+"Kit Carson, Colorado",51.9
+"La Plata, Colorado",69.6
+"Lake, Colorado",60.7
+"Larimer, Colorado",67.1
+"Las Animas, Colorado",56.599999999999994
+"Lincoln, Colorado",50.55
+"Logan, Colorado",57.4
+"Mesa, Colorado",65.19999999999999
+"Mineral, Colorado",63.65
+"Moffat, Colorado",55.6
+"Montezuma, Colorado",58.900000000000006
+"Montrose, Colorado",60.75
+"Morgan, Colorado",57.55
+"Otero, Colorado",54.05
+"Ouray, Colorado",64.85
+"Park, Colorado",65.7
+"Phillips, Colorado",56.2
+"Pitkin, Colorado",70.65
+"Prowers, Colorado",51.75
+"Pueblo, Colorado",59.95
+"Rio Blanco, Colorado",65.2
+"Rio Grande, Colorado",57.7
+"Routt, Colorado",73.80000000000001
+"Saguache, Colorado",52.7
+"San Juan, Colorado",60.15
+"San Miguel, Colorado",64.6
+"Sedgwick, Colorado",54.8
+"Summit, Colorado",70.2
+"Teller, Colorado",64.3
+"Washington, Colorado",56.8
+"Weld, Colorado",63.3
+"Yuma, Colorado",55.65
+"Fairfield, Connecticut",56.900000000000006
+"Hartford, Connecticut",54.0
+"Litchfield, Connecticut",57.55
+"Middlesex, Connecticut",60.5
+"New Haven, Connecticut",54.8
+"New London, Connecticut",58.45
+"Tolland, Connecticut",59.8
+"Windham, Connecticut",53.05
+"Kent, Delaware",46.599999999999994
+"New Castle, Delaware",52.35
+"Sussex, Delaware",53.05
+"District of Columbia, District of Columbia",60.25
+"Alachua, Florida",58.55
+"Baker, Florida",46.5
+"Bay, Florida",56.65
+"Bradford, Florida",45.05
+"Brevard, Florida",60.599999999999994
+"Broward, Florida",52.650000000000006
+"Calhoun, Florida",44.8
+"Charlotte, Florida",59.8
+"Citrus, Florida",57.0
+"Clay, Florida",54.1
+"Collier, Florida",59.5
+"Columbia, Florida",48.349999999999994
+"DeSoto, Florida",45.85
+"Dixie, Florida",50.5
+"Duval, Florida",53.849999999999994
+"Escambia, Florida",53.25
+"Flagler, Florida",59.75
+"Franklin, Florida",53.9
+"Gadsden, Florida",43.55
+"Gilchrist, Florida",50.45
+"Glades, Florida",48.3
+"Gulf, Florida",50.05
+"Hamilton, Florida",43.7
+"Hardee, Florida",41.900000000000006
+"Hendry, Florida",42.0
+"Hernando, Florida",54.95
+"Highlands, Florida",51.05
+"Hillsborough, Florida",53.35
+"Holmes, Florida",42.650000000000006
+"Indian River, Florida",59.3
+"Jackson, Florida",49.75
+"Jefferson, Florida",49.900000000000006
+"Lafayette, Florida",53.099999999999994
+"Lake, Florida",57.099999999999994
+"Lee, Florida",58.65
+"Leon, Florida",59.150000000000006
+"Levy, Florida",50.3
+"Liberty, Florida",46.45
+"Madison, Florida",48.599999999999994
+"Manatee, Florida",57.05
+"Marion, Florida",56.3
+"Martin, Florida",60.900000000000006
+"Miami-Dade, Florida",47.45
+"Monroe, Florida",59.65
+"Nassau, Florida",56.5
+"Okaloosa, Florida",55.7
+"Okeechobee, Florida",44.5
+"Orange, Florida",54.0
+"Osceola, Florida",50.2
+"Palm Beach, Florida",57.0
+"Pasco, Florida",54.45
+"Pinellas, Florida",57.400000000000006
+"Polk, Florida",51.400000000000006
+"Putnam, Florida",46.9
+"Santa Rosa, Florida",57.55
+"Sarasota, Florida",63.8
+"Seminole, Florida",56.25
+"St. Johns, Florida",64.05
+"St. Lucie, Florida",54.15
+"Sumter, Florida",56.1
+"Suwannee, Florida",50.85
+"Taylor, Florida",47.4
+"Union, Florida",46.55
+"Volusia, Florida",56.85
+"Wakulla, Florida",54.8
+"Walton, Florida",55.7
+"Washington, Florida",46.3
+"Appling, Georgia",45.6
+"Atkinson, Georgia",39.45
+"Bacon, Georgia",40.7
+"Baker, Georgia",49.150000000000006
+"Baldwin, Georgia",48.9
+"Banks, Georgia",47.6
+"Barrow, Georgia",49.25
+"Bartow, Georgia",49.95
+"Ben Hill, Georgia",41.75
+"Berrien, Georgia",44.2
+"Bibb, Georgia",48.2
+"Bleckley, Georgia",43.05
+"Brantley, Georgia",45.75
+"Brooks, Georgia",48.2
+"Bryan, Georgia",57.25
+"Bulloch, Georgia",53.75
+"Burke, Georgia",44.5
+"Butts, Georgia",44.0
+"Calhoun, Georgia",37.150000000000006
+"Camden, Georgia",55.6
+"Candler, Georgia",46.8
+"Carroll, Georgia",48.099999999999994
+"Catoosa, Georgia",45.15
+"Charlton, Georgia",38.05
+"Chatham, Georgia",56.650000000000006
+"Chattahoochee, Georgia",56.75
+"Chattooga, Georgia",41.45
+"Cherokee, Georgia",59.55
+"Clarke, Georgia",52.4
+"Clay, Georgia",42.849999999999994
+"Clayton, Georgia",49.650000000000006
+"Clinch, Georgia",39.7
+"Cobb, Georgia",59.55
+"Coffee, Georgia",42.599999999999994
+"Colquitt, Georgia",45.5
+"Columbia, Georgia",59.6
+"Cook, Georgia",42.150000000000006
+"Coweta, Georgia",53.3
+"Crawford, Georgia",46.65
+"Crisp, Georgia",43.55
+"Dade, Georgia",45.3
+"Dawson, Georgia",55.25
+"Decatur, Georgia",48.5
+"DeKalb, Georgia",56.65
+"Dodge, Georgia",44.650000000000006
+"Dooly, Georgia",39.95
+"Dougherty, Georgia",50.0
+"Douglas, Georgia",54.25
+"Early, Georgia",43.7
+"Echols, Georgia",39.3
+"Effingham, Georgia",53.9
+"Elbert, Georgia",45.5
+"Emanuel, Georgia",45.1
+"Evans, Georgia",44.15
+"Fannin, Georgia",50.2
+"Fayette, Georgia",60.7
+"Floyd, Georgia",48.2
+"Forsyth, Georgia",60.7
+"Franklin, Georgia",46.349999999999994
+"Fulton, Georgia",59.45
+"Gilmer, Georgia",48.099999999999994
+"Glascock, Georgia",44.8
+"Glynn, Georgia",54.35
+"Gordon, Georgia",48.05
+"Grady, Georgia",47.0
+"Greene, Georgia",44.65
+"Gwinnett, Georgia",56.4
+"Habersham, Georgia",50.2
+"Hall, Georgia",49.35
+"Hancock, Georgia",42.75
+"Haralson, Georgia",42.9
+"Harris, Georgia",54.55
+"Hart, Georgia",48.2
+"Heard, Georgia",41.5
+"Henry, Georgia",54.0
+"Houston, Georgia",54.599999999999994
+"Irwin, Georgia",45.6
+"Jackson, Georgia",52.099999999999994
+"Jasper, Georgia",48.75
+"Jeff Davis, Georgia",45.25
+"Jefferson, Georgia",42.1
+"Jenkins, Georgia",39.0
+"Johnson, Georgia",40.1
+"Jones, Georgia",52.55
+"Lamar, Georgia",45.55
+"Lanier, Georgia",43.95
+"Laurens, Georgia",46.8
+"Lee, Georgia",54.900000000000006
+"Liberty, Georgia",53.5
+"Lincoln, Georgia",46.9
+"Long, Georgia",46.35
+"Lowndes, Georgia",49.8
+"Lumpkin, Georgia",51.45
+"Macon, Georgia",41.05
+"Madison, Georgia",47.45
+"Marion, Georgia",44.75
+"McDuffie, Georgia",42.95
+"McIntosh, Georgia",45.15
+"Meriwether, Georgia",41.55
+"Miller, Georgia",45.85
+"Mitchell, Georgia",41.3
+"Monroe, Georgia",47.75
+"Montgomery, Georgia",49.3
+"Morgan, Georgia",50.45
+"Murray, Georgia",40.2
+"Muscogee, Georgia",50.75
+"Newton, Georgia",49.5
+"Oconee, Georgia",60.2
+"Oglethorpe, Georgia",47.349999999999994
+"Paulding, Georgia",54.5
+"Peach, Georgia",47.35
+"Pickens, Georgia",52.55
+"Pierce, Georgia",44.15
+"Pike, Georgia",48.95
+"Polk, Georgia",45.55
+"Pulaski, Georgia",42.7
+"Putnam, Georgia",52.599999999999994
+"Quitman, Georgia",36.8
+"Rabun, Georgia",55.25
+"Randolph, Georgia",39.95
+"Richmond, Georgia",49.2
+"Rockdale, Georgia",52.3
+"Schley, Georgia",40.45
+"Screven, Georgia",42.349999999999994
+"Seminole, Georgia",48.150000000000006
+"Spalding, Georgia",43.2
+"Stephens, Georgia",49.849999999999994
+"Stewart, Georgia",42.0
+"Sumter, Georgia",45.599999999999994
+"Talbot, Georgia",43.9
+"Taliaferro, Georgia",33.85
+"Tattnall, Georgia",43.45
+"Taylor, Georgia",40.55
+"Telfair, Georgia",42.2
+"Terrell, Georgia",36.25
+"Thomas, Georgia",52.349999999999994
+"Tift, Georgia",48.15
+"Toombs, Georgia",50.349999999999994
+"Towns, Georgia",53.65
+"Treutlen, Georgia",43.05
+"Troup, Georgia",48.8
+"Turner, Georgia",39.55
+"Twiggs, Georgia",36.2
+"Union, Georgia",53.150000000000006
+"Upson, Georgia",44.849999999999994
+"Walker, Georgia",45.05
+"Walton, Georgia",49.8
+"Ware, Georgia",46.3
+"Warren, Georgia",40.8
+"Washington, Georgia",45.8
+"Wayne, Georgia",48.05
+"Webster, Georgia",48.1
+"Wheeler, Georgia",43.5
+"White, Georgia",53.15
+"Whitfield, Georgia",41.95
+"Wilcox, Georgia",42.349999999999994
+"Wilkes, Georgia",42.4
+"Wilkinson, Georgia",46.35
+"Worth, Georgia",46.2
+"Hawaii, Hawaii",65.55
+"Honolulu, Hawaii",62.15
+"Kalawao, Hawaii",67.15
+"Kauai, Hawaii",68.65
+"Maui, Hawaii",67.15
+"Ada, Idaho",64.3
+"Adams, Idaho",55.650000000000006
+"Bannock, Idaho",60.400000000000006
+"Bear Lake, Idaho",59.349999999999994
+"Benewah, Idaho",55.849999999999994
+"Bingham, Idaho",54.0
+"Blaine, Idaho",66.1
+"Boise, Idaho",57.349999999999994
+"Bonner, Idaho",63.15
+"Bonneville, Idaho",60.25
+"Boundary, Idaho",55.0
+"Butte, Idaho",58.1
+"Camas, Idaho",55.85
+"Canyon, Idaho",54.849999999999994
+"Caribou, Idaho",58.0
+"Cassia, Idaho",52.65
+"Clark, Idaho",47.75
+"Clearwater, Idaho",56.25
+"Custer, Idaho",58.849999999999994
+"Elmore, Idaho",58.8
+"Franklin, Idaho",59.25
+"Fremont, Idaho",58.25
+"Gem, Idaho",54.8
+"Gooding, Idaho",51.85
+"Idaho, Idaho",57.9
+"Jefferson, Idaho",52.35
+"Jerome, Idaho",48.7
+"Kootenai, Idaho",63.949999999999996
+"Latah, Idaho",61.85
+"Lemhi, Idaho",58.8
+"Lewis, Idaho",56.900000000000006
+"Lincoln, Idaho",52.85
+"Madison, Idaho",57.2
+"Minidoka, Idaho",49.8
+"Nez Perce, Idaho",57.1
+"Oneida, Idaho",60.0
+"Owyhee, Idaho",50.650000000000006
+"Payette, Idaho",55.7
+"Power, Idaho",55.4
+"Shoshone, Idaho",52.349999999999994
+"Teton, Idaho",61.05
+"Twin Falls, Idaho",58.2
+"Valley, Idaho",60.8
+"Washington, Idaho",51.35
+"Adams, Illinois",55.85
+"Alexander, Illinois",42.599999999999994
+"Bond, Illinois",53.55
+"Boone, Illinois",55.599999999999994
+"Brown, Illinois",48.95
+"Bureau, Illinois",52.8
+"Calhoun, Illinois",52.5
+"Carroll, Illinois",54.85
+"Cass, Illinois",50.55
+"Champaign, Illinois",57.5
+"Christian, Illinois",51.35
+"Clark, Illinois",53.849999999999994
+"Clay, Illinois",51.45
+"Clinton, Illinois",51.0
+"Coles, Illinois",56.25
+"Cook, Illinois",53.45
+"Crawford, Illinois",50.4
+"Cumberland, Illinois",53.2
+"De Witt, Illinois",54.0
+"DeKalb, Illinois",58.1
+"Douglas, Illinois",49.55
+"DuPage, Illinois",62.150000000000006
+"Edgar, Illinois",52.15
+"Edwards, Illinois",52.099999999999994
+"Effingham, Illinois",57.3
+"Fayette, Illinois",50.2
+"Ford, Illinois",51.25
+"Franklin, Illinois",48.9
+"Fulton, Illinois",49.900000000000006
+"Gallatin, Illinois",46.05
+"Greene, Illinois",52.45
+"Grundy, Illinois",53.4
+"Hamilton, Illinois",48.4
+"Hancock, Illinois",55.3
+"Hardin, Illinois",46.85
+"Henderson, Illinois",52.75
+"Henry, Illinois",53.25
+"Iroquois, Illinois",52.65
+"Jackson, Illinois",53.25
+"Jasper, Illinois",54.55
+"Jefferson, Illinois",50.7
+"Jersey, Illinois",53.0
+"Jo Daviess, Illinois",55.85
+"Johnson, Illinois",47.85
+"Kane, Illinois",52.8
+"Kankakee, Illinois",50.9
+"Kendall, Illinois",58.85
+"Knox, Illinois",50.15
+"La Salle, Illinois",53.15
+"Lake, Illinois",57.7
+"Lawrence, Illinois",47.150000000000006
+"Lee, Illinois",50.55
+"Livingston, Illinois",49.2
+"Logan, Illinois",51.95
+"Macon, Illinois",52.15
+"Macoupin, Illinois",53.2
+"Madison, Illinois",55.900000000000006
+"Marion, Illinois",49.85
+"Marshall, Illinois",54.3
+"Mason, Illinois",52.099999999999994
+"Massac, Illinois",48.05
+"McDonough, Illinois",54.85
+"McHenry, Illinois",58.3
+"McLean, Illinois",57.15
+"Menard, Illinois",55.2
+"Mercer, Illinois",51.95
+"Monroe, Illinois",55.7
+"Montgomery, Illinois",50.85
+"Morgan, Illinois",51.1
+"Moultrie, Illinois",49.85
+"Ogle, Illinois",53.5
+"Peoria, Illinois",54.65
+"Perry, Illinois",48.75
+"Piatt, Illinois",55.6
+"Pike, Illinois",52.45
+"Pope, Illinois",52.35
+"Pulaski, Illinois",44.8
+"Putnam, Illinois",52.1
+"Randolph, Illinois",49.2
+"Richland, Illinois",52.7
+"Rock Island, Illinois",52.75
+"Saline, Illinois",48.1
+"Sangamon, Illinois",54.5
+"Schuyler, Illinois",53.85
+"Scott, Illinois",54.8
+"Shelby, Illinois",53.75
+"St. Clair, Illinois",51.849999999999994
+"Stark, Illinois",53.7
+"Stephenson, Illinois",55.45
+"Tazewell, Illinois",54.55
+"Union, Illinois",49.3
+"Vermilion, Illinois",50.8
+"Wabash, Illinois",50.65
+"Warren, Illinois",51.85
+"Washington, Illinois",52.150000000000006
+"Wayne, Illinois",49.45
+"White, Illinois",50.7
+"Whiteside, Illinois",51.55
+"Will, Illinois",55.45
+"Williamson, Illinois",53.8
+"Winnebago, Illinois",54.2
+"Woodford, Illinois",57.5
+"Adams, Indiana",48.2
+"Allen, Indiana",54.0
+"Bartholomew, Indiana",50.15
+"Benton, Indiana",53.65
+"Blackford, Indiana",48.3
+"Boone, Indiana",53.65
+"Brown, Indiana",54.599999999999994
+"Carroll, Indiana",50.599999999999994
+"Cass, Indiana",49.45
+"Clark, Indiana",48.5
+"Clay, Indiana",50.400000000000006
+"Clinton, Indiana",47.6
+"Crawford, Indiana",47.0
+"Daviess, Indiana",44.95
+"Dearborn, Indiana",53.45
+"Decatur, Indiana",48.25
+"DeKalb, Indiana",55.05
+"Delaware, Indiana",45.9
+"Dubois, Indiana",52.05
+"Elkhart, Indiana",48.900000000000006
+"Fayette, Indiana",44.45
+"Floyd, Indiana",48.45
+"Fountain, Indiana",48.35
+"Franklin, Indiana",52.25
+"Fulton, Indiana",52.75
+"Gibson, Indiana",49.55
+"Grant, Indiana",48.400000000000006
+"Greene, Indiana",49.05
+"Hamilton, Indiana",56.65
+"Hancock, Indiana",52.400000000000006
+"Harrison, Indiana",47.05
+"Hendricks, Indiana",53.7
+"Henry, Indiana",46.349999999999994
+"Howard, Indiana",48.55
+"Huntington, Indiana",46.849999999999994
+"Jackson, Indiana",49.85
+"Jasper, Indiana",49.25
+"Jay, Indiana",45.85
+"Jefferson, Indiana",48.2
+"Jennings, Indiana",47.95
+"Johnson, Indiana",50.7
+"Knox, Indiana",47.4
+"Kosciusko, Indiana",50.3
+"LaGrange, Indiana",43.0
+"Lake, Indiana",48.8
+"LaPorte, Indiana",51.0
+"Lawrence, Indiana",49.55
+"Madison, Indiana",46.849999999999994
+"Marion, Indiana",47.900000000000006
+"Marshall, Indiana",51.55
+"Martin, Indiana",49.5
+"Miami, Indiana",47.95
+"Monroe, Indiana",56.75
+"Montgomery, Indiana",48.599999999999994
+"Morgan, Indiana",49.2
+"Newton, Indiana",50.05
+"Noble, Indiana",49.7
+"Ohio, Indiana",49.900000000000006
+"Orange, Indiana",46.05
+"Owen, Indiana",47.099999999999994
+"Parke, Indiana",46.8
+"Perry, Indiana",48.3
+"Pike, Indiana",50.349999999999994
+"Porter, Indiana",50.1
+"Posey, Indiana",52.25
+"Pulaski, Indiana",48.8
+"Putnam, Indiana",48.65
+"Randolph, Indiana",44.5
+"Ripley, Indiana",50.099999999999994
+"Rush, Indiana",48.349999999999994
+"Scott, Indiana",43.2
+"Shelby, Indiana",48.8
+"Spencer, Indiana",51.25
+"St. Joseph, Indiana",53.35
+"Starke, Indiana",45.0
+"Steuben, Indiana",55.2
+"Sullivan, Indiana",47.349999999999994
+"Switzerland, Indiana",45.7
+"Tippecanoe, Indiana",55.05
+"Tipton, Indiana",51.3
+"Union, Indiana",51.8
+"Vanderburgh, Indiana",48.95
+"Vermillion, Indiana",50.7
+"Vigo, Indiana",47.05
+"Wabash, Indiana",50.7
+"Warren, Indiana",48.15
+"Warrick, Indiana",56.3
+"Washington, Indiana",44.5
+"Wayne, Indiana",47.400000000000006
+"Wells, Indiana",49.75
+"White, Indiana",52.0
+"Whitley, Indiana",55.15
+"Adair, Iowa",54.95
+"Adams, Iowa",53.95
+"Allamakee, Iowa",54.7
+"Appanoose, Iowa",53.6
+"Audubon, Iowa",52.150000000000006
+"Benton, Iowa",53.650000000000006
+"Black Hawk, Iowa",51.9
+"Boone, Iowa",53.2
+"Bremer, Iowa",57.55
+"Buchanan, Iowa",51.4
+"Buena Vista, Iowa",51.75
+"Butler, Iowa",52.55
+"Calhoun, Iowa",55.35
+"Carroll, Iowa",51.55
+"Cass, Iowa",52.3
+"Cedar, Iowa",53.349999999999994
+"Cerro Gordo, Iowa",54.95
+"Cherokee, Iowa",54.85
+"Chickasaw, Iowa",54.15
+"Clarke, Iowa",53.1
+"Clay, Iowa",54.9
+"Clayton, Iowa",55.0
+"Clinton, Iowa",50.650000000000006
+"Crawford, Iowa",47.099999999999994
+"Dallas, Iowa",54.75
+"Davis, Iowa",51.55
+"Decatur, Iowa",50.65
+"Delaware, Iowa",52.85
+"Des Moines, Iowa",51.25
+"Dickinson, Iowa",57.5
+"Dubuque, Iowa",56.900000000000006
+"Emmet, Iowa",52.8
+"Fayette, Iowa",54.15
+"Floyd, Iowa",53.95
+"Franklin, Iowa",49.9
+"Fremont, Iowa",56.25
+"Greene, Iowa",50.900000000000006
+"Grundy, Iowa",55.0
+"Guthrie, Iowa",54.95
+"Hamilton, Iowa",54.25
+"Hancock, Iowa",54.45
+"Hardin, Iowa",54.45
+"Harrison, Iowa",51.95
+"Henry, Iowa",52.7
+"Howard, Iowa",53.15
+"Humboldt, Iowa",53.0
+"Ida, Iowa",53.55
+"Iowa, Iowa",54.65
+"Jackson, Iowa",56.7
+"Jasper, Iowa",52.0
+"Jefferson, Iowa",59.55
+"Johnson, Iowa",59.8
+"Jones, Iowa",56.8
+"Keokuk, Iowa",53.55
+"Kossuth, Iowa",53.900000000000006
+"Lee, Iowa",53.099999999999994
+"Linn, Iowa",53.8
+"Louisa, Iowa",49.55
+"Lucas, Iowa",52.55
+"Lyon, Iowa",52.05
+"Madison, Iowa",55.3
+"Mahaska, Iowa",52.45
+"Marion, Iowa",51.95
+"Marshall, Iowa",50.7
+"Mills, Iowa",55.75
+"Mitchell, Iowa",54.45
+"Monona, Iowa",51.4
+"Monroe, Iowa",53.0
+"Montgomery, Iowa",52.1
+"Muscatine, Iowa",50.099999999999994
+"OBrien, Iowa",52.45
+"Osceola, Iowa",51.7
+"Page, Iowa",54.099999999999994
+"Palo Alto, Iowa",53.150000000000006
+"Plymouth, Iowa",51.4
+"Pocahontas, Iowa",55.95
+"Polk, Iowa",52.9
+"Pottawattamie, Iowa",51.6
+"Poweshiek, Iowa",55.65
+"Ringgold, Iowa",54.349999999999994
+"Sac, Iowa",54.25
+"Scott, Iowa",55.75
+"Shelby, Iowa",51.85
+"Sioux, Iowa",49.05
+"Story, Iowa",56.7
+"Tama, Iowa",50.75
+"Taylor, Iowa",53.5
+"Union, Iowa",53.599999999999994
+"Van Buren, Iowa",54.8
+"Wapello, Iowa",49.3
+"Warren, Iowa",51.9
+"Washington, Iowa",53.2
+"Wayne, Iowa",54.0
+"Webster, Iowa",52.25
+"Winnebago, Iowa",54.8
+"Winneshiek, Iowa",56.25
+"Woodbury, Iowa",48.05
+"Worth, Iowa",55.2
+"Wright, Iowa",53.05
+"Allen, Kansas",52.3
+"Anderson, Kansas",50.1
+"Atchison, Kansas",49.45
+"Barber, Kansas",55.6
+"Barton, Kansas",50.05
+"Bourbon, Kansas",51.6
+"Brown, Kansas",53.7
+"Butler, Kansas",50.35
+"Chase, Kansas",53.4
+"Chautauqua, Kansas",50.25
+"Cherokee, Kansas",49.25
+"Cheyenne, Kansas",54.2
+"Clark, Kansas",57.35
+"Clay, Kansas",54.65
+"Cloud, Kansas",53.7
+"Coffey, Kansas",55.3
+"Comanche, Kansas",54.75
+"Cowley, Kansas",49.4
+"Crawford, Kansas",48.3
+"Decatur, Kansas",56.650000000000006
+"Dickinson, Kansas",49.099999999999994
+"Doniphan, Kansas",52.65
+"Douglas, Kansas",57.599999999999994
+"Edwards, Kansas",52.55
+"Elk, Kansas",53.45
+"Ellis, Kansas",53.7
+"Ellsworth, Kansas",56.55
+"Finney, Kansas",47.25
+"Ford, Kansas",44.099999999999994
+"Franklin, Kansas",50.7
+"Geary, Kansas",53.35
+"Gove, Kansas",57.15
+"Graham, Kansas",55.2
+"Grant, Kansas",54.55
+"Gray, Kansas",46.95
+"Greeley, Kansas",55.95
+"Greenwood, Kansas",54.650000000000006
+"Hamilton, Kansas",51.55
+"Harper, Kansas",51.5
+"Harvey, Kansas",48.349999999999994
+"Haskell, Kansas",46.7
+"Hodgeman, Kansas",56.599999999999994
+"Jackson, Kansas",55.2
+"Jefferson, Kansas",55.05
+"Jewell, Kansas",56.05
+"Johnson, Kansas",57.15
+"Kearny, Kansas",49.95
+"Kingman, Kansas",51.650000000000006
+"Kiowa, Kansas",57.3
+"Labette, Kansas",47.3
+"Lane, Kansas",54.95
+"Leavenworth, Kansas",51.099999999999994
+"Lincoln, Kansas",55.3
+"Linn, Kansas",50.95
+"Logan, Kansas",55.55
+"Lyon, Kansas",48.85
+"Marion, Kansas",52.25
+"Marshall, Kansas",54.2
+"McPherson, Kansas",51.9
+"Meade, Kansas",53.65
+"Miami, Kansas",55.400000000000006
+"Mitchell, Kansas",55.2
+"Montgomery, Kansas",51.05
+"Morris, Kansas",54.400000000000006
+"Morton, Kansas",54.25
+"Nemaha, Kansas",57.05
+"Neosho, Kansas",47.7
+"Ness, Kansas",57.4
+"Norton, Kansas",53.95
+"Osage, Kansas",50.95
+"Osborne, Kansas",53.7
+"Ottawa, Kansas",53.400000000000006
+"Pawnee, Kansas",56.3
+"Phillips, Kansas",55.099999999999994
+"Pottawatomie, Kansas",54.25
+"Pratt, Kansas",53.4
+"Rawlins, Kansas",56.9
+"Reno, Kansas",52.85
+"Republic, Kansas",58.0
+"Rice, Kansas",56.5
+"Riley, Kansas",57.6
+"Rooks, Kansas",55.349999999999994
+"Rush, Kansas",53.55
+"Russell, Kansas",54.9
+"Saline, Kansas",52.75
+"Scott, Kansas",55.0
+"Sedgwick, Kansas",49.0
+"Seward, Kansas",42.150000000000006
+"Shawnee, Kansas",53.25
+"Sheridan, Kansas",57.3
+"Sherman, Kansas",53.8
+"Smith, Kansas",53.6
+"Stafford, Kansas",53.599999999999994
+"Stanton, Kansas",47.45
+"Stevens, Kansas",53.2
+"Sumner, Kansas",50.3
+"Thomas, Kansas",55.8
+"Trego, Kansas",55.0
+"Wabaunsee, Kansas",55.5
+"Wallace, Kansas",54.55
+"Washington, Kansas",53.15
+"Wichita, Kansas",51.75
+"Wilson, Kansas",48.1
+"Woodson, Kansas",53.35
+"Wyandotte, Kansas",40.8
+"Adair, Kentucky",42.0
+"Allen, Kentucky",43.849999999999994
+"Anderson, Kentucky",49.849999999999994
+"Ballard, Kentucky",48.599999999999994
+"Barren, Kentucky",46.6
+"Bath, Kentucky",41.5
+"Bell, Kentucky",42.15
+"Boone, Kentucky",53.6
+"Bourbon, Kentucky",48.55
+"Boyd, Kentucky",46.15
+"Boyle, Kentucky",50.900000000000006
+"Bracken, Kentucky",44.849999999999994
+"Breathitt, Kentucky",37.2
+"Breckinridge, Kentucky",42.7
+"Bullitt, Kentucky",44.900000000000006
+"Butler, Kentucky",42.3
+"Caldwell, Kentucky",49.75
+"Calloway, Kentucky",53.15
+"Campbell, Kentucky",53.650000000000006
+"Carlisle, Kentucky",49.1
+"Carroll, Kentucky",44.1
+"Carter, Kentucky",41.2
+"Casey, Kentucky",36.5
+"Christian, Kentucky",47.45
+"Clark, Kentucky",46.8
+"Clay, Kentucky",35.349999999999994
+"Clinton, Kentucky",34.900000000000006
+"Crittenden, Kentucky",44.5
+"Cumberland, Kentucky",41.5
+"Daviess, Kentucky",52.650000000000006
+"Edmonson, Kentucky",44.900000000000006
+"Elliott, Kentucky",42.8
+"Estill, Kentucky",41.55
+"Fayette, Kentucky",52.5
+"Fleming, Kentucky",44.1
+"Floyd, Kentucky",38.599999999999994
+"Franklin, Kentucky",51.05
+"Fulton, Kentucky",43.45
+"Gallatin, Kentucky",42.3
+"Garrard, Kentucky",46.55
+"Grant, Kentucky",49.650000000000006
+"Graves, Kentucky",46.25
+"Grayson, Kentucky",39.85
+"Green, Kentucky",45.05
+"Greenup, Kentucky",45.15
+"Hancock, Kentucky",50.75
+"Hardin, Kentucky",49.349999999999994
+"Harlan, Kentucky",38.4
+"Harrison, Kentucky",49.05
+"Hart, Kentucky",38.849999999999994
+"Henderson, Kentucky",46.099999999999994
+"Henry, Kentucky",48.3
+"Hickman, Kentucky",43.9
+"Hopkins, Kentucky",46.1
+"Jackson, Kentucky",37.35
+"Jefferson, Kentucky",51.5
+"Jessamine, Kentucky",46.7
+"Johnson, Kentucky",40.8
+"Kenton, Kentucky",52.05
+"Knott, Kentucky",37.7
+"Knox, Kentucky",38.9
+"Larue, Kentucky",44.400000000000006
+"Laurel, Kentucky",43.55
+"Lawrence, Kentucky",43.1
+"Lee, Kentucky",39.5
+"Leslie, Kentucky",34.7
+"Letcher, Kentucky",39.4
+"Lewis, Kentucky",39.1
+"Lincoln, Kentucky",44.0
+"Livingston, Kentucky",46.6
+"Logan, Kentucky",43.55
+"Lyon, Kentucky",49.9
+"Madison, Kentucky",49.35
+"Magoffin, Kentucky",37.0
+"Marion, Kentucky",47.400000000000006
+"Marshall, Kentucky",54.099999999999994
+"Martin, Kentucky",36.349999999999994
+"Mason, Kentucky",44.25
+"McCracken, Kentucky",50.5
+"McCreary, Kentucky",42.35
+"McLean, Kentucky",44.75
+"Meade, Kentucky",49.15
+"Menifee, Kentucky",40.349999999999994
+"Mercer, Kentucky",48.3
+"Metcalfe, Kentucky",39.95
+"Monroe, Kentucky",41.3
+"Montgomery, Kentucky",46.7
+"Morgan, Kentucky",44.55
+"Muhlenberg, Kentucky",44.2
+"Nelson, Kentucky",46.45
+"Nicholas, Kentucky",43.45
+"Ohio, Kentucky",43.95
+"Oldham, Kentucky",57.8
+"Owen, Kentucky",49.45
+"Owsley, Kentucky",32.25
+"Pendleton, Kentucky",48.25
+"Perry, Kentucky",42.45
+"Pike, Kentucky",41.4
+"Powell, Kentucky",41.35
+"Pulaski, Kentucky",46.25
+"Robertson, Kentucky",40.7
+"Rockcastle, Kentucky",38.8
+"Rowan, Kentucky",47.900000000000006
+"Russell, Kentucky",41.8
+"Scott, Kentucky",52.75
+"Shelby, Kentucky",50.349999999999994
+"Simpson, Kentucky",45.15
+"Spencer, Kentucky",48.2
+"Taylor, Kentucky",43.55
+"Todd, Kentucky",40.9
+"Trigg, Kentucky",45.849999999999994
+"Trimble, Kentucky",49.150000000000006
+"Union, Kentucky",46.45
+"Warren, Kentucky",50.75
+"Washington, Kentucky",45.25
+"Wayne, Kentucky",39.7
+"Webster, Kentucky",44.55
+"Whitley, Kentucky",42.5
+"Wolfe, Kentucky",34.150000000000006
+"Woodford, Kentucky",51.2
+"Acadia, Louisiana",40.75
+"Allen, Louisiana",40.05
+"Ascension, Louisiana",49.8
+"Assumption, Louisiana",40.650000000000006
+"Avoyelles, Louisiana",41.35
+"Beauregard, Louisiana",45.099999999999994
+"Bienville, Louisiana",43.8
+"Bossier, Louisiana",51.25
+"Caddo, Louisiana",42.05
+"Calcasieu, Louisiana",45.4
+"Caldwell, Louisiana",45.95
+"Cameron, Louisiana",45.05
+"Catahoula, Louisiana",38.6
+"Claiborne, Louisiana",41.75
+"Concordia, Louisiana",39.05
+"De Soto, Louisiana",43.55
+"East Baton Rouge, Louisiana",51.599999999999994
+"East Carroll, Louisiana",35.65
+"East Feliciana, Louisiana",46.5
+"Evangeline, Louisiana",40.1
+"Franklin, Louisiana",39.85
+"Grant, Louisiana",46.05
+"Iberia, Louisiana",42.95
+"Iberville, Louisiana",38.75
+"Jackson, Louisiana",45.95
+"Jefferson, Louisiana",47.45
+"Jefferson Davis, Louisiana",43.7
+"La Salle, Louisiana",46.3
+"Lafayette, Louisiana",50.5
+"Lafourche, Louisiana",44.05
+"Lincoln, Louisiana",51.95
+"Livingston, Louisiana",46.45
+"Madison, Louisiana",41.5
+"Morehouse, Louisiana",39.7
+"Natchitoches, Louisiana",44.5
+"Orleans, Louisiana",47.8
+"Ouachita, Louisiana",43.150000000000006
+"Plaquemines, Louisiana",45.95
+"Pointe Coupee, Louisiana",44.25
+"Rapides, Louisiana",44.25
+"Red River, Louisiana",39.3
+"Richland, Louisiana",43.5
+"Sabine, Louisiana",46.3
+"St. Bernard, Louisiana",42.8
+"St. Charles, Louisiana",46.05
+"St. Helena, Louisiana",44.900000000000006
+"St. James, Louisiana",47.05
+"St. John the Baptist, Louisiana",44.65
+"St. Landry, Louisiana",43.2
+"St. Martin, Louisiana",43.05
+"St. Mary, Louisiana",42.2
+"St. Tammany, Louisiana",53.65
+"Tangipahoa, Louisiana",45.5
+"Tensas, Louisiana",39.8
+"Terrebonne, Louisiana",43.15
+"Union, Louisiana",44.5
+"Vermilion, Louisiana",47.0
+"Vernon, Louisiana",47.45
+"Washington, Louisiana",40.35
+"Webster, Louisiana",43.65
+"West Baton Rouge, Louisiana",48.2
+"West Carroll, Louisiana",42.55
+"West Feliciana, Louisiana",40.15
+"Winn, Louisiana",41.099999999999994
+"Androscoggin, Maine",55.900000000000006
+"Aroostook, Maine",52.5
+"Cumberland, Maine",66.1
+"Franklin, Maine",59.1
+"Hancock, Maine",62.75
+"Kennebec, Maine",58.45
+"Knox, Maine",61.55
+"Lincoln, Maine",63.25
+"Oxford, Maine",56.849999999999994
+"Penobscot, Maine",55.15
+"Piscataquis, Maine",56.400000000000006
+"Sagadahoc, Maine",64.35
+"Somerset, Maine",54.05
+"Waldo, Maine",59.95
+"Washington, Maine",52.55
+"York, Maine",61.9
+"Allegany, Maryland",53.05
+"Anne Arundel, Maryland",53.2
+"Baltimore, Maryland",52.45
+"Baltimore City, Maryland",44.650000000000006
+"Calvert, Maryland",55.75
+"Caroline, Maryland",48.5
+"Carroll, Maryland",55.150000000000006
+"Cecil, Maryland",52.7
+"Charles, Maryland",54.0
+"Dorchester, Maryland",48.1
+"Frederick, Maryland",52.9
+"Garrett, Maryland",52.1
+"Harford, Maryland",54.849999999999994
+"Howard, Maryland",59.4
+"Kent, Maryland",53.85
+"Montgomery, Maryland",59.75
+"Prince Georges, Maryland",52.75
+"Queen Annes, Maryland",54.65
+"Somerset, Maryland",44.05
+"St. Marys, Maryland",56.15
+"Talbot, Maryland",59.7
+"Washington, Maryland",50.849999999999994
+"Wicomico, Maryland",52.3
+"Worcester, Maryland",54.400000000000006
+"Barnstable, Massachusetts",67.75
+"Berkshire, Massachusetts",58.05
+"Bristol, Massachusetts",53.9
+"Dukes, Massachusetts",63.4
+"Essex, Massachusetts",58.25
+"Franklin, Massachusetts",61.900000000000006
+"Hampden, Massachusetts",53.8
+"Hampshire, Massachusetts",61.8
+"Middlesex, Massachusetts",57.5
+"Nantucket, Massachusetts",61.55
+"Norfolk, Massachusetts",60.400000000000006
+"Plymouth, Massachusetts",57.2
+"Suffolk, Massachusetts",56.9
+"Worcester, Massachusetts",56.05
+"Alcona, Michigan",55.15
+"Alger, Michigan",55.75
+"Allegan, Michigan",56.8
+"Alpena, Michigan",57.1
+"Antrim, Michigan",57.5
+"Arenac, Michigan",47.95
+"Baraga, Michigan",54.6
+"Barry, Michigan",57.9
+"Bay, Michigan",50.7
+"Benzie, Michigan",58.150000000000006
+"Berrien, Michigan",52.3
+"Branch, Michigan",53.400000000000006
+"Calhoun, Michigan",55.650000000000006
+"Cass, Michigan",52.0
+"Charlevoix, Michigan",62.8
+"Cheboygan, Michigan",59.150000000000006
+"Chippewa, Michigan",57.3
+"Clare, Michigan",53.0
+"Clinton, Michigan",59.1
+"Crawford, Michigan",53.650000000000006
+"Delta, Michigan",57.2
+"Dickinson, Michigan",61.0
+"Eaton, Michigan",57.900000000000006
+"Emmet, Michigan",65.8
+"Genesee, Michigan",49.25
+"Gladwin, Michigan",51.75
+"Gogebic, Michigan",60.5
+"Grand Traverse, Michigan",59.1
+"Gratiot, Michigan",55.3
+"Hillsdale, Michigan",54.5
+"Houghton, Michigan",60.099999999999994
+"Huron, Michigan",51.95
+"Ingham, Michigan",58.400000000000006
+"Ionia, Michigan",55.95
+"Iosco, Michigan",53.8
+"Iron, Michigan",58.25
+"Isabella, Michigan",59.5
+"Jackson, Michigan",55.6
+"Kalamazoo, Michigan",58.35
+"Kalkaska, Michigan",52.45
+"Kent, Michigan",58.05
+"Keweenaw, Michigan",60.75
+"Lake, Michigan",50.5
+"Lapeer, Michigan",56.2
+"Leelanau, Michigan",64.05
+"Lenawee, Michigan",56.45
+"Livingston, Michigan",60.849999999999994
+"Luce, Michigan",54.05
+"Mackinac, Michigan",57.65
+"Macomb, Michigan",56.55
+"Manistee, Michigan",53.0
+"Marquette, Michigan",63.1
+"Mason, Michigan",56.5
+"Mecosta, Michigan",56.85
+"Menominee, Michigan",53.35
+"Midland, Michigan",57.75
+"Missaukee, Michigan",52.5
+"Monroe, Michigan",56.7
+"Montcalm, Michigan",55.5
+"Montmorency, Michigan",53.95
+"Muskegon, Michigan",53.7
+"Newaygo, Michigan",54.95
+"Oakland, Michigan",58.599999999999994
+"Oceana, Michigan",55.05
+"Ogemaw, Michigan",51.75
+"Ontonagon, Michigan",59.05
+"Osceola, Michigan",53.5
+"Oscoda, Michigan",51.5
+"Otsego, Michigan",58.35
+"Ottawa, Michigan",59.5
+"Presque Isle, Michigan",55.95
+"Roscommon, Michigan",51.55
+"Saginaw, Michigan",53.55
+"Sanilac, Michigan",55.3
+"Schoolcraft, Michigan",56.2
+"Shiawassee, Michigan",55.45
+"St. Clair, Michigan",57.2
+"St. Joseph, Michigan",50.849999999999994
+"Tuscola, Michigan",50.3
+"Van Buren, Michigan",53.3
+"Washtenaw, Michigan",62.35
+"Wayne, Michigan",51.8
+"Wexford, Michigan",53.2
+"Aitkin, Minnesota",57.650000000000006
+"Anoka, Minnesota",57.2
+"Becker, Minnesota",55.1
+"Beltrami, Minnesota",55.45
+"Benton, Minnesota",55.45
+"Big Stone, Minnesota",56.15
+"Blue Earth, Minnesota",56.3
+"Brown, Minnesota",57.1
+"Carlton, Minnesota",57.05
+"Carver, Minnesota",59.900000000000006
+"Cass, Minnesota",58.2
+"Chippewa, Minnesota",54.35
+"Chisago, Minnesota",57.2
+"Clay, Minnesota",55.7
+"Clearwater, Minnesota",51.75
+"Cook, Minnesota",59.55
+"Cottonwood, Minnesota",54.15
+"Crow Wing, Minnesota",57.95
+"Dakota, Minnesota",60.45
+"Dodge, Minnesota",55.0
+"Douglas, Minnesota",57.55
+"Faribault, Minnesota",54.45
+"Fillmore, Minnesota",56.1
+"Freeborn, Minnesota",52.599999999999994
+"Goodhue, Minnesota",54.05
+"Grant, Minnesota",55.8
+"Hennepin, Minnesota",61.25
+"Houston, Minnesota",56.9
+"Hubbard, Minnesota",56.85
+"Isanti, Minnesota",56.8
+"Itasca, Minnesota",59.55
+"Jackson, Minnesota",56.349999999999994
+"Kanabec, Minnesota",54.3
+"Kandiyohi, Minnesota",57.3
+"Kittson, Minnesota",55.85
+"Koochiching, Minnesota",56.5
+"Lac qui Parle, Minnesota",56.0
+"Lake, Minnesota",59.05
+"Lake of the Woods, Minnesota",55.55
+"Le Sueur, Minnesota",56.75
+"Lincoln, Minnesota",55.7
+"Lyon, Minnesota",58.2
+"Mahnomen, Minnesota",50.7
+"Marshall, Minnesota",53.85
+"Martin, Minnesota",53.2
+"McLeod, Minnesota",56.599999999999994
+"Meeker, Minnesota",55.75
+"Mille Lacs, Minnesota",55.4
+"Morrison, Minnesota",53.95
+"Mower, Minnesota",53.8
+"Murray, Minnesota",56.75
+"Nicollet, Minnesota",59.150000000000006
+"Nobles, Minnesota",50.8
+"Norman, Minnesota",54.150000000000006
+"Olmsted, Minnesota",55.8
+"Otter Tail, Minnesota",55.35
+"Pennington, Minnesota",53.8
+"Pine, Minnesota",54.400000000000006
+"Pipestone, Minnesota",50.95
+"Polk, Minnesota",53.650000000000006
+"Pope, Minnesota",57.55
+"Ramsey, Minnesota",59.2
+"Red Lake, Minnesota",53.900000000000006
+"Redwood, Minnesota",56.400000000000006
+"Renville, Minnesota",55.15
+"Rice, Minnesota",55.45
+"Rock, Minnesota",54.349999999999994
+"Roseau, Minnesota",54.150000000000006
+"Scott, Minnesota",57.2
+"Sherburne, Minnesota",55.6
+"Sibley, Minnesota",53.0
+"St. Louis, Minnesota",61.25
+"Stearns, Minnesota",54.8
+"Steele, Minnesota",55.099999999999994
+"Stevens, Minnesota",58.3
+"Swift, Minnesota",54.65
+"Todd, Minnesota",52.7
+"Traverse, Minnesota",55.599999999999994
+"Wabasha, Minnesota",54.849999999999994
+"Wadena, Minnesota",53.4
+"Waseca, Minnesota",56.8
+"Washington, Minnesota",60.349999999999994
+"Watonwan, Minnesota",51.95
+"Wilkin, Minnesota",54.3
+"Winona, Minnesota",59.7
+"Wright, Minnesota",58.85
+"Yellow Medicine, Minnesota",56.35
+"Adams, Mississippi",43.15
+"Alcorn, Mississippi",40.7
+"Amite, Mississippi",44.05
+"Attala, Mississippi",40.7
+"Benton, Mississippi",39.8
+"Bolivar, Mississippi",42.35
+"Calhoun, Mississippi",38.3
+"Carroll, Mississippi",45.15
+"Chickasaw, Mississippi",39.85
+"Choctaw, Mississippi",44.2
+"Claiborne, Mississippi",43.900000000000006
+"Clarke, Mississippi",40.05
+"Clay, Mississippi",44.95
+"Coahoma, Mississippi",39.75
+"Copiah, Mississippi",41.0
+"Covington, Mississippi",39.7
+"DeSoto, Mississippi",47.5
+"Forrest, Mississippi",43.5
+"Franklin, Mississippi",43.1
+"George, Mississippi",46.349999999999994
+"Greene, Mississippi",42.45
+"Grenada, Mississippi",42.9
+"Hancock, Mississippi",48.25
+"Harrison, Mississippi",44.05
+"Hinds, Mississippi",42.75
+"Holmes, Mississippi",37.2
+"Humphreys, Mississippi",34.4
+"Issaquena, Mississippi",31.5
+"Itawamba, Mississippi",39.849999999999994
+"Jackson, Mississippi",45.75
+"Jasper, Mississippi",39.95
+"Jefferson, Mississippi",38.4
+"Jefferson Davis, Mississippi",38.55
+"Jones, Mississippi",41.2
+"Kemper, Mississippi",38.7
+"Lafayette, Mississippi",47.0
+"Lamar, Mississippi",48.45
+"Lauderdale, Mississippi",43.25
+"Lawrence, Mississippi",44.75
+"Leake, Mississippi",38.4
+"Lee, Mississippi",45.75
+"Leflore, Mississippi",37.2
+"Lincoln, Mississippi",46.05
+"Lowndes, Mississippi",44.8
+"Madison, Mississippi",50.95
+"Marion, Mississippi",42.7
+"Marshall, Mississippi",36.05
+"Monroe, Mississippi",42.2
+"Montgomery, Mississippi",39.849999999999994
+"Neshoba, Mississippi",40.75
+"Newton, Mississippi",43.35
+"Noxubee, Mississippi",34.15
+"Oktibbeha, Mississippi",51.65
+"Panola, Mississippi",38.7
+"Pearl River, Mississippi",45.8
+"Perry, Mississippi",44.2
+"Pike, Mississippi",44.349999999999994
+"Pontotoc, Mississippi",42.7
+"Prentiss, Mississippi",42.7
+"Quitman, Mississippi",34.1
+"Rankin, Mississippi",49.2
+"Scott, Mississippi",36.35
+"Sharkey, Mississippi",39.75
+"Simpson, Mississippi",40.2
+"Smith, Mississippi",41.4
+"Stone, Mississippi",46.4
+"Sunflower, Mississippi",36.05
+"Tallahatchie, Mississippi",35.2
+"Tate, Mississippi",43.7
+"Tippah, Mississippi",39.7
+"Tishomingo, Mississippi",45.25
+"Tunica, Mississippi",37.25
+"Union, Mississippi",41.75
+"Walthall, Mississippi",41.5
+"Warren, Mississippi",43.55
+"Washington, Mississippi",36.3
+"Wayne, Mississippi",40.3
+"Webster, Mississippi",44.35
+"Wilkinson, Mississippi",39.4
+"Winston, Mississippi",41.9
+"Yalobusha, Mississippi",43.25
+"Yazoo, Mississippi",39.900000000000006
+"Adair, Missouri",51.0
+"Andrew, Missouri",54.7
+"Atchison, Missouri",54.15
+"Audrain, Missouri",51.4
+"Barry, Missouri",50.55
+"Barton, Missouri",51.8
+"Bates, Missouri",47.45
+"Benton, Missouri",49.849999999999994
+"Bollinger, Missouri",47.150000000000006
+"Boone, Missouri",58.25
+"Buchanan, Missouri",49.7
+"Butler, Missouri",45.8
+"Caldwell, Missouri",51.4
+"Callaway, Missouri",53.75
+"Camden, Missouri",57.05
+"Cape Girardeau, Missouri",50.55
+"Carroll, Missouri",48.65
+"Carter, Missouri",45.1
+"Cass, Missouri",53.4
+"Cedar, Missouri",53.0
+"Chariton, Missouri",50.25
+"Christian, Missouri",56.45
+"Clark, Missouri",53.15
+"Clay, Missouri",51.4
+"Clinton, Missouri",51.9
+"Cole, Missouri",53.1
+"Cooper, Missouri",52.3
+"Crawford, Missouri",47.7
+"Dade, Missouri",51.9
+"Dallas, Missouri",47.85
+"Daviess, Missouri",51.0
+"DeKalb, Missouri",51.1
+"Dent, Missouri",47.6
+"Douglas, Missouri",47.7
+"Dunklin, Missouri",39.05
+"Franklin, Missouri",50.45
+"Gasconade, Missouri",50.95
+"Gentry, Missouri",51.0
+"Greene, Missouri",57.05
+"Grundy, Missouri",51.35
+"Harrison, Missouri",49.9
+"Henry, Missouri",49.85
+"Hickory, Missouri",51.35
+"Holt, Missouri",55.45
+"Howard, Missouri",51.6
+"Howell, Missouri",51.05
+"Iron, Missouri",46.2
+"Jackson, Missouri",51.8
+"Jasper, Missouri",51.5
+"Jefferson, Missouri",52.099999999999994
+"Johnson, Missouri",50.95
+"Knox, Missouri",52.650000000000006
+"Laclede, Missouri",51.7
+"Lafayette, Missouri",50.45
+"Lawrence, Missouri",48.25
+"Lewis, Missouri",51.45
+"Lincoln, Missouri",49.3
+"Linn, Missouri",53.7
+"Livingston, Missouri",51.85
+"Macon, Missouri",50.65
+"Madison, Missouri",46.65
+"Maries, Missouri",49.9
+"Marion, Missouri",48.05
+"McDonald, Missouri",47.85
+"Mercer, Missouri",54.35
+"Miller, Missouri",49.0
+"Mississippi, Missouri",36.15
+"Moniteau, Missouri",49.75
+"Monroe, Missouri",52.3
+"Montgomery, Missouri",48.099999999999994
+"Morgan, Missouri",48.8
+"New Madrid, Missouri",41.85
+"Newton, Missouri",53.7
+"Nodaway, Missouri",51.55
+"Oregon, Missouri",47.0
+"Osage, Missouri",55.45
+"Ozark, Missouri",47.55
+"Pemiscot, Missouri",38.55
+"Perry, Missouri",50.2
+"Pettis, Missouri",47.3
+"Phelps, Missouri",54.0
+"Pike, Missouri",46.5
+"Platte, Missouri",55.85
+"Polk, Missouri",52.55
+"Pulaski, Missouri",56.25
+"Putnam, Missouri",52.150000000000006
+"Ralls, Missouri",53.95
+"Randolph, Missouri",48.8
+"Ray, Missouri",48.0
+"Reynolds, Missouri",45.0
+"Ripley, Missouri",43.900000000000006
+"Saline, Missouri",47.55
+"Schuyler, Missouri",53.1
+"Scotland, Missouri",47.05
+"Scott, Missouri",44.35
+"Shannon, Missouri",47.2
+"Shelby, Missouri",54.349999999999994
+"St. Charles, Missouri",53.85
+"St. Clair, Missouri",51.9
+"St. Francois, Missouri",48.15
+"St. Genevieve, Missouri",50.2
+"St. Louis, Missouri",54.45
+"St. Louis City, Missouri",48.95
+"Stoddard, Missouri",45.8
+"Stone, Missouri",50.75
+"Sullivan, Missouri",50.900000000000006
+"Taney, Missouri",52.15
+"Texas, Missouri",49.05
+"Vernon, Missouri",50.45
+"Warren, Missouri",48.75
+"Washington, Missouri",41.150000000000006
+"Wayne, Missouri",44.25
+"Webster, Missouri",50.4
+"Worth, Missouri",51.5
+"Wright, Missouri",47.15
+"Beaverhead, Montana",60.15
+"Big Horn, Montana",51.35
+"Blaine, Montana",50.2
+"Broadwater, Montana",58.45
+"Carbon, Montana",60.6
+"Carter, Montana",56.5
+"Cascade, Montana",53.95
+"Chouteau, Montana",55.7
+"Custer, Montana",55.4
+"Daniels, Montana",61.3
+"Dawson, Montana",55.8
+"Deer Lodge, Montana",55.45
+"Fallon, Montana",54.75
+"Fergus, Montana",56.45
+"Flathead, Montana",63.45
+"Gallatin County and Yellowstone National Park, Montana",66.15
+"Garfield, Montana",55.099999999999994
+"Glacier, Montana",49.3
+"Golden Valley, Montana",53.7
+"Granite, Montana",62.7
+"Hill, Montana",51.0
+"Jefferson, Montana",60.25
+"Judith Basin, Montana",59.8
+"Lake, Montana",60.3
+"Lewis and Clark, Montana",63.050000000000004
+"Liberty, Montana",42.7
+"Lincoln, Montana",59.65
+"Madison, Montana",60.05
+"McCone, Montana",59.05
+"Meagher, Montana",56.35
+"Mineral, Montana",56.8
+"Missoula, Montana",65.3
+"Musselshell, Montana",54.8
+"Park, Montana",65.3
+"Petroleum, Montana",58.6
+"Phillips, Montana",56.45
+"Pondera, Montana",56.150000000000006
+"Powder River, Montana",57.8
+"Powell, Montana",60.75
+"Prairie, Montana",52.75
+"Ravalli, Montana",67.05
+"Richland, Montana",53.2
+"Roosevelt, Montana",51.5
+"Rosebud, Montana",55.5
+"Sanders, Montana",60.2
+"Sheridan, Montana",56.4
+"Silver Bow, Montana",56.95
+"Stillwater, Montana",61.6
+"Sweet Grass, Montana",61.05
+"Teton, Montana",57.849999999999994
+"Toole, Montana",54.95
+"Treasure, Montana",56.25
+"Valley, Montana",55.95
+"Wheatland, Montana",52.2
+"Wibaux, Montana",51.3
+"Yellowstone, Montana",54.2
+"Adams, Nebraska",54.6
+"Antelope, Nebraska",57.45
+"Arthur, Nebraska",60.400000000000006
+"Banner, Nebraska",56.7
+"Blaine, Nebraska",61.05
+"Boone, Nebraska",57.6
+"Box Butte, Nebraska",55.55
+"Boyd, Nebraska",56.3
+"Brown, Nebraska",56.8
+"Buffalo, Nebraska",52.849999999999994
+"Burt, Nebraska",54.65
+"Butler, Nebraska",54.8
+"Cass, Nebraska",50.650000000000006
+"Cedar, Nebraska",56.4
+"Chase, Nebraska",57.95
+"Cherry, Nebraska",57.15
+"Cheyenne, Nebraska",59.75
+"Clay, Nebraska",55.7
+"Colfax, Nebraska",46.599999999999994
+"Cuming, Nebraska",54.55
+"Custer, Nebraska",57.05
+"Dakota, Nebraska",44.65
+"Dawes, Nebraska",57.0
+"Dawson, Nebraska",48.1
+"Deuel, Nebraska",57.0
+"Dixon, Nebraska",52.65
+"Dodge, Nebraska",51.45
+"Douglas, Nebraska",51.3
+"Dundy, Nebraska",58.849999999999994
+"Fillmore, Nebraska",57.5
+"Franklin, Nebraska",56.85
+"Frontier, Nebraska",58.650000000000006
+"Furnas, Nebraska",54.05
+"Gage, Nebraska",50.45
+"Garden, Nebraska",57.099999999999994
+"Garfield, Nebraska",57.2
+"Gosper, Nebraska",60.15
+"Grant, Nebraska",59.0
+"Greeley, Nebraska",57.85
+"Hall, Nebraska",48.400000000000006
+"Hamilton, Nebraska",56.8
+"Harlan, Nebraska",56.7
+"Hayes, Nebraska",55.65
+"Hitchcock, Nebraska",56.4
+"Holt, Nebraska",56.7
+"Hooker, Nebraska",59.5
+"Howard, Nebraska",55.45
+"Jefferson, Nebraska",52.7
+"Johnson, Nebraska",52.599999999999994
+"Kearney, Nebraska",57.1
+"Keith, Nebraska",55.349999999999994
+"Keya Paha, Nebraska",57.7
+"Kimball, Nebraska",57.099999999999994
+"Knox, Nebraska",54.5
+"Lancaster, Nebraska",54.95
+"Lincoln, Nebraska",53.5
+"Logan, Nebraska",60.3
+"Loup, Nebraska",58.099999999999994
+"Madison, Nebraska",54.2
+"McPherson, Nebraska",56.900000000000006
+"Merrick, Nebraska",54.849999999999994
+"Morrill, Nebraska",53.55
+"Nance, Nebraska",54.75
+"Nemaha, Nebraska",56.6
+"Nuckolls, Nebraska",57.45
+"Otoe, Nebraska",54.099999999999994
+"Pawnee, Nebraska",55.3
+"Perkins, Nebraska",58.4
+"Phelps, Nebraska",58.15
+"Pierce, Nebraska",57.1
+"Platte, Nebraska",55.3
+"Polk, Nebraska",57.45
+"Red Willow, Nebraska",57.3
+"Richardson, Nebraska",56.8
+"Rock, Nebraska",58.0
+"Saline, Nebraska",49.05
+"Sarpy, Nebraska",53.3
+"Saunders, Nebraska",52.349999999999994
+"Scotts Bluff, Nebraska",52.15
+"Seward, Nebraska",55.55
+"Sheridan, Nebraska",56.65
+"Sherman, Nebraska",54.1
+"Sioux, Nebraska",59.3
+"Stanton, Nebraska",57.599999999999994
+"Thayer, Nebraska",53.95
+"Thomas, Nebraska",58.8
+"Thurston, Nebraska",50.35
+"Valley, Nebraska",57.6
+"Washington, Nebraska",57.25
+"Wayne, Nebraska",57.599999999999994
+"Webster, Nebraska",56.349999999999994
+"Wheeler, Nebraska",60.9
+"York, Nebraska",53.55
+"Carson City, Nevada",61.849999999999994
+"Churchill, Nevada",55.099999999999994
+"Clark, Nevada",51.2
+"Douglas, Nevada",64.25
+"Elko, Nevada",55.7
+"Esmeralda, Nevada",51.7
+"Eureka, Nevada",57.85
+"Humboldt, Nevada",55.400000000000006
+"Lander, Nevada",50.35
+"Lincoln, Nevada",52.8
+"Lyon, Nevada",55.75
+"Mineral, Nevada",54.2
+"Nye, Nevada",52.3
+"Pershing, Nevada",54.25
+"Storey, Nevada",61.3
+"Washoe, Nevada",63.4
+"White Pine, Nevada",54.55
+"Belknap, New Hampshire",63.5
+"Carroll, New Hampshire",64.15
+"Cheshire, New Hampshire",64.5
+"Coos, New Hampshire",57.2
+"Grafton, New Hampshire",65.8
+"Hillsborough, New Hampshire",56.2
+"Merrimack, New Hampshire",59.7
+"Rockingham, New Hampshire",60.05
+"Strafford, New Hampshire",56.6
+"Sullivan, New Hampshire",60.05
+"Atlantic, New Jersey",56.8
+"Bergen, New Jersey",55.95
+"Burlington, New Jersey",57.7
+"Camden, New Jersey",50.25
+"Cape May, New Jersey",59.05
+"Cumberland, New Jersey",49.45
+"Essex, New Jersey",49.75
+"Gloucester, New Jersey",54.2
+"Hudson, New Jersey",47.85
+"Hunterdon, New Jersey",63.25
+"Mercer, New Jersey",55.7
+"Middlesex, New Jersey",53.099999999999994
+"Monmouth, New Jersey",58.900000000000006
+"Morris, New Jersey",60.65
+"Ocean, New Jersey",55.75
+"Passaic, New Jersey",50.849999999999994
+"Salem, New Jersey",50.45
+"Somerset, New Jersey",57.2
+"Sussex, New Jersey",56.45
+"Union, New Jersey",49.45
+"Warren, New Jersey",56.3
+"Bernalillo, New Mexico",57.3
+"Catron, New Mexico",57.55
+"Chaves, New Mexico",50.6
+"Cibola, New Mexico",52.349999999999994
+"Colfax, New Mexico",57.55
+"Curry, New Mexico",49.25
+"De Baca, New Mexico",50.0
+"Dona Ana, New Mexico",55.15
+"Eddy, New Mexico",49.35
+"Grant, New Mexico",58.8
+"Guadalupe, New Mexico",56.849999999999994
+"Harding, New Mexico",59.4
+"Hidalgo, New Mexico",55.5
+"Lea, New Mexico",45.3
+"Lincoln, New Mexico",56.6
+"Los Alamos, New Mexico",68.5
+"Luna, New Mexico",49.2
+"McKinley, New Mexico",53.75
+"Mora, New Mexico",63.15
+"Otero, New Mexico",53.75
+"Quay, New Mexico",50.55
+"Rio Arriba, New Mexico",54.85
+"Roosevelt, New Mexico",48.9
+"San Juan, New Mexico",55.15
+"San Miguel, New Mexico",59.25
+"Sandoval, New Mexico",58.45
+"Santa Fe, New Mexico",65.6
+"Sierra, New Mexico",53.1
+"Socorro, New Mexico",51.8
+"Taos, New Mexico",60.8
+"Torrance, New Mexico",55.0
+"Union, New Mexico",54.5
+"Valencia, New Mexico",54.05
+"Albany, New York",57.15
+"Allegany, New York",53.25
+"Bronx, New York",43.85
+"Broome, New York",56.95
+"Cattaraugus, New York",52.5
+"Cayuga, New York",55.25
+"Chautauqua, New York",54.05
+"Chemung, New York",53.55
+"Chenango, New York",54.1
+"Clinton, New York",55.6
+"Columbia, New York",53.55
+"Cortland, New York",56.8
+"Delaware, New York",55.1
+"Dutchess, New York",57.9
+"Erie, New York",52.900000000000006
+"Essex, New York",59.4
+"Franklin, New York",53.65
+"Fulton, New York",53.6
+"Genesee, New York",53.849999999999994
+"Greene, New York",52.7
+"Hamilton, New York",57.35
+"Herkimer, New York",53.6
+"Jefferson, New York",53.45
+"Kings, New York",48.85
+"Lewis, New York",53.400000000000006
+"Livingston, New York",53.85
+"Madison, New York",56.95
+"Monroe, New York",57.6
+"Montgomery, New York",54.0
+"Nassau, New York",51.65
+"New York, New York",58.3
+"Niagara, New York",54.25
+"Oneida, New York",51.6
+"Onondaga, New York",57.1
+"Ontario, New York",58.5
+"Orange, New York",52.6
+"Orleans, New York",52.0
+"Oswego, New York",52.95
+"Otsego, New York",57.05
+"Putnam, New York",59.150000000000006
+"Queens, New York",50.150000000000006
+"Rensselaer, New York",55.25
+"Richmond, New York",49.45
+"Rockland, New York",52.8
+"Saratoga, New York",60.75
+"Schenectady, New York",56.05
+"Schoharie, New York",56.55
+"Schuyler, New York",53.349999999999994
+"Seneca, New York",49.8
+"St. Lawrence, New York",54.15
+"Steuben, New York",53.25
+"Suffolk, New York",54.55
+"Sullivan, New York",53.25
+"Tioga, New York",56.9
+"Tompkins, New York",61.85
+"Ulster, New York",57.150000000000006
+"Warren, New York",58.95
+"Washington, New York",54.849999999999994
+"Wayne, New York",56.1
+"Westchester, New York",58.3
+"Wyoming, New York",52.55
+"Yates, New York",50.849999999999994
+"Alamance, North Carolina",51.15
+"Alexander, North Carolina",49.95
+"Alleghany, North Carolina",44.7
+"Anson, North Carolina",46.1
+"Ashe, North Carolina",47.4
+"Avery, North Carolina",52.95
+"Beaufort, North Carolina",48.5
+"Bertie, North Carolina",41.5
+"Bladen, North Carolina",44.349999999999994
+"Brunswick, North Carolina",54.8
+"Buncombe, North Carolina",60.7
+"Burke, North Carolina",45.7
+"Cabarrus, North Carolina",52.6
+"Caldwell, North Carolina",49.4
+"Camden, North Carolina",57.35
+"Carteret, North Carolina",52.65
+"Caswell, North Carolina",47.0
+"Catawba, North Carolina",48.1
+"Chatham, North Carolina",56.150000000000006
+"Cherokee, North Carolina",49.6
+"Chowan, North Carolina",43.75
+"Clay, North Carolina",52.25
+"Cleveland, North Carolina",47.45
+"Columbus, North Carolina",45.7
+"Craven, North Carolina",50.25
+"Cumberland, North Carolina",49.15
+"Currituck, North Carolina",53.85
+"Dare, North Carolina",58.25
+"Davidson, North Carolina",45.900000000000006
+"Davie, North Carolina",52.3
+"Duplin, North Carolina",40.85
+"Durham, North Carolina",56.3
+"Edgecombe, North Carolina",43.9
+"Forsyth, North Carolina",51.7
+"Franklin, North Carolina",46.5
+"Gaston, North Carolina",48.9
+"Gates, North Carolina",49.0
+"Graham, North Carolina",48.45
+"Granville, North Carolina",49.099999999999994
+"Greene, North Carolina",42.2
+"Guilford, North Carolina",54.849999999999994
+"Halifax, North Carolina",40.65
+"Harnett, North Carolina",48.650000000000006
+"Haywood, North Carolina",55.9
+"Henderson, North Carolina",58.75
+"Hertford, North Carolina",41.55
+"Hoke, North Carolina",48.25
+"Hyde, North Carolina",46.05
+"Iredell, North Carolina",52.2
+"Jackson, North Carolina",53.45
+"Johnston, North Carolina",50.75
+"Jones, North Carolina",47.0
+"Lee, North Carolina",49.25
+"Lenoir, North Carolina",42.2
+"Lincoln, North Carolina",51.75
+"Macon, North Carolina",54.8
+"Madison, North Carolina",49.75
+"Martin, North Carolina",46.85
+"McDowell, North Carolina",47.65
+"Mecklenburg, North Carolina",55.3
+"Mitchell, North Carolina",49.349999999999994
+"Montgomery, North Carolina",43.2
+"Moore, North Carolina",52.3
+"Nash, North Carolina",46.2
+"New Hanover, North Carolina",56.75
+"Northampton, North Carolina",39.1
+"Onslow, North Carolina",52.65
+"Orange, North Carolina",60.2
+"Pamlico, North Carolina",50.15
+"Pasquotank, North Carolina",47.55
+"Pender, North Carolina",51.849999999999994
+"Perquimans, North Carolina",51.65
+"Person, North Carolina",50.5
+"Pitt, North Carolina",48.849999999999994
+"Polk, North Carolina",58.75
+"Randolph, North Carolina",49.3
+"Richmond, North Carolina",45.05
+"Robeson, North Carolina",39.3
+"Rockingham, North Carolina",45.4
+"Rowan, North Carolina",47.6
+"Rutherford, North Carolina",46.75
+"Sampson, North Carolina",44.5
+"Scotland, North Carolina",47.35
+"Stanly, North Carolina",48.45
+"Stokes, North Carolina",48.55
+"Surry, North Carolina",46.3
+"Swain, North Carolina",48.7
+"Transylvania, North Carolina",59.55
+"Tyrrell, North Carolina",43.2
+"Union, North Carolina",55.25
+"Vance, North Carolina",44.25
+"Wake, North Carolina",54.150000000000006
+"Warren, North Carolina",42.95
+"Washington, North Carolina",45.7
+"Watauga, North Carolina",56.05
+"Wayne, North Carolina",43.0
+"Wilkes, North Carolina",47.150000000000006
+"Wilson, North Carolina",40.4
+"Yadkin, North Carolina",47.95
+"Yancey, North Carolina",52.2
+"Adams, North Dakota",57.35
+"Barnes, North Dakota",55.45
+"Benson, North Dakota",48.95
+"Billings, North Dakota",57.45
+"Bottineau, North Dakota",54.0
+"Bowman, North Dakota",55.6
+"Burke, North Dakota",55.900000000000006
+"Burleigh, North Dakota",54.9
+"Cass, North Dakota",54.25
+"Cavalier, North Dakota",54.15
+"Dickey, North Dakota",53.900000000000006
+"Divide, North Dakota",55.4
+"Dunn, North Dakota",54.900000000000006
+"Eddy, North Dakota",53.05
+"Emmons, North Dakota",49.150000000000006
+"Foster, North Dakota",56.0
+"Golden Valley, North Dakota",58.0
+"Grand Forks, North Dakota",55.85
+"Grant, North Dakota",53.5
+"Griggs, North Dakota",55.0
+"Hettinger, North Dakota",53.25
+"Kidder, North Dakota",48.599999999999994
+"LaMoure, North Dakota",55.3
+"Logan, North Dakota",46.7
+"McHenry, North Dakota",53.400000000000006
+"McIntosh, North Dakota",44.2
+"McKenzie, North Dakota",54.8
+"McLean, North Dakota",54.65
+"Mercer, North Dakota",53.35
+"Morton, North Dakota",51.7
+"Mountrail, North Dakota",54.5
+"Nelson, North Dakota",56.099999999999994
+"Oliver, North Dakota",52.9
+"Pembina, North Dakota",56.45
+"Pierce, North Dakota",51.7
+"Ramsey, North Dakota",53.0
+"Ransom, North Dakota",54.6
+"Renville, North Dakota",56.2
+"Richland, North Dakota",52.55
+"Rolette, North Dakota",49.05
+"Sargent, North Dakota",54.65
+"Sheridan, North Dakota",50.25
+"Sioux, North Dakota",46.1
+"Slope, North Dakota",55.6
+"Stark, North Dakota",51.849999999999994
+"Steele, North Dakota",55.599999999999994
+"Stutsman, North Dakota",50.15
+"Towner, North Dakota",56.3
+"Traill, North Dakota",55.849999999999994
+"Walsh, North Dakota",52.0
+"Ward, North Dakota",49.45
+"Wells, North Dakota",53.2
+"Williams, North Dakota",49.65
+"Adams, Ohio",45.349999999999994
+"Allen, Ohio",47.900000000000006
+"Ashland, Ohio",52.849999999999994
+"Ashtabula, Ohio",53.8
+"Athens, Ohio",52.849999999999994
+"Auglaize, Ohio",49.75
+"Belmont, Ohio",48.099999999999994
+"Brown, Ohio",47.599999999999994
+"Butler, Ohio",55.2
+"Carroll, Ohio",49.75
+"Champaign, Ohio",50.6
+"Clark, Ohio",50.8
+"Clermont, Ohio",52.400000000000006
+"Clinton, Ohio",51.95
+"Columbiana, Ohio",49.1
+"Coshocton, Ohio",52.3
+"Crawford, Ohio",47.05
+"Cuyahoga, Ohio",53.95
+"Darke, Ohio",48.55
+"Defiance, Ohio",52.95
+"Delaware, Ohio",59.1
+"Erie, Ohio",52.5
+"Fairfield, Ohio",54.3
+"Fayette, Ohio",44.8
+"Franklin, Ohio",52.650000000000006
+"Fulton, Ohio",54.599999999999994
+"Gallia, Ohio",44.650000000000006
+"Geauga, Ohio",58.3
+"Greene, Ohio",57.099999999999994
+"Guernsey, Ohio",50.45
+"Hamilton, Ohio",52.75
+"Hancock, Ohio",52.5
+"Hardin, Ohio",47.75
+"Harrison, Ohio",50.1
+"Henry, Ohio",53.1
+"Highland, Ohio",45.8
+"Hocking, Ohio",52.1
+"Holmes, Ohio",33.150000000000006
+"Huron, Ohio",49.25
+"Jackson, Ohio",45.05
+"Jefferson, Ohio",49.05
+"Knox, Ohio",52.849999999999994
+"Lake, Ohio",58.55
+"Lawrence, Ohio",47.55
+"Licking, Ohio",53.8
+"Logan, Ohio",48.7
+"Lorain, Ohio",53.9
+"Lucas, Ohio",54.35
+"Madison, Ohio",49.05
+"Mahoning, Ohio",53.9
+"Marion, Ohio",46.95
+"Medina, Ohio",60.25
+"Meigs, Ohio",47.650000000000006
+"Mercer, Ohio",51.900000000000006
+"Miami, Ohio",52.45
+"Monroe, Ohio",50.1
+"Montgomery, Ohio",54.25
+"Morgan, Ohio",49.4
+"Morrow, Ohio",49.9
+"Muskingum, Ohio",51.35
+"Noble, Ohio",45.3
+"Ottawa, Ohio",54.15
+"Paulding, Ohio",50.05
+"Perry, Ohio",49.75
+"Pickaway, Ohio",44.45
+"Pike, Ohio",45.8
+"Portage, Ohio",58.45
+"Preble, Ohio",49.55
+"Putnam, Ohio",52.7
+"Richland, Ohio",49.15
+"Ross, Ohio",47.150000000000006
+"Sandusky, Ohio",50.0
+"Scioto, Ohio",50.2
+"Seneca, Ohio",48.35
+"Shelby, Ohio",50.7
+"Stark, Ohio",54.45
+"Summit, Ohio",55.349999999999994
+"Trumbull, Ohio",54.1
+"Tuscarawas, Ohio",53.8
+"Union, Ohio",54.05
+"Van Wert, Ohio",52.15
+"Vinton, Ohio",44.25
+"Warren, Ohio",57.2
+"Washington, Ohio",52.5
+"Wayne, Ohio",50.85
+"Williams, Ohio",57.0
+"Wood, Ohio",56.349999999999994
+"Wyandot, Ohio",49.65
+"Adair, Oklahoma",43.35
+"Alfalfa, Oklahoma",50.05
+"Atoka, Oklahoma",49.8
+"Beaver, Oklahoma",51.4
+"Beckham, Oklahoma",50.7
+"Blaine, Oklahoma",44.95
+"Bryan, Oklahoma",49.05
+"Caddo, Oklahoma",47.0
+"Canadian, Oklahoma",47.75
+"Carter, Oklahoma",47.1
+"Cherokee, Oklahoma",49.400000000000006
+"Choctaw, Oklahoma",45.15
+"Cimarron, Oklahoma",48.400000000000006
+"Cleveland, Oklahoma",52.95
+"Coal, Oklahoma",46.15
+"Comanche, Oklahoma",51.3
+"Cotton, Oklahoma",50.7
+"Craig, Oklahoma",45.849999999999994
+"Creek, Oklahoma",47.6
+"Custer, Oklahoma",51.7
+"Delaware, Oklahoma",47.95
+"Dewey, Oklahoma",53.2
+"Ellis, Oklahoma",54.25
+"Garfield, Oklahoma",50.150000000000006
+"Garvin, Oklahoma",47.95
+"Grady, Oklahoma",50.099999999999994
+"Grant, Oklahoma",53.55
+"Greer, Oklahoma",46.900000000000006
+"Harmon, Oklahoma",47.95
+"Harper, Oklahoma",52.8
+"Haskell, Oklahoma",43.95
+"Hughes, Oklahoma",43.7
+"Jackson, Oklahoma",50.0
+"Jefferson, Oklahoma",46.45
+"Johnston, Oklahoma",48.5
+"Kay, Oklahoma",47.55
+"Kingfisher, Oklahoma",48.7
+"Kiowa, Oklahoma",51.400000000000006
+"Latimer, Oklahoma",49.2
+"Le Flore, Oklahoma",46.7
+"Lincoln, Oklahoma",43.0
+"Logan, Oklahoma",48.65
+"Love, Oklahoma",50.7
+"Major, Oklahoma",51.900000000000006
+"Marshall, Oklahoma",47.3
+"Mayes, Oklahoma",48.349999999999994
+"McClain, Oklahoma",51.7
+"McCurtain, Oklahoma",44.1
+"McIntosh, Oklahoma",47.95
+"Murray, Oklahoma",47.45
+"Muskogee, Oklahoma",45.05
+"Noble, Oklahoma",50.2
+"Nowata, Oklahoma",46.650000000000006
+"Okfuskee, Oklahoma",44.900000000000006
+"Oklahoma, Oklahoma",46.7
+"Okmulgee, Oklahoma",47.9
+"Osage, Oklahoma",48.05
+"Ottawa, Oklahoma",48.55
+"Pawnee, Oklahoma",48.15
+"Payne, Oklahoma",51.0
+"Pittsburg, Oklahoma",48.95
+"Pontotoc, Oklahoma",48.849999999999994
+"Pottawatomie, Oklahoma",46.45
+"Pushmataha, Oklahoma",46.7
+"Roger Mills, Oklahoma",55.2
+"Rogers, Oklahoma",49.25
+"Seminole, Oklahoma",42.6
+"Sequoyah, Oklahoma",43.400000000000006
+"Stephens, Oklahoma",49.400000000000006
+"Texas, Oklahoma",45.9
+"Tillman, Oklahoma",46.7
+"Tulsa, Oklahoma",50.55
+"Wagoner, Oklahoma",49.25
+"Washington, Oklahoma",50.849999999999994
+"Washita, Oklahoma",52.1
+"Woods, Oklahoma",54.4
+"Woodward, Oklahoma",50.650000000000006
+"Baker, Oregon",57.599999999999994
+"Benton, Oregon",65.94999999999999
+"Clackamas, Oregon",64.25
+"Clatsop, Oregon",60.849999999999994
+"Columbia, Oregon",57.6
+"Coos, Oregon",63.349999999999994
+"Crook, Oregon",59.1
+"Curry, Oregon",62.150000000000006
+"Deschutes, Oregon",67.6
+"Douglas, Oregon",60.25
+"Gilliam, Oregon",56.7
+"Grant, Oregon",59.8
+"Harney, Oregon",60.400000000000006
+"Hood River, Oregon",59.55
+"Jackson, Oregon",65.3
+"Jefferson, Oregon",57.7
+"Josephine, Oregon",63.6
+"Klamath, Oregon",61.65
+"Lake, Oregon",60.4
+"Lane, Oregon",67.35
+"Lincoln, Oregon",61.3
+"Linn, Oregon",57.8
+"Malheur, Oregon",55.0
+"Marion, Oregon",59.25
+"Morrow, Oregon",53.25
+"Multnomah, Oregon",64.0
+"Polk, Oregon",59.65
+"Sherman, Oregon",58.65
+"Tillamook, Oregon",59.150000000000006
+"Umatilla, Oregon",55.65
+"Union, Oregon",59.7
+"Wallowa, Oregon",60.349999999999994
+"Wasco, Oregon",56.55
+"Washington, Oregon",62.900000000000006
+"Wheeler, Oregon",58.150000000000006
+"Yamhill, Oregon",58.05
+"Adams, Pennsylvania",54.9
+"Allegheny, Pennsylvania",54.7
+"Armstrong, Pennsylvania",52.7
+"Beaver, Pennsylvania",52.05
+"Bedford, Pennsylvania",51.25
+"Berks, Pennsylvania",54.05
+"Blair, Pennsylvania",53.349999999999994
+"Bradford, Pennsylvania",55.150000000000006
+"Bucks, Pennsylvania",54.95
+"Butler, Pennsylvania",57.0
+"Cambria, Pennsylvania",50.8
+"Cameron, Pennsylvania",52.9
+"Carbon, Pennsylvania",50.7
+"Centre, Pennsylvania",57.7
+"Chester, Pennsylvania",62.2
+"Clarion, Pennsylvania",52.5
+"Clearfield, Pennsylvania",53.2
+"Clinton, Pennsylvania",51.75
+"Columbia, Pennsylvania",50.3
+"Crawford, Pennsylvania",53.650000000000006
+"Cumberland, Pennsylvania",59.45
+"Dauphin, Pennsylvania",52.3
+"Delaware, Pennsylvania",56.650000000000006
+"Elk, Pennsylvania",54.15
+"Erie, Pennsylvania",51.3
+"Fayette, Pennsylvania",47.5
+"Forest, Pennsylvania",48.099999999999994
+"Franklin, Pennsylvania",50.7
+"Fulton, Pennsylvania",51.150000000000006
+"Greene, Pennsylvania",48.2
+"Huntingdon, Pennsylvania",52.400000000000006
+"Indiana, Pennsylvania",53.55
+"Jefferson, Pennsylvania",50.95
+"Juniata, Pennsylvania",49.45
+"Lackawanna, Pennsylvania",53.9
+"Lancaster, Pennsylvania",51.7
+"Lawrence, Pennsylvania",51.75
+"Lebanon, Pennsylvania",54.45
+"Lehigh, Pennsylvania",53.9
+"Luzerne, Pennsylvania",51.7
+"Lycoming, Pennsylvania",51.05
+"McKean, Pennsylvania",53.75
+"Mercer, Pennsylvania",51.2
+"Mifflin, Pennsylvania",48.35
+"Monroe, Pennsylvania",54.35
+"Montgomery, Pennsylvania",59.650000000000006
+"Montour, Pennsylvania",53.0
+"Northampton, Pennsylvania",54.2
+"Northumberland, Pennsylvania",47.75
+"Perry, Pennsylvania",53.400000000000006
+"Philadelphia, Pennsylvania",46.599999999999994
+"Pike, Pennsylvania",55.6
+"Potter, Pennsylvania",55.2
+"Schuylkill, Pennsylvania",50.0
+"Snyder, Pennsylvania",48.6
+"Somerset, Pennsylvania",50.1
+"Sullivan, Pennsylvania",52.45
+"Susquehanna, Pennsylvania",54.849999999999994
+"Tioga, Pennsylvania",55.55
+"Union, Pennsylvania",49.75
+"Venango, Pennsylvania",51.900000000000006
+"Warren, Pennsylvania",55.15
+"Washington, Pennsylvania",52.599999999999994
+"Wayne, Pennsylvania",54.150000000000006
+"Westmoreland, Pennsylvania",56.900000000000006
+"Wyoming, Pennsylvania",53.849999999999994
+"York, Pennsylvania",54.2
+"Bristol, Rhode Island",57.35
+"Kent, Rhode Island",52.85
+"Newport, Rhode Island",60.65
+"Providence, Rhode Island",49.25
+"Washington, Rhode Island",61.95
+"Abbeville, South Carolina",50.45
+"Aiken, South Carolina",53.2
+"Allendale, South Carolina",40.95
+"Anderson, South Carolina",47.85
+"Bamberg, South Carolina",43.15
+"Barnwell, South Carolina",47.25
+"Beaufort, South Carolina",67.2
+"Berkeley, South Carolina",49.650000000000006
+"Calhoun, South Carolina",46.4
+"Charleston, South Carolina",54.8
+"Cherokee, South Carolina",43.9
+"Chester, South Carolina",45.6
+"Chesterfield, South Carolina",48.8
+"Clarendon, South Carolina",46.85
+"Colleton, South Carolina",49.900000000000006
+"Darlington, South Carolina",50.25
+"Dillon, South Carolina",38.7
+"Dorchester, South Carolina",55.400000000000006
+"Edgefield, South Carolina",48.55
+"Fairfield, South Carolina",45.150000000000006
+"Florence, South Carolina",50.35
+"Georgetown, South Carolina",55.2
+"Greenville, South Carolina",54.0
+"Greenwood, South Carolina",51.05
+"Hampton, South Carolina",44.7
+"Horry, South Carolina",57.150000000000006
+"Jasper, South Carolina",51.7
+"Kershaw, South Carolina",51.349999999999994
+"Lancaster, South Carolina",52.3
+"Laurens, South Carolina",48.65
+"Lee, South Carolina",41.8
+"Lexington, South Carolina",51.75
+"Marion, South Carolina",43.6
+"Marlboro, South Carolina",42.55
+"McCormick, South Carolina",47.05
+"Newberry, South Carolina",45.65
+"Oconee, South Carolina",55.3
+"Orangeburg, South Carolina",50.8
+"Pickens, South Carolina",55.7
+"Richland, South Carolina",52.05
+"Saluda, South Carolina",47.5
+"Spartanburg, South Carolina",49.35
+"Sumter, South Carolina",47.7
+"Union, South Carolina",43.75
+"Williamsburg, South Carolina",43.2
+"York, South Carolina",56.15
+"Aurora, South Dakota",55.349999999999994
+"Beadle, South Dakota",50.2
+"Bennett, South Dakota",49.1
+"Bon Homme, South Dakota",52.55
+"Brookings, South Dakota",55.9
+"Brown, South Dakota",53.9
+"Brule, South Dakota",55.55
+"Buffalo, South Dakota",46.849999999999994
+"Butte, South Dakota",52.9
+"Campbell, South Dakota",52.25
+"Charles Mix, South Dakota",51.650000000000006
+"Clark, South Dakota",52.6
+"Clay, South Dakota",55.45
+"Codington, South Dakota",52.4
+"Corson, South Dakota",51.55
+"Custer, South Dakota",57.4
+"Davison, South Dakota",50.85
+"Day, South Dakota",53.75
+"Deuel, South Dakota",51.45
+"Dewey, South Dakota",46.25
+"Douglas, South Dakota",45.650000000000006
+"Edmunds, South Dakota",52.45
+"Fall River, South Dakota",56.0
+"Faulk, South Dakota",52.8
+"Grant, South Dakota",53.2
+"Gregory, South Dakota",54.15
+"Haakon, South Dakota",57.9
+"Hamlin, South Dakota",53.3
+"Hand, South Dakota",54.0
+"Hanson, South Dakota",53.85
+"Harding, South Dakota",54.95
+"Hughes, South Dakota",54.95
+"Hutchinson, South Dakota",49.25
+"Hyde, South Dakota",53.8
+"Jackson, South Dakota",51.95
+"Jerauld, South Dakota",51.85
+"Jones, South Dakota",56.599999999999994
+"Kingsbury, South Dakota",53.7
+"Lake, South Dakota",54.45
+"Lawrence, South Dakota",55.7
+"Lincoln, South Dakota",51.25
+"Lyman, South Dakota",52.75
+"Marshall, South Dakota",52.900000000000006
+"McCook, South Dakota",56.75
+"McPherson, South Dakota",44.099999999999994
+"Meade, South Dakota",52.900000000000006
+"Mellette, South Dakota",50.0
+"Miner, South Dakota",55.35
+"Minnehaha, South Dakota",48.150000000000006
+"Moody, South Dakota",53.7
+"Pennington, South Dakota",55.0
+"Perkins, South Dakota",54.7
+"Potter, South Dakota",54.9
+"Roberts, South Dakota",53.5
+"Sanborn, South Dakota",52.9
+"Shannon, South Dakota",44.85
+"Spink, South Dakota",52.3
+"Stanley, South Dakota",56.25
+"Sully, South Dakota",58.099999999999994
+"Todd, South Dakota",47.3
+"Tripp, South Dakota",54.45
+"Turner, South Dakota",54.15
+"Union, South Dakota",50.25
+"Walworth, South Dakota",53.55
+"Yankton, South Dakota",53.0
+"Ziebach, South Dakota",47.650000000000006
+"Anderson, Tennessee",47.5
+"Bedford, Tennessee",41.7
+"Benton, Tennessee",42.8
+"Bledsoe, Tennessee",39.3
+"Blount, Tennessee",47.650000000000006
+"Bradley, Tennessee",43.849999999999994
+"Campbell, Tennessee",38.099999999999994
+"Cannon, Tennessee",39.95
+"Carroll, Tennessee",39.75
+"Carter, Tennessee",40.8
+"Cheatham, Tennessee",44.1
+"Chester, Tennessee",40.9
+"Claiborne, Tennessee",40.099999999999994
+"Clay, Tennessee",39.45
+"Cocke, Tennessee",38.75
+"Coffee, Tennessee",44.6
+"Crockett, Tennessee",37.0
+"Cumberland, Tennessee",46.65
+"Davidson, Tennessee",47.95
+"Decatur, Tennessee",40.95
+"DeKalb, Tennessee",39.849999999999994
+"Dickson, Tennessee",45.3
+"Dyer, Tennessee",39.4
+"Fayette, Tennessee",45.35
+"Fentress, Tennessee",38.1
+"Franklin, Tennessee",43.8
+"Gibson, Tennessee",37.7
+"Giles, Tennessee",41.5
+"Grainger, Tennessee",36.8
+"Greene, Tennessee",38.95
+"Grundy, Tennessee",36.55
+"Hamblen, Tennessee",40.900000000000006
+"Hamilton, Tennessee",44.349999999999994
+"Hancock, Tennessee",40.1
+"Hardeman, Tennessee",35.25
+"Hardin, Tennessee",40.75
+"Hawkins, Tennessee",41.7
+"Haywood, Tennessee",36.7
+"Henderson, Tennessee",40.400000000000006
+"Henry, Tennessee",44.65
+"Hickman, Tennessee",41.1
+"Houston, Tennessee",46.099999999999994
+"Humphreys, Tennessee",49.05
+"Jackson, Tennessee",38.0
+"Jefferson, Tennessee",43.150000000000006
+"Johnson, Tennessee",38.7
+"Knox, Tennessee",42.9
+"Lake, Tennessee",35.7
+"Lauderdale, Tennessee",37.849999999999994
+"Lawrence, Tennessee",39.25
+"Lewis, Tennessee",40.7
+"Lincoln, Tennessee",44.45
+"Loudon, Tennessee",46.9
+"Macon, Tennessee",42.3
+"Madison, Tennessee",38.75
+"Marion, Tennessee",40.25
+"Marshall, Tennessee",40.849999999999994
+"Maury, Tennessee",43.55
+"McMinn, Tennessee",43.25
+"McNairy, Tennessee",40.05
+"Meigs, Tennessee",38.4
+"Monroe, Tennessee",42.45
+"Montgomery, Tennessee",47.3
+"Moore, Tennessee",45.45
+"Morgan, Tennessee",44.55
+"Obion, Tennessee",42.4
+"Overton, Tennessee",41.099999999999994
+"Perry, Tennessee",44.25
+"Pickett, Tennessee",44.65
+"Polk, Tennessee",44.0
+"Putnam, Tennessee",44.7
+"Rhea, Tennessee",40.15
+"Roane, Tennessee",43.7
+"Robertson, Tennessee",43.15
+"Rutherford, Tennessee",48.0
+"Scott, Tennessee",41.85
+"Sequatchie, Tennessee",41.900000000000006
+"Sevier, Tennessee",43.0
+"Shelby, Tennessee",40.349999999999994
+"Smith, Tennessee",43.0
+"Stewart, Tennessee",47.900000000000006
+"Sullivan, Tennessee",39.150000000000006
+"Sumner, Tennessee",46.9
+"Tipton, Tennessee",41.8
+"Trousdale, Tennessee",42.45
+"Unicoi, Tennessee",40.75
+"Union, Tennessee",37.4
+"Van Buren, Tennessee",42.2
+"Warren, Tennessee",40.150000000000006
+"Washington, Tennessee",41.9
+"Wayne, Tennessee",42.0
+"Weakley, Tennessee",40.9
+"White, Tennessee",38.75
+"Williamson, Tennessee",51.95
+"Wilson, Tennessee",46.2
+"Anderson, Texas",49.5
+"Andrews, Texas",47.55
+"Angelina, Texas",47.7
+"Aransas, Texas",54.1
+"Archer, Texas",53.45
+"Armstrong, Texas",55.95
+"Atascosa, Texas",50.45
+"Austin, Texas",50.900000000000006
+"Bailey, Texas",47.599999999999994
+"Bandera, Texas",54.349999999999994
+"Bastrop, Texas",53.45
+"Baylor, Texas",54.150000000000006
+"Bee, Texas",49.45
+"Bell, Texas",53.05
+"Bexar, Texas",53.3
+"Blanco, Texas",57.75
+"Borden, Texas",54.75
+"Bosque, Texas",51.25
+"Bowie, Texas",47.55
+"Brazoria, Texas",56.0
+"Brazos, Texas",54.599999999999994
+"Brewster, Texas",55.1
+"Briscoe, Texas",52.0
+"Brooks, Texas",40.5
+"Brown, Texas",50.75
+"Burleson, Texas",46.75
+"Burnet, Texas",54.25
+"Caldwell, Texas",51.8
+"Calhoun, Texas",51.75
+"Callahan, Texas",52.55
+"Cameron, Texas",48.650000000000006
+"Camp, Texas",45.2
+"Carson, Texas",52.55
+"Cass, Texas",45.85
+"Castro, Texas",45.8
+"Chambers, Texas",55.5
+"Cherokee, Texas",44.35
+"Childress, Texas",54.45
+"Clay, Texas",55.0
+"Cochran, Texas",46.45
+"Coke, Texas",54.2
+"Coleman, Texas",48.2
+"Collin, Texas",58.599999999999994
+"Collingsworth, Texas",47.25
+"Colorado, Texas",50.45
+"Comal, Texas",58.8
+"Comanche, Texas",50.25
+"Concho, Texas",53.349999999999994
+"Cooke, Texas",50.15
+"Coryell, Texas",56.15
+"Cottle, Texas",47.25
+"Crane, Texas",46.4
+"Crockett, Texas",40.45
+"Crosby, Texas",47.8
+"Culberson, Texas",43.4
+"Dallam, Texas",49.2
+"Dallas, Texas",48.150000000000006
+"Dawson, Texas",44.35
+"Deaf Smith, Texas",46.7
+"Delta, Texas",49.8
+"Denton, Texas",57.599999999999994
+"DeWitt, Texas",46.85
+"Dickens, Texas",48.2
+"Dimmit, Texas",42.3
+"Donley, Texas",51.8
+"Duval, Texas",47.400000000000006
+"Eastland, Texas",48.15
+"Ector, Texas",44.85
+"Edwards, Texas",47.85
+"El Paso, Texas",51.2
+"Ellis, Texas",52.5
+"Erath, Texas",52.1
+"Falls, Texas",44.45
+"Fannin, Texas",48.95
+"Fayette, Texas",49.3
+"Fisher, Texas",52.15
+"Floyd, Texas",47.9
+"Foard, Texas",46.95
+"Fort Bend, Texas",54.65
+"Franklin, Texas",50.7
+"Freestone, Texas",48.25
+"Frio, Texas",46.099999999999994
+"Gaines, Texas",39.85
+"Galveston, Texas",55.5
+"Garza, Texas",40.65
+"Gillespie, Texas",54.75
+"Glasscock, Texas",53.599999999999994
+"Goliad, Texas",55.599999999999994
+"Gonzales, Texas",44.5
+"Gray, Texas",47.400000000000006
+"Grayson, Texas",52.7
+"Gregg, Texas",49.9
+"Grimes, Texas",48.8
+"Guadalupe, Texas",56.25
+"Hale, Texas",44.15
+"Hall, Texas",47.35
+"Hamilton, Texas",52.65
+"Hansford, Texas",47.95
+"Hardeman, Texas",51.05
+"Hardin, Texas",49.849999999999994
+"Harris, Texas",52.3
+"Harrison, Texas",49.75
+"Hartley, Texas",49.4
+"Haskell, Texas",49.25
+"Hays, Texas",59.7
+"Hemphill, Texas",52.65
+"Henderson, Texas",47.45
+"Hidalgo, Texas",45.849999999999994
+"Hill, Texas",48.6
+"Hockley, Texas",48.3
+"Hood, Texas",54.650000000000006
+"Hopkins, Texas",47.650000000000006
+"Houston, Texas",46.15
+"Howard, Texas",44.400000000000006
+"Hudspeth, Texas",39.2
+"Hunt, Texas",49.3
+"Hutchinson, Texas",48.4
+"Irion, Texas",51.349999999999994
+"Jack, Texas",50.599999999999994
+"Jackson, Texas",49.25
+"Jasper, Texas",47.5
+"Jeff Davis, Texas",57.0
+"Jefferson, Texas",52.400000000000006
+"Jim Hogg, Texas",47.0
+"Jim Wells, Texas",47.6
+"Johnson, Texas",52.099999999999994
+"Jones, Texas",41.400000000000006
+"Karnes, Texas",45.3
+"Kaufman, Texas",51.3
+"Kendall, Texas",58.1
+"Kenedy, Texas",52.2
+"Kent, Texas",57.2
+"Kerr, Texas",54.25
+"Kimble, Texas",49.1
+"King, Texas",54.2
+"Kinney, Texas",49.349999999999994
+"Kleberg, Texas",52.3
+"Knox, Texas",47.8
+"La Salle, Texas",38.2
+"Lamar, Texas",48.05
+"Lamb, Texas",48.3
+"Lampasas, Texas",53.8
+"Lavaca, Texas",47.65
+"Lee, Texas",50.15
+"Leon, Texas",47.1
+"Liberty, Texas",47.55
+"Limestone, Texas",46.2
+"Lipscomb, Texas",51.8
+"Live Oak, Texas",50.35
+"Llano, Texas",54.400000000000006
+"Loving, Texas",57.95
+"Lubbock, Texas",50.6
+"Lynn, Texas",49.5
+"Madison, Texas",46.95
+"Marion, Texas",45.5
+"Martin, Texas",47.15
+"Mason, Texas",51.5
+"Matagorda, Texas",50.2
+"Maverick, Texas",41.05
+"McCulloch, Texas",50.25
+"McLennan, Texas",50.099999999999994
+"McMullen, Texas",50.2
+"Medina, Texas",52.05
+"Menard, Texas",52.849999999999994
+"Midland, Texas",49.75
+"Milam, Texas",50.25
+"Mills, Texas",49.95
+"Mitchell, Texas",49.2
+"Montague, Texas",50.45
+"Montgomery, Texas",55.5
+"Moore, Texas",48.0
+"Morris, Texas",46.849999999999994
+"Motley, Texas",53.55
+"Nacogdoches, Texas",49.3
+"Navarro, Texas",45.150000000000006
+"Newton, Texas",45.099999999999994
+"Nolan, Texas",47.7
+"Nueces, Texas",52.650000000000006
+"Ochiltree, Texas",45.7
+"Oldham, Texas",50.55
+"Orange, Texas",48.099999999999994
+"Palo Pinto, Texas",47.7
+"Panola, Texas",47.2
+"Parker, Texas",53.9
+"Parmer, Texas",44.5
+"Pecos, Texas",44.2
+"Polk, Texas",45.849999999999994
+"Potter, Texas",46.2
+"Presidio, Texas",42.15
+"Rains, Texas",49.0
+"Randall, Texas",57.0
+"Reagan, Texas",43.6
+"Real, Texas",46.25
+"Red River, Texas",40.3
+"Reeves, Texas",39.849999999999994
+"Refugio, Texas",50.35
+"Roberts, Texas",57.75
+"Robertson, Texas",45.5
+"Rockwall, Texas",55.099999999999994
+"Runnels, Texas",48.25
+"Rusk, Texas",47.45
+"Sabine, Texas",47.8
+"San Augustine, Texas",42.150000000000006
+"San Jacinto, Texas",46.2
+"San Patricio, Texas",50.7
+"San Saba, Texas",54.3
+"Schleicher, Texas",53.3
+"Scurry, Texas",45.099999999999994
+"Shackelford, Texas",53.150000000000006
+"Shelby, Texas",46.4
+"Sherman, Texas",48.25
+"Smith, Texas",51.099999999999994
+"Somervell, Texas",56.6
+"Starr, Texas",36.349999999999994
+"Stephens, Texas",49.25
+"Sterling, Texas",45.75
+"Stonewall, Texas",53.9
+"Sutton, Texas",48.400000000000006
+"Swisher, Texas",47.65
+"Tarrant, Texas",51.9
+"Taylor, Texas",51.849999999999994
+"Terrell, Texas",55.05
+"Terry, Texas",43.35
+"Throckmorton, Texas",49.099999999999994
+"Titus, Texas",46.1
+"Tom Green, Texas",52.0
+"Travis, Texas",59.400000000000006
+"Trinity, Texas",46.3
+"Tyler, Texas",46.650000000000006
+"Upshur, Texas",50.25
+"Upton, Texas",48.5
+"Uvalde, Texas",47.75
+"Val Verde, Texas",46.1
+"Van Zandt, Texas",46.8
+"Victoria, Texas",52.65
+"Walker, Texas",50.05
+"Waller, Texas",49.2
+"Ward, Texas",45.5
+"Washington, Texas",51.6
+"Webb, Texas",42.900000000000006
+"Wharton, Texas",46.85
+"Wheeler, Texas",52.25
+"Wichita, Texas",54.05
+"Wilbarger, Texas",47.65
+"Willacy, Texas",42.9
+"Williamson, Texas",60.0
+"Wilson, Texas",54.95
+"Winkler, Texas",43.25
+"Wise, Texas",52.2
+"Wood, Texas",49.150000000000006
+"Yoakum, Texas",46.45
+"Young, Texas",48.85
+"Zapata, Texas",41.900000000000006
+"Zavala, Texas",43.4
+"Beaver, Utah",58.35
+"Box Elder, Utah",56.900000000000006
+"Cache, Utah",62.699999999999996
+"Carbon, Utah",53.95
+"Daggett, Utah",54.35
+"Davis, Utah",59.45
+"Duchesne, Utah",57.75
+"Emery, Utah",57.25
+"Garfield, Utah",59.0
+"Grand, Utah",56.6
+"Iron, Utah",58.4
+"Juab, Utah",57.7
+"Kane, Utah",59.9
+"Millard, Utah",55.150000000000006
+"Morgan, Utah",66.80000000000001
+"Piute, Utah",56.2
+"Rich, Utah",64.5
+"Salt Lake, Utah",58.349999999999994
+"San Juan, Utah",52.75
+"Sanpete, Utah",55.650000000000006
+"Sevier, Utah",54.849999999999994
+"Summit, Utah",71.4
+"Tooele, Utah",55.1
+"Uintah, Utah",53.05
+"Utah, Utah",59.650000000000006
+"Wasatch, Utah",67.35
+"Washington, Utah",59.05
+"Wayne, Utah",59.7
+"Weber, Utah",58.849999999999994
+"Addison, Vermont",65.65
+"Bennington, Vermont",60.2
+"Caledonia, Vermont",60.25
+"Chittenden, Vermont",66.95
+"Essex, Vermont",56.95
+"Franklin, Vermont",53.8
+"Grand Isle, Vermont",62.400000000000006
+"Lamoille, Vermont",64.35
+"Orange, Vermont",63.949999999999996
+"Orleans, Vermont",58.8
+"Rutland, Vermont",59.75
+"Washington, Vermont",64.7
+"Windham, Vermont",64.7
+"Windsor, Vermont",66.44999999999999
+"Accomack, Virginia",47.349999999999994
+"Albemarle, Virginia",62.75
+"Alexandria City, Virginia",63.45
+"Alleghany, Virginia",51.15
+"Amelia, Virginia",50.45
+"Amherst, Virginia",49.0
+"Appomattox, Virginia",50.55
+"Arlington, Virginia",63.8
+"Augusta, Virginia",54.75
+"Bath, Virginia",50.55
+"Bedford, Virginia",51.849999999999994
+"Bedford City, Virginia",47.900000000000006
+"Bland, Virginia",49.25
+"Botetourt, Virginia",55.8
+"Bristol City, Virginia",40.2
+"Brunswick, Virginia",39.0
+"Buchanan, Virginia",39.75
+"Buckingham, Virginia",43.4
+"Buena Vista City, Virginia",47.599999999999994
+"Campbell, Virginia",50.8
+"Caroline, Virginia",49.95
+"Carroll, Virginia",48.35
+"Charles City, Virginia",44.6
+"Charlotte, Virginia",45.45
+"Charlottesville City, Virginia",59.650000000000006
+"Chesapeake City, Virginia",57.599999999999994
+"Chesterfield, Virginia",58.5
+"Clarke, Virginia",54.15
+"Colonial Heights City, Virginia",56.3
+"Covington City, Virginia",49.5
+"Craig, Virginia",56.05
+"Culpeper, Virginia",53.75
+"Cumberland, Virginia",46.5
+"Danville City, Virginia",44.65
+"Dickenson, Virginia",38.85
+"Dinwiddie, Virginia",47.1
+"Emporia City, Virginia",43.0
+"Essex, Virginia",46.6
+"Fairfax, Virginia",62.85
+"Fairfax City, Virginia",58.3
+"Falls Church City, Virginia",63.0
+"Fauquier, Virginia",58.35
+"Floyd, Virginia",51.65
+"Fluvanna, Virginia",54.4
+"Franklin, Virginia",51.5
+"Franklin City, Virginia",45.400000000000006
+"Frederick, Virginia",51.85
+"Fredericksburg City, Virginia",56.15
+"Galax City, Virginia",46.7
+"Giles, Virginia",49.35
+"Gloucester, Virginia",55.65
+"Goochland, Virginia",53.05
+"Grayson, Virginia",42.05
+"Greene, Virginia",52.75
+"Greensville, Virginia",42.650000000000006
+"Halifax County with South Boston City, Virginia",45.650000000000006
+"Hampton City, Virginia",50.95
+"Hanover, Virginia",57.7
+"Harrisonburg City, Virginia",50.8
+"Henrico, Virginia",57.85
+"Henry, Virginia",44.65
+"Highland, Virginia",47.1
+"Hopewell City, Virginia",43.849999999999994
+"Isle of Wight, Virginia",53.25
+"James City, Virginia",60.7
+"King and Queen, Virginia",47.95
+"King George, Virginia",56.35
+"King William, Virginia",54.05
+"Lancaster, Virginia",52.849999999999994
+"Lee, Virginia",43.099999999999994
+"Lexington City, Virginia",49.8
+"Loudoun, Virginia",59.65
+"Louisa, Virginia",51.55
+"Lunenburg, Virginia",42.7
+"Lynchburg City, Virginia",49.35
+"Madison, Virginia",51.099999999999994
+"Manassas City, Virginia",53.15
+"Manassas Park City, Virginia",56.099999999999994
+"Martinsville City, Virginia",49.3
+"Mathews, Virginia",53.900000000000006
+"Mecklenburg, Virginia",49.0
+"Middlesex, Virginia",52.45
+"Montgomery, Virginia",58.400000000000006
+"Nelson, Virginia",53.0
+"New Kent, Virginia",55.0
+"Newport News City, Virginia",51.75
+"Norfolk City, Virginia",50.45
+"Northampton, Virginia",44.55
+"Northumberland, Virginia",53.15
+"Norton City, Virginia",46.75
+"Nottoway, Virginia",44.8
+"Orange, Virginia",53.05
+"Page, Virginia",46.0
+"Patrick, Virginia",47.45
+"Petersburg City, Virginia",39.85
+"Pittsylvania, Virginia",50.7
+"Poquoson City, Virginia",56.599999999999994
+"Portsmouth City, Virginia",50.8
+"Powhatan, Virginia",51.5
+"Prince Edward, Virginia",48.400000000000006
+"Prince George, Virginia",52.05
+"Prince William, Virginia",58.15
+"Pulaski, Virginia",50.75
+"Radford City, Virginia",55.75
+"Rappahannock, Virginia",52.05
+"Richmond, Virginia",45.349999999999994
+"Richmond City, Virginia",53.3
+"Roanoke, Virginia",57.9
+"Roanoke City, Virginia",49.3
+"Rockbridge, Virginia",51.05
+"Rockingham, Virginia",48.85
+"Russell, Virginia",42.2
+"Salem City, Virginia",54.6
+"Scott, Virginia",42.6
+"Shenandoah, Virginia",52.0
+"Smyth, Virginia",44.8
+"Southampton, Virginia",44.4
+"Spotsylvania, Virginia",56.55
+"Stafford, Virginia",58.95
+"Staunton City, Virginia",48.7
+"Suffolk City, Virginia",51.8
+"Surry, Virginia",46.25
+"Sussex, Virginia",40.65
+"Tazewell, Virginia",44.1
+"Virginia Beach City, Virginia",54.7
+"Warren, Virginia",53.849999999999994
+"Washington, Virginia",46.5
+"Waynesboro City, Virginia",49.849999999999994
+"Westmoreland, Virginia",45.75
+"Williamsburg City, Virginia",60.5
+"Winchester City, Virginia",51.8
+"Wise, Virginia",38.35
+"Wythe, Virginia",48.75
+"York, Virginia",60.3
+"Adams, Washington",43.25
+"Asotin, Washington",56.650000000000006
+"Benton, Washington",60.099999999999994
+"Chelan, Washington",58.85
+"Clallam, Washington",67.0
+"Clark, Washington",60.05
+"Columbia, Washington",59.2
+"Cowlitz, Washington",55.7
+"Douglas, Washington",54.95
+"Ferry, Washington",53.65
+"Franklin, Washington",48.2
+"Garfield, Washington",59.1
+"Grant, Washington",49.6
+"Grays Harbor, Washington",56.8
+"Island, Washington",67.05000000000001
+"Jefferson, Washington",70.5
+"King, Washington",64.5
+"Kitsap, Washington",64.9
+"Kittitas, Washington",62.599999999999994
+"Klickitat, Washington",58.8
+"Lewis, Washington",56.25
+"Lincoln, Washington",57.15
+"Mason, Washington",57.849999999999994
+"Okanogan, Washington",53.7
+"Pacific, Washington",54.25
+"Pend Oreille, Washington",58.900000000000006
+"Pierce, Washington",57.0
+"San Juan, Washington",71.0
+"Skagit, Washington",61.05
+"Skamania, Washington",59.349999999999994
+"Snohomish, Washington",58.25
+"Spokane, Washington",59.45
+"Stevens, Washington",56.75
+"Thurston, Washington",63.1
+"Wahkiakum, Washington",60.15
+"Walla Walla, Washington",61.25
+"Whatcom, Washington",63.55
+"Whitman, Washington",59.5
+"Yakima, Washington",50.1
+"Barbour, West Virginia",43.349999999999994
+"Berkeley, West Virginia",48.2
+"Boone, West Virginia",34.45
+"Braxton, West Virginia",44.45
+"Brooke, West Virginia",47.85
+"Cabell, West Virginia",44.65
+"Calhoun, West Virginia",41.849999999999994
+"Clay, West Virginia",38.5
+"Doddridge, West Virginia",46.45
+"Fayette, West Virginia",42.650000000000006
+"Gilmer, West Virginia",45.0
+"Grant, West Virginia",47.2
+"Greenbrier, West Virginia",46.75
+"Hampshire, West Virginia",43.2
+"Hancock, West Virginia",47.1
+"Hardy, West Virginia",46.5
+"Harrison, West Virginia",47.599999999999994
+"Jackson, West Virginia",45.15
+"Jefferson, West Virginia",48.849999999999994
+"Kanawha, West Virginia",46.4
+"Lewis, West Virginia",46.85
+"Lincoln, West Virginia",35.75
+"Logan, West Virginia",36.9
+"Marion, West Virginia",44.9
+"Marshall, West Virginia",47.05
+"Mason, West Virginia",39.7
+"McDowell, West Virginia",32.75
+"Mercer, West Virginia",40.2
+"Mineral, West Virginia",50.15
+"Mingo, West Virginia",35.7
+"Monongalia, West Virginia",52.0
+"Monroe, West Virginia",46.099999999999994
+"Morgan, West Virginia",50.65
+"Nicholas, West Virginia",41.85
+"Ohio, West Virginia",46.65
+"Pendleton, West Virginia",48.35
+"Pleasants, West Virginia",52.5
+"Pocahontas, West Virginia",51.849999999999994
+"Preston, West Virginia",47.900000000000006
+"Putnam, West Virginia",49.2
+"Raleigh, West Virginia",41.65
+"Randolph, West Virginia",47.3
+"Ritchie, West Virginia",47.35
+"Roane, West Virginia",44.05
+"Summers, West Virginia",43.55
+"Taylor, West Virginia",45.7
+"Tucker, West Virginia",51.650000000000006
+"Tyler, West Virginia",49.65
+"Upshur, West Virginia",46.55
+"Wayne, West Virginia",39.35
+"Webster, West Virginia",40.150000000000006
+"Wetzel, West Virginia",45.1
+"Wirt, West Virginia",49.85
+"Wood, West Virginia",46.35
+"Wyoming, West Virginia",35.95
+"Adams, Wisconsin",54.35
+"Ashland, Wisconsin",61.2
+"Barron, Wisconsin",58.2
+"Bayfield, Wisconsin",63.75
+"Brown, Wisconsin",59.9
+"Buffalo, Wisconsin",57.7
+"Burnett, Wisconsin",58.25
+"Calumet, Wisconsin",58.7
+"Chippewa, Wisconsin",60.8
+"Clark, Wisconsin",52.95
+"Columbia, Wisconsin",59.45
+"Crawford, Wisconsin",58.0
+"Dane, Wisconsin",63.650000000000006
+"Dodge, Wisconsin",54.0
+"Door, Wisconsin",61.35
+"Douglas, Wisconsin",61.449999999999996
+"Dunn, Wisconsin",59.8
+"Eau Claire, Wisconsin",60.15
+"Florence, Wisconsin",57.5
+"Fond du Lac, Wisconsin",58.099999999999994
+"Forest, Wisconsin",56.2
+"Grant, Wisconsin",58.3
+"Green, Wisconsin",60.85
+"Green Lake, Wisconsin",57.4
+"Iowa, Wisconsin",60.2
+"Iron, Wisconsin",58.95
+"Jackson, Wisconsin",53.9
+"Jefferson, Wisconsin",58.5
+"Juneau, Wisconsin",53.150000000000006
+"Kenosha, Wisconsin",55.55
+"Kewaunee, Wisconsin",58.2
+"La Crosse, Wisconsin",61.65
+"Lafayette, Wisconsin",56.8
+"Langlade, Wisconsin",55.75
+"Lincoln, Wisconsin",59.599999999999994
+"Manitowoc, Wisconsin",56.6
+"Marathon, Wisconsin",54.8
+"Marinette, Wisconsin",56.55
+"Marquette, Wisconsin",57.65
+"Menominee, Wisconsin",52.85
+"Milwaukee, Wisconsin",56.5
+"Monroe, Wisconsin",54.25
+"Oconto, Wisconsin",58.15
+"Oneida, Wisconsin",61.2
+"Outagamie, Wisconsin",60.9
+"Ozaukee, Wisconsin",63.599999999999994
+"Pepin, Wisconsin",55.95
+"Pierce, Wisconsin",57.7
+"Polk, Wisconsin",60.05
+"Portage, Wisconsin",59.650000000000006
+"Price, Wisconsin",59.4
+"Racine, Wisconsin",56.25
+"Richland, Wisconsin",58.5
+"Rock, Wisconsin",55.6
+"Rusk, Wisconsin",56.2
+"Sauk, Wisconsin",53.650000000000006
+"Sawyer, Wisconsin",59.2
+"Shawano, Wisconsin",55.2
+"Sheboygan, Wisconsin",58.0
+"St. Croix, Wisconsin",60.8
+"Taylor, Wisconsin",55.7
+"Trempealeau, Wisconsin",55.8
+"Vernon, Wisconsin",54.099999999999994
+"Vilas, Wisconsin",59.75
+"Walworth, Wisconsin",57.5
+"Washburn, Wisconsin",59.25
+"Washington, Wisconsin",59.95
+"Waukesha, Wisconsin",61.85
+"Waupaca, Wisconsin",56.15
+"Waushara, Wisconsin",59.5
+"Winnebago, Wisconsin",60.05
+"Wood, Wisconsin",56.75
+"Albany, Wyoming",61.4
+"Big Horn, Wyoming",56.849999999999994
+"Campbell, Wyoming",53.25
+"Carbon, Wyoming",52.75
+"Converse, Wyoming",56.45
+"Crook, Wyoming",58.849999999999994
+"Fremont, Wyoming",55.8
+"Goshen, Wyoming",56.95
+"Hot Springs, Wyoming",56.75
+"Johnson, Wyoming",58.4
+"Laramie, Wyoming",56.599999999999994
+"Lincoln, Wyoming",60.4
+"Natrona, Wyoming",55.849999999999994
+"Niobrara, Wyoming",57.8
+"Park, Wyoming",58.7
+"Platte, Wyoming",59.55
+"Sheridan, Wyoming",59.6
+"Sublette, Wyoming",65.85
+"Sweetwater, Wyoming",56.25
+"Teton, Wyoming",75.1
+"Uinta, Wyoming",55.3
+"Washakie, Wyoming",56.85
+"Weston, Wyoming",56.4
