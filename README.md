@@ -10,3 +10,6 @@ Lifestyle (obesity, physical activity, alcohol) data by county (2011) - http://w
 Smoking data by county (1996-2012) - http://ghdx.healthdata.org/record/ihme-data/united-states-smoking-prevalence-county-1996-2012
 
 Cancer and lifestyle data has been uploaded to the repository, EPA water data is available at the link above.
+
+
+water_regression.py is the main file used for building the machine learning model and for predictions.
