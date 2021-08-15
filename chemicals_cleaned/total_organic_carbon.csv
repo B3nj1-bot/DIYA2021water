@@ -1,0 +1,908 @@
+,county,total_organic_carbon
+0,"Abbeville, South Carolina",2147.0138888888887
+1,"Accomack, Virginia",4500.0
+2,"Adair, Iowa",4213.793103448276
+3,"Adair, Kentucky",2285.6
+4,"Adair, Oklahoma",1690.5863636363636
+5,"Adams, Illinois",4061.849315068493
+6,"Adams, Iowa",5129.861111111111
+7,"Adams, Pennsylvania",1932.479399141631
+8,"Aiken, South Carolina",2315.661252900232
+9,"Alamance, North Carolina",4887.587006960557
+10,"Alameda, California",2009.8082191780823
+11,"Albany, Wyoming",2883.132530120482
+12,"Albemarle, Virginia",2210.0847222222224
+13,"Aleutians east, Alaska",0.0
+14,"Aleutians west census area, Alaska",0.0
+15,"Aleutians west, Alaska",14644.285714285714
+16,"Alexander, Illinois",2720.4545454545455
+17,"Alexander, North Carolina",1516.6666666666667
+18,"Allegany, New York",743.9256097560976
+19,"Alleghany, Virginia",696.5
+20,"Allegheny county, Pennsylvania",2091.153846153846
+21,"Allegheny, Pennsylvania",1851.1935064935064
+22,"Allen, Indiana",5115.294117647059
+23,"Allen, Kentucky",1694.5285714285715
+24,"Amador, California",1827.5742574257426
+25,"Amherst, Virginia",1780.7291666666667
+26,"Anchorage municipality, Alaska",0.0
+27,"Anchorage, Alaska",264.97087378640776
+28,"Anderson, Kentucky",2485.0694444444443
+29,"Anderson, South Carolina",1430.8631578947368
+30,"Anson, North Carolina",3967.907608695652
+31,"Appanoose, Iowa",5369.556962025316
+32,"Arenac, Michigan",1605.4545454545455
+33,"Armstrong, Pennsylvania",1879.9274193548388
+34,"Aroostook, Maine",4094.660194174757
+35,"Ashe, North Carolina",1240.8510638297873
+36,"Atlantic, New Jersey",2201.279069767442
+37,"Atoka, Oklahoma",4013.8277511961724
+38,"B, Oklahoma",5315.802816901409
+39,"Barbour, West Virginia",1607.0254642857144
+40,"Barnes, North Dakota",3691.287878787879
+41,"Barren, Kentucky",1855.659574468085
+42,"Bay, Michigan",2731.9704433497536
+43,"Beaufort, South Carolina",2919.4755244755243
+44,"Beaver, Pennsylvania",2608.089108910891
+45,"Bedford, Pennsylvania",2300.3021148036255
+46,"Bedford, Virginia",1369.7787610619469
+47,"Bell, Kentucky",1534.0541176470588
+48,"Belmont, Ohio",4028.0
+49,"Bennington, Vermont",0.0
+50,"Bergen, New Jersey",3964.6422018348626
+51,"Berkeley, South Carolina",3832.3591549295775
+52,"Berkeley, West Virginia",1645.941031941032
+53,"Berks county, Pennsylvania",255.26315789473685
+54,"Berks, Pennsylvania",1539.1278375149343
+55,"Berrien, Michigan",1499.5238095238096
+56,"Bethel census area, Alaska",2266.6666666666665
+57,"Bethel, Alaska",1070.4333333333334
+58,"Big horn, Montana",2692.5373134328356
+59,"Blaine, Montana",4018.0451127819547
+60,"Blair, Pennsylvania",932.7124463519314
+61,"Bland, Virginia",920.1666666666666
+62,"Blount, Alabama",1555.4878048780488
+63,"Blue earth, Minnesota",1893.0555555555557
+64,"Bond, Illinois",7662.741379310345
+65,"Boone, Iowa",1981.0069444444443
+66,"Boone, West Virginia",2216.1805555555557
+67,"Bourbon, Kentucky",3497.222222222222
+68,"Box elder, Utah",2750.0
+69,"Boyd, Kentucky",2153.219178082192
+70,"Boyle, Kentucky",2796.849315068493
+71,"Braxton, West Virginia",1377.5266524520255
+72,"Breathitt, Kentucky",2213.521126760563
+73,"Breckinridge, Kentucky",4029.4444444444443
+74,"Bristol, Virginia",1568.75
+75,"Brooke, West Virginia",1927.3797674418606
+76,"Broome, New York",1794.3478260869565
+77,"Brown, Indiana",4129.69696969697
+78,"Brown, Ohio",5271.925
+79,"Brunswick, North Carolina",2700.0
+80,"Brunswick, Virginia",3260.0
+81,"Bryan, Oklahoma",2680.5208333333335
+82,"Buckingham, Virginia",3074.0
+83,"Bucks, Pennsylvania",2896.912393162393
+84,"Buena vista, Iowa",3200.0
+85,"Buncombe, North Carolina",1058.6309523809523
+86,"Burke, North Carolina",1266.1224489795918
+87,"Burleigh, North Dakota",2520.448717948718
+88,"Burlington, New Jersey",2638.0033277870216
+89,"Butler, Kentucky",2248.5694444444443
+90,"Butler, Pennsylvania",2217.512776831346
+91,"Butte, California",799.1588785046729
+92,"Cabarrus, North Carolina",3753.4117647058824
+93,"Cabell, West Virginia",2311.6437994722955
+94,"Caddo, Oklahoma",4118.493150684932
+95,"Calaveras, California",1657.6623376623377
+96,"Caldwell, Kentucky",2173.8513513513512
+97,"Caldwell, North Carolina",1456.5591397849462
+98,"Caledonia, Vermont",0.0
+99,"Calhoun, Alabama",886.4705882352941
+100,"Calhoun, West Virginia",2454.652777777778
+101,"Cambria county, Pennsylvania",1130.0
+102,"Cambria, Pennsylvania",1593.7150050352468
+103,"Cameron, Pennsylvania",700.0
+104,"Campbell, Virginia",2232.5925925925926
+105,"Canadian, Oklahoma",2494.8591549295775
+106,"Carbon, Pennsylvania",989.5555555555555
+107,"Carbon, Utah",3090.650406504065
+108,"Carbon, Wyoming",1717.3604444444445
+109,"Caroline, Virginia",3855.9210526315787
+110,"Carroll, Iowa",930.0
+111,"Carroll, Ohio",2511.6702325581396
+112,"Carroll, Virginia",1008.3333333333334
+113,"Carson city, Nevada",0.0
+114,"Carter, Kentucky",2195.3196347031962
+115,"Carter, Oklahoma",4149.9392789373815
+116,"Cascade, Montana",2437.8504672897197
+117,"Casey, Kentucky",2881.9285714285716
+118,"Cass, Illinois",3551.4754098360654
+119,"Cass, North Dakota",6759.638888888889
+120,"Caswell, North Carolina",3950.281690140845
+121,"Catawba, North Carolina",1436.9603524229076
+122,"Cattaraugus, New York",1231.2589285714287
+123,"Cavalier, North Dakota",11187.5
+124,"Cayuga, New York",3455.5555555555557
+125,"Centre county, Pennsylvania",49.355555555555554
+126,"Centre, Pennsylvania",637.7540983606557
+127,"Chambers, Alabama",2704.3928571428573
+128,"Charlotte, Virginia",4134.305555555556
+129,"Chatham, North Carolina",5810.453531598513
+130,"Chautauqua, New York",2240.0
+131,"Chemung, New York",1772.5694444444443
+132,"Cherokee, Alabama",2695.2380952380954
+133,"Cherokee, North Carolina",535.7291666666666
+134,"Cherokee, Oklahoma",2418.033290322581
+135,"Cherokee, South Carolina",2712.2051282051284
+136,"Chesapeake city, Virginia",11213.454628975265
+137,"Chester, Pennsylvania",2381.336032388664
+138,"Chester, South Carolina",3031.760563380282
+139,"Chesterfield, South Carolina",3064.9295774647885
+140,"Chilton, Alabama",3177.304964539007
+141,"Chittenden, Vermont",2335.6666666666665
+142,"Choctaw, Oklahoma",4275.958904109589
+143,"Chouteau, Montana",2930.1459854014597
+144,"Christian, Illinois",3167.738578680203
+145,"Christian, Kentucky",2449.0263157894738
+146,"Churchill, Nevada",118.75
+147,"Clarion, Pennsylvania",1805.0944881889764
+148,"Clark, Indiana",3355.735294117647
+149,"Clark, Kentucky",2363.3333333333335
+150,"Clark, Nevada",88.67924528301887
+151,"Clarke, Alabama",1822.857142857143
+152,"Clarke, Iowa",6301.398601398601
+153,"Clarke, Virginia",1917.8048780487804
+154,"Clay, Alabama",1523.0642857142857
+155,"Clay, Illinois",4930.645161290323
+156,"Clay, Kentucky",1890.6944444444443
+157,"Clay, Minnesota",5009.58904109589
+158,"Clay, West Virginia",1568.2698961937717
+159,"Clearfield, Pennsylvania",934.946587537092
+160,"Cleburne, Alabama",2567.5
+161,"Clermont, Ohio",51.25
+162,"Cleveland, North Carolina",1693.7532133676093
+163,"Cleveland, Oklahoma",4505.172413793103
+164,"Clinton, Illinois",4248.395721925133
+165,"Clinton, Kentucky",1761.164021164021
+166,"Clinton, Michigan",630.0
+167,"Clinton, New York",3092.5795454545455
+168,"Clinton, Pennsylvania",739.7709923664122
+169,"Coal, Oklahoma",4955.972222222223
+170,"Coconino, Arizona",2542.8571428571427
+171,"Colbert, Alabama",2087.617554858934
+172,"Coles, Illinois",3829.3046357615895
+173,"Columbia, New York",1580.0
+174,"Columbia, Pennsylvania",566.1111111111111
+175,"Columbus county, North Carolina",5930.699300699301
+176,"Colusa, California",400.0
+177,"Comanche, Oklahoma",3790.1151515151514
+178,"Contra costa, California",3320.7119205298013
+179,"Converse, Wyoming",1486.7334
+180,"Cook, Illinois",1737.104518072289
+181,"Cortland, New York",1200.0
+182,"Cotton, Oklahoma",4996.870629370629
+183,"Covington, Virginia",1453.0555555555557
+184,"Craig, Oklahoma",3633.318493150685
+185,"Crawford, Pennsylvania",2706.9421487603304
+186,"Creek, Oklahoma",5289.648788927336
+187,"Crittenden, Kentucky",4136.232876712329
+188,"Cullman, Alabama",2776.0707746478874
+189,"Culpeper, Virginia",3615.902777777778
+190,"Cumberland, Illinois",3745.1388888888887
+191,"Cumberland, Kentucky",1851.388888888889
+192,"Cumberland, Maine",2816.6666666666665
+193,"Cumberland, North Carolina",5063.316326530612
+194,"Cumberland, Pennsylvania",1320.485651214128
+195,"Cumberland, Virginia",1647.4074074074074
+196,"Custer, Montana",2245.1428571428573
+197,"Custer, Oklahoma",6260.149659863946
+198,"Daggett, Utah",3138.4897435897433
+199,"Dakota, Minnesota",146.15384615384616
+200,"Danville, Virginia",2065.902777777778
+201,"Dare, North Carolina",4344.2307692307695
+202,"Dauphin county, Pennsylvania",1610.9259259259259
+203,"Dauphin, Pennsylvania",1265.2904564315352
+204,"Davidson, North Carolina",3166.5019011406844
+205,"Davie, North Carolina",1582.018691588785
+206,"Davis, Iowa",5309.652777777777
+207,"Davis, Utah",2347.12
+208,"Dawson, Montana",2181.2182741116753
+209,"Decatur, Indiana",3123.208955223881
+210,"Decatur, Iowa",5949.93006993007
+211,"Dekalb, Alabama",1754.6207762557078
+212,"Del norte, California",201.11111111111111
+213,"Delaware, Indiana",2940.4545454545455
+214,"Delaware, Oklahoma",2974.3781407035176
+215,"Delaware, Pennsylvania",2846.25
+216,"Denali, Alaska",0.0
+217,"Des moines, Iowa",3593.239436619718
+218,"Dickenson, Virginia",2003.5714285714287
+219,"Dickinson, Iowa",5501.721170395869
+220,"Dillingham, Alaska",280.0
+221,"Doddridge, West Virginia",5083.854166666667
+222,"Douglas, Nevada",87.13692946058092
+223,"Dubois, Indiana",3045.278810408922
+224,"Duchesne, Utah",2788.4615384615386
+225,"Durham, North Carolina",4395.4359
+226,"Dutchess, New York",2499.786384976526
+227,"Edgar, Illinois",2982.0
+228,"Edgecombe, North Carolina",5871.527777777777
+229,"Edmonson, Kentucky",2153.2887029288704
+230,"Effingham, Illinois",4069.5205479452056
+231,"El dorado, California",206.16666666666666
+232,"Elk, Pennsylvania",1407.0621468926554
+233,"Elko, Nevada",0.0
+234,"Elmore, Alabama",2129.807106598985
+235,"Emery, Utah",2229.190751445087
+236,"Erie, New York",4600.5291005291
+237,"Erie, Pennsylvania",2701.2244008714597
+238,"Esmeralda, Nevada",0.0
+239,"Essex county, New York",3111.5384615384614
+240,"Essex, New York",2895.9672196721313
+241,"Estill, Kentucky",1952.2138888888887
+242,"Etowah, Alabama",3279.5138888888887
+243,"Eureka county, Nevada",0.0
+244,"Eureka, Nevada",0.0
+245,"Fairbanks north star, Alaska",11158.888888888889
+246,"Fairfax, Virginia",2999.4421487603304
+247,"Fairfield, South Carolina",2437.7272727272725
+248,"Faribault, Minnesota",0.0
+249,"Fauquier, Virginia",1930.8783783783783
+250,"Fayette, Alabama",2183.3935018050543
+251,"Fayette, Illinois",4478.869310344828
+252,"Fayette, Kentucky",2423.2695374800637
+253,"Fayette, Pennsylvania",1452.5148401826484
+254,"Fayette, West Virginia",1584.236187845304
+255,"Flathead, Montana",879.8984771573604
+256,"Fleming, Kentucky",3418.0263157894738
+257,"Florence, South Carolina",3324.652777777778
+258,"Floyd, Kentucky",1519.5407239819006
+259,"Fluvanna, Virginia",2246.204379562044
+260,"Forsyth, North Carolina",1800.3000994035785
+261,"Franklin county, New York",4441.995348837209
+262,"Franklin, Alabama",1818.7507082152974
+263,"Franklin, Illinois",4663.760563380282
+264,"Franklin, Kentucky",2243.0281690140846
+265,"Franklin, Maine",1550.0
+266,"Franklin, New York",3170.2702702702704
+267,"Franklin, North Carolina",4545.03731884058
+268,"Franklin, Ohio",3300.0
+269,"Franklin, Pennsylvania",1180.6643192488264
+270,"Franklin, Vermont",2849.843448275862
+271,"Franklin, Virginia",1391.849315068493
+272,"Frederick, Virginia",1195.8333333333333
+273,"Fremont, Wyoming",903.2
+274,"Fresno, California",2241.6332263242375
+275,"Fulton, Illinois",3780.075704225352
+276,"Fulton, Pennsylvania",990.0
+277,"Galax, Virginia",1157.7083333333333
+278,"Gallatin, Montana",1555.875
+279,"Garfield, Oklahoma",1197.5
+280,"Garrard, Kentucky",2524.3150684931506
+281,"Garvin, Oklahoma",5082.9537037037035
+282,"Gaston, North Carolina",1651.744762954796
+283,"Genesee, New York",1096.202564102564
+284,"Georgetown, South Carolina",5307.6745644599305
+285,"Gibson, Indiana",4109.848484848485
+286,"Gilmer, West Virginia",1638.175281690141
+287,"Glacier, Montana",2387.8453038674033
+288,"Gloucester, New Jersey",2906.6666666666665
+289,"Gloucester, Virginia",3799.7902097902097
+290,"Goodhue, Minnesota",0.0
+291,"Grady, Oklahoma",4467.529411764706
+292,"Graham, North Carolina",411.6233766233766
+293,"Grand forks, North Dakota",10212.752293577982
+294,"Grand isle, Vermont",1150.1571428571428
+295,"Granite, Montana",2925.0
+296,"Grant, Kentucky",3516.655172413793
+297,"Grant, West Virginia",2392.0542372881355
+298,"Granville, North Carolina",6271.128205128205
+299,"Gratiot, Michigan",890.0
+300,"Grayson, Kentucky",2905.205882352941
+301,"Grayson, Virginia",1296.1538461538462
+302,"Green, Kentucky",2760.0
+303,"Greenbrier, West Virginia",1624.609375
+304,"Greene, Illinois",5030.405405405405
+305,"Greene, Pennsylvania",1821.6374269005848
+306,"Greene, Virginia",680.7894736842105
+307,"Greensville, Virginia",3838.3216783216785
+308,"Greenup, Kentucky",2439.056603773585
+309,"Greenville, South Carolina",1207.046511627907
+310,"Greenwood, South Carolina",2000.9027777777778
+311,"Guilford, North Carolina",3641.4699792960664
+312,"Guthrie, Iowa",3871.2328767123286
+313,"Haines, Alaska",4280.255999999999
+314,"Halifax, North Carolina",3409.43793911007
+315,"Halifax, Virginia",2353.1111111111113
+316,"Hamilton, New York",4527.777777777777
+317,"Hampshire, West Virginia",1781.3629629629631
+318,"Hancock, Illinois",4440.164551724138
+319,"Hancock, Maine",2766.6666666666665
+320,"Hancock, West Virginia",1894.5559701492537
+321,"Hanover, Virginia",3106.451612903226
+322,"Hardin, Kentucky",1278.34375
+323,"Hardy, West Virginia",1541.2
+324,"Harlan, Kentucky",1215.1012024048096
+325,"Harnett, North Carolina",5330.899653979239
+326,"Harrison, Kentucky",3395.266666666667
+327,"Harrison, West Virginia",3317.080465549348
+328,"Harrisonburg, Virginia",848.6805555555555
+329,"Hart, Kentucky",1167.3333333333333
+330,"Hartford, Connecticut",0.0
+331,"Haskell, Oklahoma",3639.1535836177472
+332,"Haywood, North Carolina",740.9137055837564
+333,"Henderson, Kentucky",2468.0140186915887
+334,"Henderson, North Carolina",943.1111111111111
+335,"Hennepin, Minnesota",6496.575342465753
+336,"Henrico, Virginia",1377.0360110803324
+337,"Henry, Kentucky",809.0322580645161
+338,"Henry, Virginia",1178.125
+339,"Hill, Montana",2868.0232558139537
+340,"Hoonah-angoon, Alaska",125.0
+341,"Hopewell, Virginia",3713.157894736842
+342,"Hopkins, Kentucky",3285.7006369426754
+343,"Horry, South Carolina",9270.173611111111
+344,"Hot springs, Wyoming",2614.942528735632
+345,"Hudson, New Jersey",2660.3495440729484
+346,"Hughes, Oklahoma",6337.935599284437
+347,"Humboldt, California",786.0122699386503
+348,"Humboldt, Nevada",0.0
+349,"Hunterdon, New Jersey",5009.79797979798
+350,"Huntingdon, Pennsylvania",1939.46
+351,"Huron, Michigan",2000.0
+352,"Imperial, California",3015.9574468085107
+353,"Indiana, Pennsylvania",1931.023498694517
+354,"Ingham, Michigan",1610.0
+355,"Inyo, California",310.0
+356,"Iosco, Michigan",1472.0833333333333
+357,"Iredell, North Carolina",1316.5716599190284
+358,"Isabella, Michigan",1669.4444444444443
+359,"Isanti, Minnesota",0.0
+360,"Isle of wight, Virginia",0.0
+361,"Jackson, Alabama",2350.3508771929824
+362,"Jackson, Illinois",3871.9235294117643
+363,"Jackson, Kentucky",2200.347222222222
+364,"Jackson, Michigan",1131.4285714285713
+365,"Jackson, North Carolina",638.8461538461538
+366,"Jackson, Ohio",1870.212765957447
+367,"Jackson, Oklahoma",4187.708333333333
+368,"Jackson, West Virginia",3880.3521126760565
+369,"James (city), Virginia",2744.733333333333
+370,"Jasper, Illinois",2933.3333333333335
+371,"Jefferson county, Pennsylvania",745.2941176470588
+372,"Jefferson, Alabama",2336.1820652173915
+373,"Jefferson, Kentucky",2067.4583333333335
+374,"Jefferson, Montana",3500.0
+375,"Jefferson, New York",2757.8947368421054
+376,"Jefferson, Pennsylvania",1196.2862903225807
+377,"Jefferson, West Virginia",2398.8274336283184
+378,"Jennings, Indiana",3644.285714285714
+379,"Jessamine, Kentucky",2429.872427983539
+380,"Johnson, Illinois",3995.884154929578
+381,"Johnson, Iowa",2389.7610921501705
+382,"Johnson, Kentucky",1948.9473684210527
+383,"Johnson, Wyoming",1208.2272727272727
+384,"Johnston, North Carolina",3999.37908496732
+385,"Johnston, Oklahoma",1724.758865248227
+386,"Juneau, Alaska",501.54347826086956
+387,"Juniata, Pennsylvania",1363.9888888888888
+388,"Kanawha, West Virginia",1545.0271084337348
+389,"Kane, Illinois",4616.215277777777
+390,"Kankakee, Illinois",3420.6546075085325
+391,"Kay, Oklahoma",2308.052777777778
+392,"Kenai peninsula, Alaska",554.5833333333334
+393,"Kennebec, Maine",2666.6666666666665
+394,"Kenton, Kentucky",2754.949716312057
+395,"Kern, California",2076.123802505527
+396,"Kershaw, South Carolina",3446.1267605633802
+397,"Ketchikan gateway, Alaska",239.0
+398,"Kings, California",2524.816326530612
+399,"Kiowa, Oklahoma",5810.788194444444
+400,"Knott, Kentucky",1819.5714285714287
+401,"Knox, Kentucky",1800.2629757785467
+402,"Kodiak island, Alaska",0.0
+403,"Koochiching, Minnesota",6161.379310344828
+404,"La plata, Colorado",1662.8984745762714
+405,"La porte, Indiana",1772.0588235294117
+406,"Lake, California",2998.766666666667
+407,"Lake, Illinois",1738.1236486486487
+408,"Lake, Indiana",1652.7155172413793
+409,"Lake, Minnesota",1386.764705882353
+410,"Lake, Montana",685.8490566037735
+411,"Lamoille, Vermont",0.0
+412,"Lancaster county, Pennsylvania",1843.0
+413,"Lancaster, Pennsylvania",2141.830985915493
+414,"Lancaster, South Carolina",2655.862068965517
+415,"Lander, Nevada",0.0
+416,"Laramie, Wyoming",3802.562482758621
+417,"Larue, Kentucky",2793.3333333333335
+418,"Lasalle, Illinois",2813.774834437086
+419,"Latimer, Oklahoma",4111.166666666667
+420,"Lauderdale, Alabama",1821.5277777777778
+421,"Laurel, Kentucky",2743.650519031142
+422,"Laurens, South Carolina",2340.926736111111
+423,"Lawrence, Alabama",2584.246575342466
+424,"Lawrence, Indiana",2949.7916666666665
+425,"Lawrence, Kentucky",2083.6486486486488
+426,"Lawrence, Pennsylvania",3300.8035714285716
+427,"Le flore, Oklahoma",4466.716783216783
+428,"Lebanon county, Pennsylvania",171.73076923076923
+429,"Lebanon, Pennsylvania",1663.4848484848485
+430,"Lee, Alabama",2478.2894736842104
+431,"Lee, Iowa",4614.453125
+432,"Lee, Kentucky",2002.4666666666667
+433,"Lee, North Carolina",5136.9395017793595
+434,"Lee, Virginia",933.4507042253521
+435,"Lehigh, Pennsylvania",557.7272727272727
+436,"Lenawee, Michigan",4505.9375
+437,"Lenoir, North Carolina",5201.875
+438,"Leslie, Kentucky",1644.150684931507
+439,"Letcher, Kentucky",1904.2288135593221
+440,"Lewis and clark, Montana",2387.330097087379
+441,"Lewis, New York",3109.135714285714
+442,"Lewis, West Virginia",3298.4888059701493
+443,"Lexington county, South Carolina",2845.8333333333335
+444,"Lexington, South Carolina",2786.25
+445,"Liberty, Montana",2561.3333333333335
+446,"Limestone, Alabama",2031.5770609318997
+447,"Lincoln, Kentucky",3021.0714285714284
+448,"Lincoln, Maine",2700.0
+449,"Lincoln, Montana",1345.4263565891472
+450,"Lincoln, Nevada",0.0
+451,"Lincoln, North Carolina",1304.4416243654823
+452,"Lincoln, Oklahoma",5913.829225352113
+453,"Lincoln, West Virginia",1774.9662162162163
+454,"Lincoln, Wyoming",2644.137931034483
+455,"Linn, Iowa",1736.736111111111
+456,"Litchfield, Connecticut",0.0
+457,"Livingston county, New York",3539.855072463768
+458,"Livingston, Illinois",2889.72602739726
+459,"Livingston, Kentucky",2254.027777777778
+460,"Livingston, New York",1527.0718232044198
+461,"Logan, Oklahoma",5194.5
+462,"Logan, West Virginia",1515.3842443729905
+463,"Los angeles, California",1699.6697108066971
+464,"Loudoun, Virginia",2225.8275862068967
+465,"Louisa, Virginia",4742.0759493670885
+466,"Lucas, Iowa",5701.729166666667
+467,"Lunenburg, Virginia",3662.842105263158
+468,"Luzerne county, Pennsylvania",1746.619718309859
+469,"Luzerne, Pennsylvania",1848.7614678899083
+470,"Lycoming county, Pennsylvania",752.5833333333334
+471,"Lycoming, Pennsylvania",399.9159663865546
+472,"Lynchburg, Virginia",1574.2708333333333
+473,"Lyon, Kentucky",2233.948955916473
+474,"Lyon, Nevada",112.06896551724138
+475,"Macomb, Michigan",2286.190476190476
+476,"Macon, Alabama",2171.6197183098593
+477,"Macon, Illinois",2331.304347826087
+478,"Macon, North Carolina",1028.1811224489795
+479,"Macoupin, Illinois",5141.585794813979
+480,"Madera, California",2115.675675675676
+481,"Madison, Alabama",1429.9221556886228
+482,"Madison, Illinois",4466.9100169779285
+483,"Madison, Indiana",1027.4074074074074
+484,"Madison, Iowa",4370.138888888889
+485,"Madison, Kentucky",2599.620853080569
+486,"Madison, North Carolina",1160.1136363636363
+487,"Madison, Virginia",938.9583333333334
+488,"Magoffin, Kentucky",2470.902777777778
+489,"Mahaska, Iowa",1934.7222222222222
+490,"Mahoning, Ohio",3534.0
+491,"Manassas, Virginia",2715.5042016806724
+492,"Marin, California",2218.8675721561967
+493,"Marion, Alabama",2067.3824130879348
+494,"Marion, Illinois",4840.728348214286
+495,"Marion, Indiana",3051.583850931677
+496,"Marion, Iowa",1758.4
+497,"Marion, Kentucky",2573.4246575342468
+498,"Marion, West Virginia",2746.551724137931
+499,"Mariposa, California",2552.5833333333335
+500,"Marlboro, South Carolina",6144.285714285715
+501,"Marshall, Alabama",2606.108527131783
+502,"Marshall, Oklahoma",4753.995454545455
+503,"Marshall, West Virginia",2944.4202898550725
+504,"Martin, Florida",2400.0
+505,"Martin, Indiana",2505.9701492537315
+506,"Martin, Kentucky",1956.9444444444443
+507,"Martin, Minnesota",4597.916666666667
+508,"Martinsville, Virginia",2394.527027027027
+509,"Mason, Kentucky",2341.9718309859154
+510,"Matanuska-susitna, Alaska",177.4
+511,"Mayes, Oklahoma",3270.249190938511
+512,"Mccormick, South Carolina",2636.3636363636365
+513,"Mccracken, Kentucky",2361.9421487603304
+514,"Mccreary, Kentucky",2091.262237762238
+515,"Mccurtain, Oklahoma",2906.4663212435235
+516,"Mcdonough, Illinois",3733.862068965517
+517,"Mcdowell, North Carolina",946.7391304347826
+518,"Mcdowell, West Virginia",1324.2857142857142
+519,"Mcintosh, Oklahoma",5032.699652777777
+520,"Mckean, Pennsylvania",1178.7894736842106
+521,"Mclean, Illinois",2800.277777777778
+522,"Mclean, Kentucky",2859.090909090909
+523,"Mclean, North Dakota",2593.4883720930234
+524,"Mecklenburg, North Carolina",1165.6196682464456
+525,"Mecklenburg, Virginia",2511.527777777778
+526,"Mendocino, California",2152.0949367088606
+527,"Menifee, Kentucky",2214.8255813953488
+528,"Menominee, Michigan",1945.0
+529,"Merced, California",2601.121718377088
+530,"Mercer county, Pennsylvania",3534.0625
+531,"Mercer, Kentucky",2458.2876712328766
+532,"Mercer, New Jersey",3019.8329355608594
+533,"Mercer, North Dakota",2294.7960396039603
+534,"Mercer, Pennsylvania",3753.6301369863013
+535,"Mercer, West Virginia",2487.034965034965
+536,"Middlesex, Connecticut",0.0
+537,"Middlesex, New Jersey",2407.115009746589
+538,"Midland, Michigan",1570.0
+539,"Mifflin county, Pennsylvania",1983.076923076923
+540,"Mifflin, Pennsylvania",753.1914893617021
+541,"Mineral, Nevada",76.08695652173913
+542,"Mineral, West Virginia",1871.174438687392
+543,"Mingo, West Virginia",1701.7798913043478
+544,"Missoula, Montana",3938.157894736842
+545,"Mitchell, North Carolina",509.375
+546,"Mobile, Alabama",3348.566552901024
+547,"Mohave, Arizona",0.0
+548,"Monmouth, New Jersey",2738.0733944954127
+549,"Monongalia, West Virginia",1992.8211920529802
+550,"Monroe, Indiana",2868.582089552239
+551,"Monroe, Kentucky",2203.75
+552,"Monroe, Michigan",2150.759493670886
+553,"Monroe, New York",2300.0
+554,"Monroe, Pennsylvania",1738.0900900900901
+555,"Monroe, West Virginia",579.7912087912088
+556,"Monterey, California",451.05263157894734
+557,"Montgomery, Alabama",1902.5742574257426
+558,"Montgomery, Illinois",4497.103448275862
+559,"Montgomery, Kentucky",3472.6315789473683
+560,"Montgomery, North Carolina",2295.1789115646257
+561,"Montgomery, Pennsylvania",2265.746201966041
+562,"Montgomery, Virginia",1522.4
+563,"Montour county, Pennsylvania",2416.6666666666665
+564,"Montour, Pennsylvania",2128.0392156862745
+565,"Moore, North Carolina",4235.0
+566,"Morgan, Alabama",1977.5347222222222
+567,"Morgan, Illinois",3613.6363636363635
+568,"Morgan, Kentucky",2095.6666666666665
+569,"Morgan, West Virginia",3594.972067039106
+570,"Morris, New Jersey",2966.2328767123286
+571,"Morton, North Dakota",2700.0
+572,"Mountrail, North Dakota",3072.0689655172414
+573,"Muhlenberg, Kentucky",3106.6666666666665
+574,"Murray, Oklahoma",3686.1356589147285
+575,"Muskogee, Oklahoma",3828.8234660925727
+576,"Musselshell, Montana",4486.111111111111
+577,"Napa, California",3179.900105152471
+578,"Nash, North Carolina",4761.429411764706
+579,"Natrona, Wyoming",3787.4161572052403
+580,"Nelson, Kentucky",3149.43661971831
+581,"Nelson, Virginia",1234.9056603773586
+582,"Nevada, California",914.3589743589744
+583,"New hanover, North Carolina",4586.069059011164
+584,"Newberry, South Carolina",2579.6736596736596
+585,"Newport news, Virginia",4871.7317487266555
+586,"Niagara, New York",2062.2540250447228
+587,"Nicholas, Kentucky",2896.7905405405404
+588,"Nicholas, West Virginia",1350.1342281879195
+589,"Noble, Oklahoma",3976.9555555555557
+590,"Nome, Alaska",312.72727272727275
+591,"Norfolk, Virginia",0.0
+592,"North slope borough, Alaska",0.0
+593,"North slope, Alaska",2082.4670666666666
+594,"Northampton, Pennsylvania",1390.15
+595,"Northumberland, Pennsylvania",1991.146572104019
+596,"Northwest arctic, Alaska",7628.611111111111
+597,"Norton, Virginia",852.4489795918367
+598,"Nottoway, Virginia",4021.4930555555557
+599,"Nowata, Oklahoma",4214.941441441441
+600,"Nye, Nevada",0.0
+601,"Ocean, New Jersey",3115.6644034917554
+602,"Oconee, South Carolina",1077.6279069767443
+603,"Ohio, Kentucky",2502.2
+604,"Ohio, West Virginia",2433.3812949640287
+605,"Okeechobee, Florida",19200.0
+606,"Okfuskee, Oklahoma",5403.806228373703
+607,"Oklahoma, Oklahoma",4213.397037744864
+608,"Okmulgee, Oklahoma",4851.967741935484
+609,"Oneida, New York",0.0
+610,"Onondaga, New York",2315.2944444444447
+611,"Ontario, New York",2596.951219512195
+612,"Orange, California",848.8074150360453
+613,"Orange, Indiana",1776.7241379310344
+614,"Orange, North Carolina",4213.337004405286
+615,"Orange, Vermont",0.0
+616,"Orange, Virginia",1575.6993006993007
+617,"Orangeburg, South Carolina",3892.1238938053098
+618,"Orleans, Vermont",0.0
+619,"Osage, Oklahoma",4283.151376146789
+620,"Oswego, New York",2022.6201612903226
+621,"Ottawa, Michigan",1899.3333333333333
+622,"Ottawa, Oklahoma",3286.3194444444443
+623,"Otter tail, Minnesota",3922.222222222222
+624,"Owen, Kentucky",3543.5915492957747
+625,"Owsley, Kentucky",1607.8591549295775
+626,"Oxford, Maine",2740.0
+627,"Page, Iowa",3027.847222222222
+628,"Palm beach, Florida",11003.333333333334
+629,"Park, Wyoming",1435.4166666666667
+630,"Parke, Indiana",4490.0
+631,"Passaic, New Jersey",3049.1268758526603
+632,"Patrick, Virginia",638.0392156862745
+633,"Pawnee, Oklahoma",5406.580419580419
+634,"Payne, Oklahoma",3815.932584269663
+635,"Pembina, North Dakota",8925.410958904109
+636,"Pendleton, Kentucky",3242.9861111111113
+637,"Pendleton, West Virginia",2201.6336405529955
+638,"Pennington, Minnesota",9061.111111111111
+639,"Penobscot, Maine",4750.0
+640,"Peoria, Illinois",3958.1944444444443
+641,"Perry, Illinois",5386.111111111111
+642,"Perry, Kentucky",2040.513888888889
+643,"Perry, Ohio",2200.0
+644,"Pershing, Nevada",0.0
+645,"Person, North Carolina",3129.7297297297296
+646,"Petersburg, Alaska",3114.672727272727
+647,"Philadelphia, Pennsylvania",1944.460331299041
+648,"Phillips, Montana",900.0
+649,"Pickens, South Carolina",1400.9651162790697
+650,"Pike, Illinois",4376.923076923077
+651,"Pike, Indiana",4678.90625
+652,"Pike, Kentucky",1821.6554054054054
+653,"Pike, Pennsylvania",235.625
+654,"Piscataquis, Maine",2650.0
+655,"Pitt, North Carolina",5747.447552447553
+656,"Pittsburg, Oklahoma",4809.474782608696
+657,"Pittsylvania, Virginia",2248.6036036036035
+658,"Placer, California",1104.1201716738196
+659,"Plumas, California",0.0
+660,"Pocahontas, West Virginia",2152.528238095238
+661,"Polk, Minnesota",8481.944444444445
+662,"Polk, North Carolina",1056.5217391304348
+663,"Pondera, Montana",4896.2962962962965
+664,"Posey, Indiana",2839.242424242424
+665,"Pottawatomie, Oklahoma",5248.355400696864
+666,"Pottawattamie, Iowa",5080.281690140845
+667,"Potter, Pennsylvania",353.6363636363636
+668,"Powell, Kentucky",2144.465277777778
+669,"Powell, Montana",550.0
+670,"Poweshiek, Iowa",4196.178571428572
+671,"Presque isle, Michigan",10800.0
+672,"Preston, West Virginia",1993.7160751565762
+673,"Prince of wales-hyder, Alaska",7423.828431372549
+674,"Prince william, Virginia",2718.402777777778
+675,"Pulaski, Kentucky",1798.6786516853933
+676,"Pulaski, Virginia",2213.0405405405404
+677,"Pushmataha, Oklahoma",3850.9976635514017
+678,"Putnam, West Virginia",3366.206896551724
+679,"Radford, Virginia",1435.0
+680,"Raleigh, West Virginia",2408.109756097561
+681,"Ramsey, Minnesota",5562.5
+682,"Randolph, Alabama",2116.7
+683,"Randolph, Illinois",5008.978993055556
+684,"Randolph, North Carolina",4476.8421052631575
+685,"Randolph, West Virginia",1430.4732510288065
+686,"Ravalli, Montana",1690.3478260869565
+687,"Richland, Illinois",3955.205479452055
+688,"Richland, Montana",3304.969696969697
+689,"Richland, Ohio",3283.529411764706
+690,"Richland, South Carolina",2541.637630662021
+691,"Richmond, North Carolina",3789.746543778802
+692,"Richmond, Virginia",2863.8442028985505
+693,"Ripley, Indiana",4310.408910891089
+694,"Ritchie, West Virginia",3165.277777777778
+695,"Riverside, California",1385.9427207637232
+696,"Roane, West Virginia",3413.8194444444443
+697,"Roanoke, Virginia",1531.696964285714
+698,"Robeson, North Carolina",4237.639041095891
+699,"Rock island, Illinois",4941.859215017064
+700,"Rockbridge, Virginia",1737.9346527777777
+701,"Rockcastle, Kentucky",2764.8026315789475
+702,"Rockingham, North Carolina",2501.7659574468084
+703,"Rockingham, Virginia",1386.7761020881671
+704,"Roger mills, Oklahoma",3376.266666666667
+705,"Rogers, Oklahoma",3800.4575342465755
+706,"Roosevelt, Montana",2808.219178082192
+707,"Rosebud, Montana",2252.5925925925926
+708,"Rowan, Kentucky",2464.9797297297296
+709,"Rowan, North Carolina",2617.8153333333335
+710,"Russell, Alabama",2329.8245614035086
+711,"Russell, Kentucky",2125.5
+712,"Russell, Virginia",972.542372881356
+713,"Rutherford, North Carolina",1335.989010989011
+714,"Rutland, Vermont",29.213483146067414
+715,"Sacramento county, California",0.0
+716,"Sacramento, California",1748.5797598627787
+717,"Sagadahoc, Maine",3400.0
+718,"Saginaw, Michigan",1561.3333333333333
+719,"Saint clair, Michigan",1179.3333333333333
+720,"Saint louis, Minnesota",5621.920668058455
+721,"Salem, New Jersey",6426.170212765957
+722,"Salem, Virginia",1254.404255319149
+723,"Salt lake, Utah",1516.0990963855422
+724,"San benito, California",2593.4166666666665
+725,"San bernardino, California",1706.6640563821456
+726,"San diego, California",4342.354838709677
+727,"San francisco, California",1150.0
+728,"San joaquin, California",2217.3061224489797
+729,"San juan, Utah",1724.174721189591
+730,"San luis obispo, California",3218.109756097561
+731,"San mateo, California",1834.6301369863013
+732,"Sangamon, Illinois",3252.831724137931
+733,"Santa barbara, California",2762.1666666666665
+734,"Santa clara, California",3104.5045045045044
+735,"Santa cruz, California",4331.964285714285
+736,"Saratoga, New York",3252.065009940358
+737,"Schoharie, New York",2468.913023255814
+738,"Schuyler, New York",2071.4285714285716
+739,"Schuylkill, Pennsylvania",1624.118372379778
+740,"Scott, Indiana",4721.7164179104475
+741,"Scott, Iowa",4965.277777777777
+742,"Scott, Kentucky",1447.0
+743,"Scott, Virginia",1316.578947368421
+744,"Seminole, Oklahoma",5181.959459459459
+745,"Seneca, New York",2321.1111111111113
+746,"Sequoyah, Oklahoma",2247.7118473895584
+747,"Shasta, California",1074.3820224719102
+748,"Shelby, Alabama",1794.6276923076923
+749,"Shelby, Kentucky",3148.0851063829787
+750,"Shenandoah, Virginia",1873.2291666666667
+751,"Sheridan, Wyoming",1720.1589235127478
+752,"Silverbow, Montana",3169.182389937107
+753,"Simpson, Kentucky",1690.281690140845
+754,"Siskiyou, California",4446.458333333333
+755,"Sitka city and, Alaska",0.0
+756,"Smyth, Virginia",871.8
+757,"Snyder, Pennsylvania",1006.5935483870968
+758,"Solano, California",3737.815631262525
+759,"Somerset, Maine",2374.0689655172414
+760,"Somerset, New Jersey",2478.4375
+761,"Somerset, Pennsylvania",1767.0379746835442
+762,"Sonoma, California",1749.4117647058824
+763,"Southeast fairbanks census area, Alaska",0.0
+764,"Southeast fairbanks, Alaska",0.0
+765,"Spartanburg, South Carolina",1548.5089463220677
+766,"Spotsylvania, Virginia",3353.090277777778
+767,"St. clair, Alabama",600.0
+768,"St. clair, Illinois",4512.414139344262
+769,"St. clair, Michigan",1364.1666666666667
+770,"St. lawrence, New York",3961.2954545454545
+771,"St. louis, Minnesota",2451.6129032258063
+772,"Stafford, Virginia",3593.1284916201116
+773,"Stanislaus, California",1818.1176470588234
+774,"Stanly, North Carolina",2550.010891089109
+775,"Stark, North Dakota",2686.4864864864867
+776,"Staunton, Virginia",791.3931034482758
+777,"Stearns, Minnesota",6207.638888888889
+778,"Stephens, Oklahoma",4509.551724137931
+779,"Steuben, New York",2561.4024390243903
+780,"Stokes, North Carolina",1839.8
+781,"Storey, Nevada",0.0
+782,"Story, Iowa",1200.0
+783,"Sublette, Wyoming",932.5806451612904
+784,"Suffolk, Virginia",4613.219178082192
+785,"Sullivan, New York",3013.6088154269974
+786,"Summers, West Virginia",1665.6571428571428
+787,"Summit, Utah",1784.7457627118645
+788,"Sumter, Alabama",3815.5555555555557
+789,"Surry, North Carolina",1335.0467289719627
+790,"Susquehanna, Pennsylvania",2160.631067961165
+791,"Sutter, California",2847.0588235294117
+792,"Swain, North Carolina",697.2058823529412
+793,"Sweetwater county, Wyoming",2425.1458333333335
+794,"Sweetwater, Wyoming",2486.5182033096926
+795,"Talladega, Alabama",1988.0463215258856
+796,"Tallapoosa, Alabama",2309.375
+797,"Taylor, Kentucky",2653.1944444444443
+798,"Taylor, West Virginia",1503.28125
+799,"Tazewell, Virginia",1278.5159010600707
+800,"Teton, Montana",3598.4375
+801,"Teton, Wyoming",742.2734848484849
+802,"Tillman, Oklahoma",4704.7945205479455
+803,"Tioga county, Pennsylvania",1032.608695652174
+804,"Tioga, Pennsylvania",2479.6228187919464
+805,"Todd, Kentucky",1941.4634146341464
+806,"Tooele, Utah",449.4845360824742
+807,"Traill, North Dakota",7685.5
+808,"Transylvania, North Carolina",710.5911330049261
+809,"Treasure, Montana",2400.877192982456
+810,"Trigg, Kentucky",1700.8916083916083
+811,"Trumbull, Ohio",3166.6666666666665
+812,"Tucker, West Virginia",3009.67926286509
+813,"Tulare, California",1310.0340715502555
+814,"Tulsa, Oklahoma",3311.4392361111113
+815,"Tuolumne, California",1573.567115902965
+816,"Tuscaloosa, Alabama",2255.6341463414633
+817,"Tyler, West Virginia",2925.8697183098593
+818,"Uinta, Wyoming",3716.22
+819,"Uintah, Utah",1989.787234042553
+820,"Union, Illinois",4181.25
+821,"Union, Iowa",5774.10071942446
+822,"Union, Kentucky",2654.655172413793
+823,"Union, New Jersey",3234.035087719298
+824,"Union, North Carolina",5149.115646258503
+825,"Union, Pennsylvania",654.2214285714285
+826,"Union, South Carolina",1667.7657342657342
+827,"Upshur, West Virginia",1767.679574468085
+828,"Utah, Utah",2259.334615384615
+829,"Valdez-cordova, Alaska",8794.066666666668
+830,"Valley, Montana",2035.1020408163265
+831,"Van buren, Michigan",1642.5
+832,"Vance, North Carolina",2525.170068027211
+833,"Vanderburgh, Indiana",2997.5757575757575
+834,"Venango, Pennsylvania",1821.3908450704225
+835,"Ventura, California",996.0199004975125
+836,"Vermilion, Illinois",3018.288288288288
+837,"Wabash, Illinois",1498.4
+838,"Wade hampton, Alaska",6226.844221105528
+839,"Wagoner, Oklahoma",4025.1251072961372
+840,"Wake, North Carolina",4761.823216080402
+841,"Wakulla, Florida",761.5384615384615
+842,"Walker, Alabama",2334.074074074074
+843,"Walsh, North Dakota",7383.402777777777
+844,"Wapello, Iowa",3220.0
+845,"Warren, Kentucky",2079.8611111111113
+846,"Warren, New Jersey",2039.4088669950738
+847,"Warren, New York",2353.478260869565
+848,"Warren, Pennsylvania",1178.0701754385964
+849,"Warren, Virginia",1263.5815602836878
+850,"Wasatch, Utah",767.8111587982833
+851,"Washington, Illinois",5716.712328767123
+852,"Washington, Indiana",2987.3863636363635
+853,"Washington, Kentucky",4309.324324324324
+854,"Washington, Maine",2833.3333333333335
+855,"Washington, New York",2766.8333333333335
+856,"Washington, Oklahoma",4195.190972222223
+857,"Washington, Pennsylvania",2274.5714285714284
+858,"Washington, Utah",1709.4059405940593
+859,"Washington, Vermont",1120.8239999999998
+860,"Washington, Virginia",1973.8235294117646
+861,"Washoe, Nevada",493.03499079189686
+862,"Watauga, North Carolina",1307.4083769633507
+863,"Wayne, Illinois",5325.916724738676
+864,"Wayne, Indiana",2548.1111111111113
+865,"Wayne, Kentucky",1833.0821917808219
+866,"Wayne, Michigan",1474.0
+867,"Wayne, New York",2058.8279116465865
+868,"Wayne, North Carolina",6082.602739726028
+869,"Wayne, West Virginia",2208.0536912751677
+870,"Weber, Utah",2379.032894736842
+871,"Webster, Kentucky",3402.3972602739727
+872,"Webster, West Virginia",1141.4957264957266
+873,"Westmoreland, Pennsylvania",1659.0
+874,"Wetzel, West Virginia",1502.3865546218487
+875,"White pine, Nevada",0.0
+876,"Whitley, Kentucky",2623.310344827586
+877,"Wilcox, Alabama",3413.605442176871
+878,"Wilkes, North Carolina",1046.3694267515923
+879,"Will, Illinois",3813.1944444444443
+880,"Williams, North Dakota",2361.40350877193
+881,"Williamson, Illinois",4180.62015503876
+882,"Wilson, North Carolina",6072.454212454212
+883,"Winchester, Virginia",1930.6153846153845
+884,"Windham, Vermont",0.0
+885,"Windsor, Vermont",0.0
+886,"Winston, Alabama",1957.7205882352941
+887,"Wise, Virginia",1899.5700934579438
+888,"Wolfe, Kentucky",2508.227848101266
+889,"Wood, West Virginia",2825.56338028169
+890,"Woodbury, Iowa",2400.0
+891,"Woodford, Kentucky",2451.478873239437
+892,"Wrangell, Alaska",0.0
+893,"Wyandotte, Kansas",0.0
+894,"Wyoming, New York",3067.6190476190477
+895,"Wyoming, West Virginia",1544.0342187499998
+896,"Wythe, Virginia",1421.027397260274
+897,"Yadkin, North Carolina",2444.4882291666668
+898,"Yancey, North Carolina",567.6086956521739
+899,"Yates, New York",2460.3804347826085
+900,"Yellowstone, Montana",1915.007072135785
+901,"Yolo, California",2174.0476190476193
+902,"York, Maine",2362.6439790575914
+903,"York, Pennsylvania",1784.6578366445915
+904,"York, South Carolina",2804.7940350877193
+905,"Yuba, California",1576.3157894736842
+906,"Yukon-koyukuk, Alaska",1895.4117647058824

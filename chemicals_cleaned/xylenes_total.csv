@@ -1,0 +1,2890 @@
+,county,xylenes_total
+0,"-, Arizona",0.0
+1,"Abbeville, South Carolina",0.0
+2,"Acadia, Louisiana",0.0
+3,"Accomack, Virginia",0.20324675324675326
+4,"Ada, Idaho",0.0013618677042801556
+5,"Adair, Iowa",0.0
+6,"Adair, Kentucky",0.0
+7,"Adair, Missouri",0.0
+8,"Adair, Oklahoma",0.0
+9,"Adams, Idaho",0.0
+10,"Adams, Illinois",1.0850573170731708
+11,"Adams, Indiana",0.0
+12,"Adams, Iowa",0.0
+13,"Adams, Nebraska",0.004621621621621622
+14,"Adams, Ohio",0.0
+15,"Adams, Pennsylvania",0.13975961538461537
+16,"Adams, Washington",0.030275229357798167
+17,"Adams, Wisconsin",0.163859649122807
+18,"Addison, Vermont",0.0
+19,"Aiken, South Carolina",0.14228855721393036
+20,"Aitkin, Minnesota",0.11176470588235293
+21,"Alachua, Florida",0.31059523809523815
+22,"Alamance, North Carolina",3.904607476635514
+23,"Alameda, California",0.0
+24,"Albany, Wyoming",0.0
+25,"Albemarle, Virginia",0.6420454545454546
+26,"Alcona, Michigan",0.0
+27,"Aleutians east borough, Alaska",0.0
+28,"Aleutians east, Alaska",0.0
+29,"Aleutians west census area, Alaska",0.0
+30,"Aleutians west, Alaska",0.0
+31,"Alexander, Illinois",0.25706249999999997
+32,"Alexander, North Carolina",0.48928571428571427
+33,"Alfalfa, Oklahoma",0.0
+34,"Alger, Michigan",0.0
+35,"Allamakee county, Iowa",0.0
+36,"Allamakee, Iowa",0.0
+37,"Allegan, Michigan",0.062146892655367235
+38,"Allegany, Maryland",0.06363636363636363
+39,"Alleghany, North Carolina",2.4551190476190476
+40,"Alleghany, Virginia",1.025
+41,"Allegheny county, Pennsylvania",0.0
+42,"Allegheny, Pennsylvania",0.0
+43,"Allen, Indiana",0.015873015873015872
+44,"Allen, Kansas",3.965625
+45,"Allen, Kentucky",0.0
+46,"Allen, Louisiana",0.0
+47,"Allen, Ohio",0.0
+48,"Allendale, South Carolina",0.0
+49,"Alpena, Michigan",0.0
+50,"Alpine, California",0.0
+51,"Amador, California",0.25706666666666667
+52,"Amelia, Virginia",0.0
+53,"American samoa, American Samoa",0.0
+54,"Amherst, Virginia",0.0
+55,"Anchorage municipality, Alaska",0.0
+56,"Anchorage, Alaska",0.003763440860215054
+57,"Anderson, Kansas",0.0
+58,"Anderson, Kentucky",0.0
+59,"Anderson, South Carolina",0.0
+60,"Anderson, Tennessee",0.0
+61,"Anderson, Texas",0.8087272727272729
+62,"Andrew, Missouri",0.0
+63,"Andrews, Texas",0.0
+64,"Androscoggin, Maine",0.0
+65,"Angelina, Texas",0.10864406779661018
+66,"Anne arundel, Maryland",0.09449760765550239
+67,"Anoka, Minnesota",0.14462962962962964
+68,"Anson, North Carolina",0.0
+69,"Antelope, Nebraska",0.0
+70,"Antrim, Michigan",0.0
+71,"Apache, Arizona",0.006578947368421052
+72,"Appanoose, Iowa",1.625
+73,"Appomattox, Virginia",0.0
+74,"Aransas, Texas",0.0
+75,"Archer, Texas",0.0
+76,"Arenac, Michigan",0.0
+77,"Arkansas, Arkansas",0.0
+78,"Armstrong county, Pennsylvania",0.0
+79,"Armstrong, Pennsylvania",0.048888888888888885
+80,"Armstrong, Texas",0.0
+81,"Aroostook, Maine",0.0
+82,"Arthur, Nebraska",0.0
+83,"Ascension, Louisiana",0.0
+84,"Ashe, North Carolina",0.2712264150943396
+85,"Ashland, Ohio",0.053492063492063494
+86,"Ashland, Wisconsin",0.0
+87,"Ashley, Arkansas",0.24939999999999998
+88,"Ashtabula, Ohio",0.0
+89,"Asotin, Washington",0.0
+90,"Assumption, Louisiana",0.0
+91,"Atascosa county, Texas",0.0
+92,"Atascosa, Texas",0.2911111111111111
+93,"Atchison, Kansas",0.0
+94,"Atchison, Missouri",0.0
+95,"Athens, Ohio",0.0
+96,"Atlantic, New Jersey",0.033294797687861276
+97,"Atoka, Oklahoma",0.06578947368421052
+98,"Audrain, Missouri",0.0
+99,"Audubon, Iowa",0.9333333333333332
+100,"Auglaize, Ohio",0.0
+101,"Augusta, Virginia",0.0
+102,"Aurora, South Dakota",0.0
+103,"Austin, Texas",0.0
+104,"Autauga, Alabama",0.0
+105,"Avery, North Carolina",0.6053254437869823
+106,"Avoyelles, Louisiana",0.0
+107,"B, Oklahoma",0.0
+108,"Bailey, Texas",0.0
+109,"Baker county, Florida",0.0
+110,"Baker, Florida",0.0
+111,"Baker, Oregon",0.0
+112,"Baldwin, Alabama",0.15625
+113,"Ballard, Kentucky",0.4411627906976745
+114,"Baltimore city, Maryland",0.0
+115,"Baltimore, Maryland",0.04193548387096774
+116,"Bamberg, South Carolina",0.0
+117,"Bandera, Texas",0.5463461538461538
+118,"Banner, Nebraska",0.0
+119,"Bannock, Idaho",0.0
+120,"Baraga, Michigan",0.06785714285714285
+121,"Barber, Kansas",0.7684210526315789
+122,"Barbour, Alabama",0.23826666666666663
+123,"Barbour, West Virginia",0.0
+124,"Barnes, North Dakota",0.0
+125,"Barnstable, Massachusetts",0.005379442843419788
+126,"Barnwell, South Carolina",0.17310344827586205
+127,"Barren, Kentucky",0.0
+128,"Barron, Wisconsin",0.0
+129,"Barry, Michigan",0.0
+130,"Barry, Missouri",0.1467692307692308
+131,"Bartholomew, Indiana",0.0
+132,"Barton, Kansas",0.17313432835820894
+133,"Barton, Missouri",0.0
+134,"Bastrop, Texas",0.0
+135,"Bates, Missouri",0.325
+136,"Bath, Virginia",0.0
+137,"Baxter, Arkansas",0.1
+138,"Bay, Florida",0.16901408450704225
+139,"Bay, Michigan",0.0
+140,"Bayfield, Wisconsin",0.0
+141,"Baylor, Texas",0.0
+142,"Beadle, South Dakota",0.0
+143,"Bear lake, Idaho",0.0
+144,"Beaufort, North Carolina",0.451063829787234
+145,"Beaufort, South Carolina",0.04771739130434783
+146,"Beauregard, Louisiana",0.0
+147,"Beaver county, Pennsylvania",0.0
+148,"Beaver, Oklahoma",0.0
+149,"Beaver, Pennsylvania",0.02348148148148148
+150,"Beaver, Utah",0.0
+151,"Beaverhead, Montana",0.0
+152,"Becker, Minnesota",0.3829268292682927
+153,"Beckham, Oklahoma",0.0
+154,"Bedford county, Pennsylvania",0.0
+155,"Bedford, Pennsylvania",0.1700617283950617
+156,"Bedford, Tennessee",0.0
+157,"Bedford, Virginia",0.24684684684684688
+158,"Bee, Texas",0.03222222222222222
+159,"Belknap, New Hampshire",0.0
+160,"Bell, Kentucky",0.0
+161,"Bell, Texas",0.11750000000000001
+162,"Belmont, Ohio",0.0
+163,"Beltrami county, Minnesota",0.0
+164,"Beltrami, Minnesota",0.012962962962962964
+165,"Benewah, Idaho",0.0
+166,"Bennett, South Dakota",0.0
+167,"Bennington, Vermont",0.0
+168,"Benson, North Dakota",0.0
+169,"Benton county, Arkansas",0.0
+170,"Benton, Arkansas",0.015333333333333332
+171,"Benton, Indiana",0.0
+172,"Benton, Iowa",0.22263157894736843
+173,"Benton, Minnesota",0.02112676056338028
+174,"Benton, Missouri",0.1510989010989011
+175,"Benton, Oregon",0.0
+176,"Benton, Tennessee",0.032777777777777774
+177,"Benton, Washington",0.04626168224299066
+178,"Benzie, Michigan",0.0
+179,"Bergen, New Jersey",0.004071470415934387
+180,"Berkeley, South Carolina",0.0
+181,"Berkeley, West Virginia",0.417283950617284
+182,"Berks county, Pennsylvania",0.0
+183,"Berks, Pennsylvania",0.07623062015503876
+184,"Berkshire, Massachusetts",0.0
+185,"Bernalillo, New Mexico",0.18859106529209624
+186,"Berrien, Michigan",0.0
+187,"Bertie, North Carolina",0.08383838383838385
+188,"Bethel census area, Alaska",0.085
+189,"Bethel, Alaska",0.40512048192771083
+190,"Bexar, Texas",0.2094701986754967
+191,"Bibb, Alabama",0.0
+192,"Bienville, Louisiana",0.0
+193,"Big horn, Montana",1.1830508474576271
+194,"Big horn, Wyoming",0.0
+195,"Big stone, Minnesota",0.02608695652173913
+196,"Billings, North Dakota",0.0
+197,"Bingham, Idaho",0.003355704697986577
+198,"Black hawk, Iowa",0.8103896103896104
+199,"Blackford, Indiana",0.0
+200,"Bladen, North Carolina",0.7056818181818181
+201,"Blaine, Idaho",0.0
+202,"Blaine, Montana",0.0
+203,"Blaine, Nebraska",0.0
+204,"Blaine, Oklahoma",0.0
+205,"Blair county, Pennsylvania",0.0
+206,"Blair, Pennsylvania",0.0
+207,"Blanco, Texas",0.0
+208,"Bland, Virginia",0.0
+209,"Bledsoe, Tennessee",0.0
+210,"Blount, Alabama",0.0
+211,"Blount, Tennessee",0.0
+212,"Blue earth, Minnesota",0.15
+213,"Boise, Idaho",0.0
+214,"Bollinger, Missouri",0.17421052631578945
+215,"Bon homme, South Dakota",0.0
+216,"Bond, Illinois",0.0
+217,"Bonner, Idaho",0.0
+218,"Bonneville, Idaho",7.807486631016043
+219,"Boone, Arkansas",0.011590909090909091
+220,"Boone, Illinois",0.18140350877192984
+221,"Boone, Indiana",0.0
+222,"Boone, Iowa",0.1625
+223,"Boone, Kentucky",0.0
+224,"Boone, Missouri",0.1486842105263158
+225,"Boone, Nebraska",0.0
+226,"Boone, West Virginia",0.0
+227,"Bosque, Texas",0.0642857142857143
+228,"Bossier, Louisiana",0.0
+229,"Botetourt, Virginia",0.01806167400881057
+230,"Bottineau, North Dakota",0.0
+231,"Boundary, Idaho",0.0
+232,"Bourbon, Kansas",0.0
+233,"Bourbon, Kentucky",0.0
+234,"Bowie, Texas",0.0
+235,"Bowman, North Dakota",0.0
+236,"Box butte, Nebraska",0.019807692307692307
+237,"Box elder, Utah",0.0
+238,"Boyd, Kentucky",0.0
+239,"Boyd, Nebraska",0.11055555555555556
+240,"Boyle, Kentucky",0.0
+241,"Bracken, Kentucky",0.0
+242,"Bradford, Florida",0.029655172413793108
+243,"Bradford, Pennsylvania",0.007650273224043715
+244,"Bradley, Arkansas",0.0452
+245,"Bradley, Tennessee",0.0
+246,"Branch, Michigan",0.0
+247,"Braxton, West Virginia",0.0
+248,"Brazoria, Texas",0.04409090909090909
+249,"Brazos, Texas",0.06842105263157895
+250,"Breathitt, Kentucky",0.0
+251,"Breckinridge, Kentucky",0.0
+252,"Bremer, Iowa",0.0
+253,"Brevard, Florida",0.10368794326241136
+254,"Brewster, Texas",0.14285714285714285
+255,"Briscoe, Texas",0.0
+256,"Bristol bay, Alaska",0.0
+257,"Bristol, Massachusetts",0.01323529411764706
+258,"Bristol, Rhode Island",0.0
+259,"Bristol, Virginia",0.0
+260,"Broadwater, Montana",0.0
+261,"Brooke, West Virginia",0.0
+262,"Brookings, South Dakota",0.0
+263,"Brooks, Texas",0.0
+264,"Broward county, Florida",0.0
+265,"Broward, Florida",0.00942622950819672
+266,"Brown, Illinois",0.0
+267,"Brown, Indiana",0.0
+268,"Brown, Kansas",1.112
+269,"Brown, Minnesota",0.0735
+270,"Brown, Nebraska",0.0
+271,"Brown, Ohio",0.0
+272,"Brown, South Dakota",0.0
+273,"Brown, Texas",0.0
+274,"Brown, Wisconsin",0.02168224299065421
+275,"Brule, South Dakota",0.0
+276,"Brunswick, North Carolina",0.23636363636363636
+277,"Brunswick, Virginia",0.0
+278,"Bryan, Oklahoma",0.1388461538461538
+279,"Buchanan, Iowa",0.07391304347826087
+280,"Buchanan, Virginia",0.0
+281,"Buckingham, Virginia",0.0
+282,"Bucks county, Pennsylvania",0.03397260273972603
+283,"Bucks, Pennsylvania",0.11548293811451706
+284,"Buena vista, Iowa",1.105263157894737
+285,"Buena vista, Virginia",0.0
+286,"Buffalo, Nebraska",0.0075
+287,"Buffalo, Wisconsin",0.025813953488372097
+288,"Bullock, Alabama",0.024545454545454547
+289,"Buncombe, North Carolina",0.34552631578947374
+290,"Bureau, Illinois",0.22372641509433958
+291,"Burke, North Carolina",0.0
+292,"Burke, North Dakota",0.0
+293,"Burleigh, North Dakota",0.0
+294,"Burleson, Texas",0.04615384615384615
+295,"Burlington, New Jersey",0.05784615384615385
+296,"Burnet, Texas",0.26321839080459775
+297,"Burnett, Wisconsin",0.0
+298,"Burt, Nebraska",0.0
+299,"Butler county, Pennsylvania",0.0
+300,"Butler, Alabama",0.06173076923076923
+301,"Butler, Iowa",0.14
+302,"Butler, Kansas",0.0
+303,"Butler, Kentucky",0.0
+304,"Butler, Missouri",0.12222222222222223
+305,"Butler, Nebraska",0.0809433962264151
+306,"Butler, Ohio",0.0
+307,"Butler, Pennsylvania",0.07613307984790875
+308,"Butte, California",0.000390625
+309,"Butte, Idaho",0.08823529411764706
+310,"Butte, South Dakota",0.0
+311,"Cabarrus, North Carolina",0.3607142857142857
+312,"Cabell, West Virginia",0.0
+313,"Cache, Utah",0.0
+314,"Caddo parish, Louisiana",0.0
+315,"Caddo, Louisiana",0.020069930069930072
+316,"Caddo, Oklahoma",0.29709302325581394
+317,"Calaveras, California",0.006893203883495146
+318,"Calcasieu, Louisiana",0.02859154929577465
+319,"Caldwell, Kentucky",0.0
+320,"Caldwell, Louisiana",0.018125
+321,"Caldwell, Missouri",0.0
+322,"Caldwell, North Carolina",0.0
+323,"Caldwell, Texas",0.04666666666666666
+324,"Caledonia, Vermont",0.0
+325,"Calhoun, Alabama",0.137037037037037
+326,"Calhoun, Arkansas",0.223939393939394
+327,"Calhoun, Florida",0.0
+328,"Calhoun, Illinois",0.0
+329,"Calhoun, Iowa",0.5
+330,"Calhoun, Michigan",1.5286624203821657
+331,"Calhoun, South Carolina",0.0
+332,"Calhoun, Texas",0.0
+333,"Calhoun, West Virginia",1.0636363636363637
+334,"Callahan, Texas",0.0
+335,"Callaway, Missouri",0.04542372881355933
+336,"Calloway, Kentucky",0.0
+337,"Calumet, Wisconsin",0.11797752808988762
+338,"Calvert, Maryland",0.16578073089700995
+339,"Camas, Idaho",0.0
+340,"Cambria county, Pennsylvania",0.0
+341,"Cambria, Pennsylvania",0.03852112676056338
+342,"Camden, Missouri",0.029722222222222223
+343,"Camden, New Jersey",0.011290877796901895
+344,"Camden, North Carolina",0.0
+345,"Cameron, Louisiana",0.03225806451612903
+346,"Cameron, Pennsylvania",0.0
+347,"Cameron, Texas",0.00693069306930693
+348,"Camp, Texas",0.1724137931034483
+349,"Campbell, Kentucky",0.0
+350,"Campbell, Tennessee",0.15471698113207547
+351,"Campbell, Virginia",0.19692307692307692
+352,"Campbell, Wyoming",0.01517241379310345
+353,"Canadian, Oklahoma",0.0
+354,"Cannon, Tennessee",0.0
+355,"Canyon, Idaho",0.0
+356,"Cape girardeau, Missouri",0.01353658536585366
+357,"Cape may, New Jersey",0.006435331230283912
+358,"Carbon county, Pennsylvania",0.0
+359,"Carbon, Montana",0.0
+360,"Carbon, Pennsylvania",0.39137931034482765
+361,"Carbon, Utah",0.0
+362,"Carbon, Wyoming",0.0
+363,"Caribou, Idaho",0.0
+364,"Carlisle, Kentucky",0.0
+365,"Carlton, Minnesota",0.08358208955223881
+366,"Caroline, Maryland",0.1125
+367,"Caroline, Virginia",0.022941176470588236
+368,"Carroll, Arkansas",0.10658682634730537
+369,"Carroll, Illinois",0.14308620689655172
+370,"Carroll, Indiana",0.0
+371,"Carroll, Iowa",0.6142857142857143
+372,"Carroll, Kentucky",0.0
+373,"Carroll, Maryland",0.04422110552763819
+374,"Carroll, Missouri",0.0
+375,"Carroll, New Hampshire",0.648936170212766
+376,"Carroll, Ohio",0.07220588235294118
+377,"Carroll, Tennessee",0.0
+378,"Carroll, Virginia",0.16013513513513514
+379,"Carson city, Nevada",0.04429951690821256
+380,"Carson, Texas",0.36615384615384616
+381,"Carter, Kentucky",0.0
+382,"Carter, Missouri",0.0
+383,"Carter, Montana",0.0
+384,"Carter, Oklahoma",0.004496124031007752
+385,"Carter, Tennessee",0.0
+386,"Carteret, North Carolina",0.02142857142857143
+387,"Carver, Minnesota",16.801203703703703
+388,"Cascade, Montana",0.017362637362637365
+389,"Casey, Kentucky",0.0
+390,"Cass, Illinois",0.0332662962962963
+391,"Cass, Indiana",0.0
+392,"Cass, Iowa",0.908125
+393,"Cass, Michigan",0.0
+394,"Cass, Minnesota",0.029285714285714286
+395,"Cass, Missouri",0.0
+396,"Cass, Nebraska",0.026898148148148147
+397,"Cass, North Dakota",0.0
+398,"Cass, Texas",0.0
+399,"Cassia, Idaho",0.0
+400,"Castro, Texas",0.17388888888888887
+401,"Caswell, North Carolina",0.02962962962962963
+402,"Catahoula, Louisiana",0.0
+403,"Catawba, North Carolina",0.44862745098039214
+404,"Catron, New Mexico",0.0
+405,"Cavalier, North Dakota",0.0
+406,"Cecil, Maryland",0.14028103044496487
+407,"Cedar, Iowa",0.9458333333333333
+408,"Cedar, Missouri",7.816
+409,"Cedar, Nebraska",0.08208391608391608
+410,"Centre county, Pennsylvania",0.23785714285714285
+411,"Centre, Pennsylvania",0.010899182561307902
+412,"Cerro gordo, Iowa",0.5608695652173913
+413,"Chambers, Alabama",0.0
+414,"Chambers, Texas",0.08
+415,"Champaign, Illinois",0.3982878
+416,"Champaign, Ohio",0.0
+417,"Chariton, Missouri",0.03571428571428571
+418,"Charles city, Virginia",0.3459459459459459
+419,"Charles mix, South Dakota",0.0
+420,"Charles, Maryland",0.35315315315315315
+421,"Charleston county, South Carolina",0.39125
+422,"Charleston, South Carolina",0.6095652173913044
+423,"Charlevoix, Michigan",0.04938271604938271
+424,"Charlotte, Florida",1.6251923076923078
+425,"Charlotte, Virginia",0.1380952380952381
+426,"Chase, Kansas",0.0
+427,"Chase, Nebraska",0.0
+428,"Chatham, North Carolina",0.24482758620689657
+429,"Chautauqua, Kansas",0.18571428571428572
+430,"Chaves, New Mexico",0.0
+431,"Cheatham, Tennessee",0.0
+432,"Cheboygan, Michigan",0.08333333333333333
+433,"Chelan, Washington",0.0
+434,"Cherokee, Alabama",0.0
+435,"Cherokee, Iowa",0.7833333333333333
+436,"Cherokee, Kansas",0.3875
+437,"Cherokee, North Carolina",0.0
+438,"Cherokee, Oklahoma",0.02784
+439,"Cherokee, South Carolina",0.0
+440,"Cherokee, Texas",0.21236363636363637
+441,"Cherry, Nebraska",0.0
+442,"Chesapeake city, Virginia",0.0
+443,"Chesapeake, Virginia",0.098
+444,"Cheshire, New Hampshire",0.0
+445,"Chester county, Pennsylvania",0.0
+446,"Chester, Pennsylvania",0.0741585535465925
+447,"Chester, South Carolina",0.0
+448,"Chester, Tennessee",0.0
+449,"Chesterfield, South Carolina",0.0
+450,"Chesterfield, Virginia",0.0
+451,"Cheyenne, Kansas",0.0
+452,"Cheyenne, Nebraska",0.0
+453,"Chickasaw, Iowa",0.252
+454,"Chicot, Arkansas",0.09233333333333334
+455,"Chilton, Alabama",0.03347826086956522
+456,"Chippewa, Michigan",0.1694915254237288
+457,"Chippewa, Minnesota",0.11000000000000001
+458,"Chippewa, Wisconsin",0.016666666666666666
+459,"Chisago, Minnesota",0.152
+460,"Chittenden, Vermont",0.8188811188811188
+461,"Choctaw, Alabama",0.11312499999999999
+462,"Choctaw, Oklahoma",0.0
+463,"Chouteau, Montana",0.037142857142857144
+464,"Chowan, North Carolina",0.2625
+465,"Christian, Illinois",0.0
+466,"Christian, Kentucky",0.0
+467,"Christian, Missouri",0.0048823529411764705
+468,"Churchill, Nevada",0.19999999999999998
+469,"Cibola, New Mexico",0.0
+470,"Cimarron, Oklahoma",1.2285714285714286
+471,"Citrus county, Florida",0.0
+472,"Citrus, Florida",0.6462666666666669
+473,"Clackamas, Oregon",0.015860215053763442
+474,"Claiborne, Louisiana",0.0
+475,"Claiborne, Tennessee",0.0
+476,"Clallam, Washington",0.00641025641025641
+477,"Clare, Michigan",0.0
+478,"Clarendon, South Carolina",0.0
+479,"Clarion, Pennsylvania",0.010344827586206896
+480,"Clark county, Nevada",0.0
+481,"Clark, Arkansas",0.6715217391304348
+482,"Clark, Idaho",0.0
+483,"Clark, Illinois",0.17678260869565215
+484,"Clark, Indiana",0.0
+485,"Clark, Kansas",0.0
+486,"Clark, Kentucky",0.0
+487,"Clark, Missouri",0.0
+488,"Clark, Nevada",0.24665954415954416
+489,"Clark, Ohio",0.21285714285714283
+490,"Clark, South Dakota",0.0
+491,"Clark, Washington",0.0002192982456140351
+492,"Clark, Wisconsin",0.00592964824120603
+493,"Clarke, Alabama",0.02368421052631579
+494,"Clarke, Iowa",0.5142857142857143
+495,"Clarke, Virginia",0.2786885245901639
+496,"Clatsop, Oregon",0.07323943661971831
+497,"Clay, Alabama",0.0
+498,"Clay, Arkansas",0.022264150943396226
+499,"Clay, Florida",0.2909815950920246
+500,"Clay, Illinois",0.0
+501,"Clay, Indiana",0.0
+502,"Clay, Iowa",0.6250000000000001
+503,"Clay, Kansas",3.1500000000000004
+504,"Clay, Kentucky",0.0
+505,"Clay, Minnesota",0.18307692307692308
+506,"Clay, Missouri",0.0
+507,"Clay, Nebraska",0.0
+508,"Clay, North Carolina",0.0
+509,"Clay, South Dakota",0.0
+510,"Clay, Tennessee",0.0
+511,"Clay, Texas",0.1061904761904762
+512,"Clay, West Virginia",0.0
+513,"Clayton, Iowa",0.11382352941176471
+514,"Clearfield county, Pennsylvania",0.0
+515,"Clearfield, Pennsylvania",0.03222222222222222
+516,"Clearwater, Idaho",0.0
+517,"Clearwater, Minnesota",0.08333333333333333
+518,"Cleburne, Alabama",0.0
+519,"Cleburne, Arkansas",0.04652173913043479
+520,"Clermont, Ohio",0.08855555555555555
+521,"Cleveland, Arkansas",1.0739130434782609
+522,"Cleveland, North Carolina",0.0
+523,"Cleveland, Oklahoma",0.022272727272727274
+524,"Clinton, Illinois",0.032
+525,"Clinton, Indiana",0.0
+526,"Clinton, Iowa",1.7046428571428573
+527,"Clinton, Kentucky",0.0
+528,"Clinton, Michigan",2.759420289855072
+529,"Clinton, Missouri",0.0
+530,"Clinton, Ohio",0.0
+531,"Clinton, Pennsylvania",0.0
+532,"Cloud, Kansas",8.848484848484848
+533,"Coal, Oklahoma",0.0
+534,"Cochise, Arizona",1.0604960835509136
+535,"Cochran, Texas",3.0090909090909093
+536,"Cocke, Tennessee",0.0
+537,"Coconino, Arizona",0.7706024096385542
+538,"Codington, South Dakota",0.0
+539,"Coffee, Alabama",0.021171875
+540,"Coffee, Tennessee",0.0
+541,"Coffey, Kansas",0.35
+542,"Coke, Texas",0.0
+543,"Colbert, Alabama",0.0
+544,"Cole, Missouri",0.08325
+545,"Coleman, Texas",0.0
+546,"Coles, Illinois",0.0
+547,"Colfax, Nebraska",0.06944444444444445
+548,"Colfax, New Mexico",0.0
+549,"Colleton, South Carolina",0.0
+550,"Collier, Florida",0.01440677966101695
+551,"Collin, Texas",0.016046511627906976
+552,"Collingsworth, Texas",0.052941176470588235
+553,"Colorado, Texas",0.02962962962962963
+554,"Columbia county, Pennsylvania",0.0
+555,"Columbia, Arkansas",0.27516129032258063
+556,"Columbia, Florida",0.0
+557,"Columbia, Oregon",0.0
+558,"Columbia, Pennsylvania",0.0
+559,"Columbia, Washington",0.0
+560,"Columbia, Wisconsin",0.0
+561,"Columbiana, Ohio",2.7790184049079754
+562,"Columbus county, North Carolina",0.0
+563,"Columbus, North Carolina",0.07861635220125786
+564,"Colusa, California",0.0
+565,"Comal, Texas",0.0
+566,"Comanche, Kansas",0.3923076923076923
+567,"Comanche, Oklahoma",0.0
+568,"Comanche, Texas",0.0
+569,"Concho, Texas",0.0
+570,"Concordia, Louisiana",0.0
+571,"Conecuh, Alabama",0.0
+572,"Contra costa, California",0.0
+573,"Converse, Wyoming",0.0
+574,"Conway, Arkansas",0.0
+575,"Cook, Illinois",0.20811520737327194
+576,"Cook, Minnesota",0.096875
+577,"Cooke, Texas",0.8242
+578,"Cooper, Missouri",0.0
+579,"Coos, New Hampshire",0.020224719101123598
+580,"Coos, Oregon",0.0
+581,"Coosa, Alabama",0.0
+582,"Corson, South Dakota",0.0
+583,"Coryell, Texas",0.43846153846153846
+584,"Coshocton, Ohio",0.0
+585,"Cottle, Texas",0.0
+586,"Cotton, Oklahoma",0.3514285714285714
+587,"Cottonwood county, Minnesota",0.0
+588,"Cottonwood, Minnesota",0.0
+589,"Covington, Alabama",0.04093220338983051
+590,"Covington, Virginia",0.0
+591,"Cowley, Kansas",0.15806451612903227
+592,"Cowlitz, Washington",0.17882352941176471
+593,"Craig, Oklahoma",0.0
+594,"Craig, Virginia",0.0
+595,"Craighead, Arkansas",1.1884090909090907
+596,"Crane, Texas",0.0
+597,"Craven, North Carolina",0.014583333333333332
+598,"Crawford county, Pennsylvania",0.0
+599,"Crawford, Arkansas",0.09380952380952381
+600,"Crawford, Illinois",0.0
+601,"Crawford, Indiana",0.0
+602,"Crawford, Iowa",1.0999999999999999
+603,"Crawford, Kansas",1.1683333333333334
+604,"Crawford, Michigan",0.0
+605,"Crawford, Missouri",0.057241379310344835
+606,"Crawford, Ohio",0.0
+607,"Crawford, Pennsylvania",0.027777777777777776
+608,"Crawford, Wisconsin",0.0
+609,"Creek, Oklahoma",0.02248062015503876
+610,"Crenshaw, Alabama",0.37974358974358974
+611,"Crittenden, Arkansas",0.019625
+612,"Crittenden, Kentucky",0.0
+613,"Crockett, Tennessee",0.0
+614,"Crockett, Texas",0.0
+615,"Crook, Oregon",0.0
+616,"Crook, Wyoming",0.0
+617,"Crosby, Texas",0.0
+618,"Cross, Arkansas",0.0
+619,"Crow wing, Minnesota",0.015
+620,"Culberson, Texas",0.5191666666666667
+621,"Cullman, Alabama",0.0
+622,"Culpeper, Virginia",8.013454545454545
+623,"Cumberland county, Pennsylvania",0.0
+624,"Cumberland, Illinois",0.0
+625,"Cumberland, Kentucky",0.0
+626,"Cumberland, Maine",0.0
+627,"Cumberland, New Jersey",0.0062890625
+628,"Cumberland, North Carolina",0.039259259259259265
+629,"Cumberland, Pennsylvania",0.008629441624365483
+630,"Cumberland, Tennessee",0.0
+631,"Cumberland, Virginia",0.0
+632,"Cuming, Nebraska",0.0
+633,"Currituck, North Carolina",0.276271186440678
+634,"Curry, New Mexico",0.1193258426966292
+635,"Curry, Oregon",0.0
+636,"Custer, Idaho",0.0
+637,"Custer, Montana",0.0
+638,"Custer, Nebraska",0.0
+639,"Custer, Oklahoma",0.019230769230769232
+640,"Custer, South Dakota",0.0
+641,"Cuyahoga, Ohio",0.0
+642,"Dade, Florida",0.0
+643,"Dade, Missouri",0.0
+644,"Daggett, Utah",0.0
+645,"Dakota, Minnesota",0.10722513089005238
+646,"Dakota, Nebraska",0.0
+647,"Dale, Alabama",0.5350039361702127
+648,"Dallam, Texas",0.33916666666666667
+649,"Dallas, Alabama",0.06432432432432432
+650,"Dallas, Arkansas",0.0
+651,"Dallas, Iowa",0.6836734693877551
+652,"Dallas, Missouri",0.07470588235294118
+653,"Dallas, Texas",0.0
+654,"Dane, Wisconsin",0.06518169582772543
+655,"Daniels, Montana",0.0
+656,"Danville, Virginia",0.0
+657,"Dare, North Carolina",0.39444444444444454
+658,"Darke, Ohio",1.7036764705882352
+659,"Darlington, South Carolina",0.0
+660,"Dauphin county, Pennsylvania",0.0
+661,"Dauphin, Pennsylvania",0.018351063829787236
+662,"Davidson, North Carolina",0.0
+663,"Davidson, Tennessee",0.0
+664,"Davie, North Carolina",0.03111111111111111
+665,"Daviess, Indiana",0.0
+666,"Daviess, Kentucky",0.0
+667,"Daviess, Missouri",0.0
+668,"Davis, Iowa",0.15166666666666667
+669,"Davis, Utah",0.0
+670,"Dawes, Nebraska",0.0
+671,"Dawson, Montana",0.0
+672,"Dawson, Nebraska",0.0
+673,"Dawson, Texas",0.0
+674,"Day, South Dakota",0.0
+675,"De baca, New Mexico",0.0
+676,"De kalb, Indiana",0.0
+677,"De kalb, Missouri",2.76
+678,"De soto, Florida",0.0
+679,"De soto, Louisiana",0.024285714285714285
+680,"De witt, Illinois",0.024511111111111112
+681,"Deaf smith, Texas",0.0
+682,"Dearborn, Indiana",0.0
+683,"Decatur, Indiana",0.0
+684,"Decatur, Iowa",0.5777777777777778
+685,"Decatur, Kansas",0.0
+686,"Decatur, Tennessee",0.0
+687,"Deer lodge, Montana",0.0
+688,"Defiance, Ohio",0.29
+689,"Dekalb, Alabama",0.02258064516129032
+690,"Dekalb, Illinois",0.0
+691,"Dekalb, Indiana",0.0
+692,"Dekalb, Missouri",0.0
+693,"Dekalb, Tennessee",0.0
+694,"Del norte county, California",0.0
+695,"Del norte, California",0.0
+696,"Delaware, Indiana",0.34516129032258064
+697,"Delaware, Iowa",0.031818181818181815
+698,"Delaware, Ohio",0.0
+699,"Delaware, Oklahoma",0.0875
+700,"Delaware, Pennsylvania",0.0
+701,"Delta, Michigan",0.2114285714285714
+702,"Delta, Texas",0.0
+703,"Denali, Alaska",0.0
+704,"Dent, Missouri",0.0
+705,"Denton, Texas",0.0929891304347826
+706,"Des moines, Iowa",0.06999999999999999
+707,"Deschutes, Oregon",0.009302325581395349
+708,"Desha, Arkansas",1.0885714285714285
+709,"Desoto, Florida",0.8433962264150943
+710,"Deuel, Nebraska",0.013888888888888888
+711,"Dewey, Oklahoma",0.0
+712,"Dewey, South Dakota",0.0
+713,"Dewitt, Texas",0.24375
+714,"Dickens, Texas",0.0
+715,"Dickenson, Virginia",0.0
+716,"Dickey, North Dakota",0.0
+717,"Dickinson, Iowa",0.425
+718,"Dickinson, Kansas",0.11785714285714285
+719,"Dickinson, Michigan",0.0
+720,"Dickson, Tennessee",0.0
+721,"Dillingham, Alaska",0.04181818181818182
+722,"Dillon, South Carolina",0.0
+723,"Dimmit, Texas",0.0
+724,"Dinwiddie, Virginia",2.4161676646706596
+725,"District of columbia, District of Columbia",0.005208333333333333
+726,"Dixie, Florida",0.0
+727,"Dixon, Nebraska",0.05081967213114754
+728,"Doddridge, West Virginia",0.0
+729,"Dodge, Minnesota",0.04418604651162791
+730,"Dodge, Nebraska",0.0
+731,"Dodge, Wisconsin",0.17546242774566473
+732,"Dona ana, New Mexico",0.08868896925858952
+733,"Doniphan, Kansas",0.0
+734,"Donley, Texas",0.0
+735,"Door, Wisconsin",0.0
+736,"Dorchester, Maryland",0.006024096385542169
+737,"Dorchester, South Carolina",0.254
+738,"Douglas, Illinois",0.0
+739,"Douglas, Kansas",0.28292682926829266
+740,"Douglas, Minnesota",0.1626865671641791
+741,"Douglas, Missouri",0.0
+742,"Douglas, Nebraska",0.014160756501182033
+743,"Douglas, Nevada",0.0
+744,"Douglas, Oregon",0.1330978260869565
+745,"Douglas, South Dakota",0.0
+746,"Douglas, Washington",0.0
+747,"Douglas, Wisconsin",0.0
+748,"Drew, Arkansas",0.260945945945946
+749,"Du page, Illinois",0.0
+750,"Dubois, Indiana",0.0
+751,"Dubuque, Iowa",3.580240963855422
+752,"Duchesne, Utah",0.0
+753,"Dukes, Massachusetts",0.0
+754,"Dundy, Nebraska",0.0
+755,"Dunklin, Missouri",0.0
+756,"Dunn, North Dakota",0.0
+757,"Dunn, Wisconsin",0.0
+758,"Dupage, Illinois",0.006803874092009684
+759,"Duplin, North Carolina",0.12914438502673797
+760,"Durham, North Carolina",0.5773456790123457
+761,"Dutchess, New York",1.5
+762,"Duval county, Florida",0.0
+763,"Duval, Florida",0.021993127147766325
+764,"Duval, Texas",0.24571428571428572
+765,"Dyer, Tennessee",0.18317073170731707
+766,"East baton rouge parish, Louisiana",0.05583333333333334
+767,"East baton rouge, Louisiana",0.0
+768,"East carroll, Louisiana",0.0
+769,"East feliciana, Louisiana",0.0
+770,"Eastland, Texas",0.0
+771,"Eaton, Michigan",0.0
+772,"Eau claire, Wisconsin",0.7
+773,"Ector, Texas",0.04953488372093023
+774,"Eddy, New Mexico",0.0007058823529411764
+775,"Eddy, North Dakota",0.0
+776,"Edgar, Illinois",0.024999999999999998
+777,"Edgecombe, North Carolina",0.12400000000000001
+778,"Edgefield, South Carolina",0.0
+779,"Edmonson, Kentucky",0.0
+780,"Edmunds, South Dakota",0.0
+781,"Edwards, Illinois",0.0
+782,"Edwards, Kansas",0.0
+783,"Edwards, Texas",0.0
+784,"Effingham, Illinois",0.08462499999999999
+785,"El dorado, California",0.0
+786,"El paso, Texas",0.1303
+787,"Elk, Kansas",0.6333333333333333
+788,"Elk, Pennsylvania",0.0
+789,"Elkhart, Indiana",0.002631578947368421
+790,"Elko, Nevada",0.02233009708737864
+791,"Elliott, Kentucky",0.0
+792,"Ellis, Kansas",0.0
+793,"Ellis, Oklahoma",0.19999999999999998
+794,"Ellis, Texas",0.08451219512195121
+795,"Ellsworth, Kansas",0.0
+796,"Elmore, Alabama",0.016716417910447763
+797,"Elmore, Idaho",0.0
+798,"Emery, Utah",0.0
+799,"Emmet, Iowa",0.1375
+800,"Emmet, Michigan",0.0
+801,"Emmons, North Dakota",0.0
+802,"Erath, Texas",0.02464285714285714
+803,"Erie county, Pennsylvania",0.0
+804,"Erie, Ohio",0.0
+805,"Erie, Pennsylvania",0.02681222707423581
+806,"Escambia, Alabama",0.4794736842105263
+807,"Escambia, Florida",0.009538714991762768
+808,"Esmeralda, Nevada",0.0
+809,"Essex, Massachusetts",0.017157712305025996
+810,"Essex, New Jersey",0.0
+811,"Essex, Vermont",0.0
+812,"Essex, Virginia",0.06142857142857144
+813,"Estill, Kentucky",0.0
+814,"Etowah, Alabama",0.3515555555555555
+815,"Eureka county, Nevada",0.0
+816,"Eureka, Nevada",0.7880597014925373
+817,"Evangeline parish, Louisiana",0.0
+818,"Evangeline, Louisiana",0.014565217391304348
+819,"Fairbanks north star, Alaska",0.0804424778761062
+820,"Fairfax, Virginia",0.0
+821,"Fairfield, Ohio",0.003741496598639456
+822,"Fairfield, South Carolina",0.0
+823,"Fall river, South Dakota",0.013717948717948718
+824,"Fallon, Montana",0.0
+825,"Falls, Texas",0.1
+826,"Fannin, Texas",0.022000000000000002
+827,"Faribault, Minnesota",0.0
+828,"Faulk, South Dakota",0.0
+829,"Fauquier, Virginia",0.08978873239436619
+830,"Fayette, Alabama",0.0
+831,"Fayette, Illinois",0.5296923076923077
+832,"Fayette, Indiana",0.0
+833,"Fayette, Iowa",0.05758620689655172
+834,"Fayette, Kentucky",0.0
+835,"Fayette, Ohio",0.0
+836,"Fayette, Pennsylvania",0.14817307692307694
+837,"Fayette, Tennessee",0.0
+838,"Fayette, Texas",0.0
+839,"Fayette, West Virginia",0.0
+840,"Fentress, Tennessee",0.0
+841,"Fergus, Montana",0.0
+842,"Ferry, Washington",0.0
+843,"Fillmore, Minnesota",0.10833333333333334
+844,"Fillmore, Nebraska",0.016388888888888887
+845,"Finney, Kansas",0.9127397260273972
+846,"Fisher, Texas",0.0
+847,"Flagler, Florida",0.07965517241379311
+848,"Flathead, Montana",0.047619047619047616
+849,"Fleming, Kentucky",0.0
+850,"Florence, South Carolina",0.0
+851,"Florence, Wisconsin",0.0
+852,"Floyd, Indiana",0.0
+853,"Floyd, Iowa",0.35000000000000003
+854,"Floyd, Kentucky",0.0
+855,"Floyd, Texas",0.0
+856,"Floyd, Virginia",0.0
+857,"Fluvanna, Virginia",0.15925925925925927
+858,"Foard, Texas",0.0
+859,"Fond du lac, Wisconsin",0.01875
+860,"Ford, Illinois",0.083825
+861,"Ford, Kansas",0.9119696969696971
+862,"Forest, Pennsylvania",0.47083333333333327
+863,"Forest, Wisconsin",0.07945945945945945
+864,"Forsyth, North Carolina",1.3277987421383648
+865,"Fort bend, Texas",0.04407894736842105
+866,"Foster, North Dakota",0.0
+867,"Fountain, Indiana",0.0
+868,"Franklin county, Missouri",0.027882352941176473
+869,"Franklin county, Ohio",0.0
+870,"Franklin county, Pennsylvania",0.0
+871,"Franklin, Alabama",0.0
+872,"Franklin, Arkansas",0.0
+873,"Franklin, Florida",0.2608695652173913
+874,"Franklin, Idaho",0.0
+875,"Franklin, Illinois",0.0
+876,"Franklin, Indiana",0.0
+877,"Franklin, Iowa",0.0
+878,"Franklin, Kansas",0.0
+879,"Franklin, Kentucky",0.0
+880,"Franklin, Louisiana",0.0
+881,"Franklin, Maine",0.0
+882,"Franklin, Massachusetts",0.0
+883,"Franklin, Missouri",0.20902834008097165
+884,"Franklin, Nebraska",0.0
+885,"Franklin, North Carolina",0.23045045045045043
+886,"Franklin, Ohio",0.012275449101796405
+887,"Franklin, Pennsylvania",0.5067567567567568
+888,"Franklin, Tennessee",0.019473684210526317
+889,"Franklin, Texas",0.6295454545454544
+890,"Franklin, Vermont",0.014102564102564105
+891,"Franklin, Virginia",0.5181818181818182
+892,"Franklin, Washington",0.2316190476190476
+893,"Frederick, Maryland",0.010882352941176471
+894,"Frederick, Virginia",0.30223880597014924
+895,"Freeborn, Minnesota",0.11107142857142857
+896,"Freestone, Texas",0.078
+897,"Fremont, Idaho",0.4681818181818182
+898,"Fremont, Iowa",1.1111111111111112
+899,"Fremont, Wyoming",0.0
+900,"Fresno, California",0.0008125597704813516
+901,"Frio, Texas",0.0
+902,"Frontier, Nebraska",0.0
+903,"Fulton, Arkansas",0.0
+904,"Fulton, Illinois",0.0
+905,"Fulton, Indiana",0.0
+906,"Fulton, Kentucky",0.0
+907,"Fulton, Ohio",0.0
+908,"Fulton, Pennsylvania",0.03488372093023256
+909,"Furnas, Nebraska",0.0
+910,"Gadsden, Florida",0.049999999999999996
+911,"Gage, Nebraska",0.04098039215686274
+912,"Gaines, Texas",0.0
+913,"Galax, Virginia",0.0
+914,"Gallatin, Illinois",0.0
+915,"Gallatin, Kentucky",0.027999999999999997
+916,"Gallatin, Montana",0.024596774193548387
+917,"Gallia, Ohio",0.0
+918,"Galveston, Texas",0.3487804878048781
+919,"Garden, Nebraska",0.0
+920,"Garfield, Montana",0.0
+921,"Garfield, Nebraska",0.0
+922,"Garfield, Oklahoma",0.027131782945736437
+923,"Garfield, Utah",5.2e-05
+924,"Garfield, Washington",0.0
+925,"Garland, Arkansas",0.0
+926,"Garrard, Kentucky",0.0
+927,"Garrett, Maryland",0.18389830508474578
+928,"Garvin, Oklahoma",0.0
+929,"Garza, Texas",0.0
+930,"Gasconade, Missouri",0.0
+931,"Gaston, North Carolina",0.4752147239263803
+932,"Gates, North Carolina",0.0
+933,"Geary, Kansas",2.0500000000000003
+934,"Geauga, Ohio",0.04776649746192894
+935,"Gem, Idaho",0.0
+936,"Genesee, Michigan",0.07407407407407407
+937,"Geneva, Alabama",4.517325581395349
+938,"Gentry, Missouri",0.0
+939,"Georgetown, South Carolina",0.016164383561643833
+940,"Gibson, Indiana",0.0
+941,"Gibson, Tennessee",0.7792307692307692
+942,"Gila, Arizona",0.16129032258064516
+943,"Gilchrist, Florida",0.03352941176470588
+944,"Giles, Tennessee",0.0
+945,"Giles, Virginia",0.0
+946,"Gillespie, Texas",0.1111111111111111
+947,"Gilliam, Oregon",0.0
+948,"Gilmer, West Virginia",0.0
+949,"Glacier, Montana",0.0
+950,"Glades, Florida",0.55
+951,"Gladwin, Michigan",0.0
+952,"Glasscock, Texas",9.26
+953,"Glenn, California",0.0
+954,"Gloucester, New Jersey",0.12289416846652267
+955,"Gloucester, Virginia",0.015151515151515152
+956,"Gogebic, Michigan",0.0
+957,"Golden valley, Montana",0.0
+958,"Golden valley, North Dakota",0.0
+959,"Goliad, Texas",0.0
+960,"Gonzales, Texas",0.22904761904761903
+961,"Goochland, Virginia",0.06507936507936507
+962,"Goodhue, Minnesota",0.12096774193548387
+963,"Gooding, Idaho",0.0
+964,"Goshen, Wyoming",0.0
+965,"Gosper, Nebraska",0.0
+966,"Gove, Kansas",0.0
+967,"Grady, Oklahoma",0.1306477732793522
+968,"Grafton, New Hampshire",0.05249221183800624
+969,"Graham county, Arizona",0.0
+970,"Graham, Arizona",0.0
+971,"Graham, Kansas",0.0
+972,"Graham, North Carolina",0.20666666666666667
+973,"Grainger, Tennessee",0.0
+974,"Grand forks, North Dakota",0.0
+975,"Grand isle, Vermont",0.08404761904761905
+976,"Grand traverse, Michigan",0.0
+977,"Grand, Utah",0.0
+978,"Granite, Montana",0.0
+979,"Grant, Arkansas",0.0
+980,"Grant, Indiana",0.0
+981,"Grant, Kansas",0.06916666666666667
+982,"Grant, Kentucky",0.0
+983,"Grant, Louisiana",0.0
+984,"Grant, Minnesota",0.3058823529411765
+985,"Grant, Nebraska",0.0
+986,"Grant, New Mexico",0.04943820224719102
+987,"Grant, North Dakota",0.0
+988,"Grant, Oklahoma",0.9503333333333335
+989,"Grant, Oregon",0.0
+990,"Grant, South Dakota",0.0
+991,"Grant, Washington",0.006442577030812325
+992,"Grant, West Virginia",0.0
+993,"Grant, Wisconsin",8.576473214285715
+994,"Granville, North Carolina",0.0
+995,"Gratiot, Michigan",0.0
+996,"Graves, Kentucky",0.26857142857142857
+997,"Gray, Kansas",0.35714285714285715
+998,"Gray, Texas",0.1524
+999,"Grays harbor, Washington",0.3474860335195531
+1000,"Grayson, Kentucky",0.0
+1001,"Grayson, Texas",0.6864189189189189
+1002,"Grayson, Virginia",0.6651162790697674
+1003,"Greeley, Kansas",0.0
+1004,"Greeley, Nebraska",0.0
+1005,"Green lake, Wisconsin",0.0
+1006,"Green, Kentucky",0.0
+1007,"Green, Wisconsin",0.1400952380952381
+1008,"Greenbrier, West Virginia",0.0
+1009,"Greene, Alabama",0.027037037037037037
+1010,"Greene, Arkansas",0.6908571428571428
+1011,"Greene, Illinois",0.0
+1012,"Greene, Indiana",0.0
+1013,"Greene, Iowa",0.0
+1014,"Greene, Missouri",0.03449579831932773
+1015,"Greene, North Carolina",0.4929292929292929
+1016,"Greene, Ohio",0.0
+1017,"Greene, Pennsylvania",0.0
+1018,"Greene, Tennessee",0.0
+1019,"Greene, Virginia",0.05342465753424657
+1020,"Greenlee, Arizona",0.0
+1021,"Greensville, Virginia",0.0
+1022,"Greenup, Kentucky",0.0
+1023,"Greenville, South Carolina",0.17310344827586205
+1024,"Greenwood, Kansas",2.4222222222222225
+1025,"Greenwood, South Carolina",0.0
+1026,"Greer, Oklahoma",0.39999999999999997
+1027,"Gregg, Texas",0.14054054054054052
+1028,"Gregory, South Dakota",0.0
+1029,"Griggs, North Dakota",0.0
+1030,"Grimes, Texas",0.0
+1031,"Grundy, Illinois",0.20579127450980386
+1032,"Grundy, Iowa",0.0
+1033,"Grundy, Missouri",0.0
+1034,"Grundy, Tennessee",0.0
+1035,"Guadalupe, New Mexico",0.39375
+1036,"Guadalupe, Texas",0.01282051282051282
+1037,"Guernsey, Ohio",0.0
+1038,"Guilford, North Carolina",2.7634061135371186
+1039,"Guillford, North Carolina",0.0
+1040,"Gulf, Florida",0.0
+1041,"Guthrie, Iowa",0.7656250000000001
+1042,"Haines, Alaska",0.0
+1043,"Hale, Alabama",0.057666666666666665
+1044,"Hale, Texas",0.03316455696202532
+1045,"Halifax, North Carolina",0.0
+1046,"Halifax, Virginia",0.0
+1047,"Hall, Nebraska",0.005664335664335665
+1048,"Hall, Texas",0.13076923076923078
+1049,"Hamblen, Tennessee",0.0
+1050,"Hamilton, Florida",0.42452380952380947
+1051,"Hamilton, Indiana",0.0
+1052,"Hamilton, Iowa",2.874193548387096
+1053,"Hamilton, Kansas",2.4285714285714284
+1054,"Hamilton, Nebraska",0.0
+1055,"Hamilton, Ohio",0.0
+1056,"Hamilton, Tennessee",0.0
+1057,"Hamilton, Texas",0.15
+1058,"Hamlin, South Dakota",0.0
+1059,"Hampden, Massachusetts",0.0
+1060,"Hampshire, Massachusetts",0.0
+1061,"Hampshire, West Virginia",85.54756756756757
+1062,"Hampton, South Carolina",0.0
+1063,"Hancock, Illinois",0.06792
+1064,"Hancock, Indiana",0.0
+1065,"Hancock, Iowa",0.2636363636363636
+1066,"Hancock, Kentucky",0.22549019607843138
+1067,"Hancock, Maine",0.0
+1068,"Hancock, Ohio",0.13285714285714287
+1069,"Hancock, Tennessee",0.0
+1070,"Hancock, West Virginia",0.0
+1071,"Hanover, Virginia",0.8735751295336788
+1072,"Hansford, Texas",0.0
+1073,"Hardee, Florida",0.25921875
+1074,"Hardeman, Tennessee",0.017096774193548388
+1075,"Hardeman, Texas",0.0
+1076,"Hardin, Illinois",0.0
+1077,"Hardin, Iowa",0.7325714285714285
+1078,"Hardin, Kentucky",0.0
+1079,"Hardin, Ohio",0.0
+1080,"Hardin, Tennessee",0.0
+1081,"Hardin, Texas",0.029166666666666664
+1082,"Harding, New Mexico",0.21857142857142858
+1083,"Harding, South Dakota",0.0
+1084,"Hardy, West Virginia",0.0
+1085,"Harford county, Maryland",0.0
+1086,"Harford, Maryland",0.07164179104477612
+1087,"Harlan, Kentucky",0.0
+1088,"Harlan, Nebraska",0.0
+1089,"Harmon, Oklahoma",0.0
+1090,"Harnett, North Carolina",0.0
+1091,"Harney, Oregon",0.0
+1092,"Harper, Kansas",0.0
+1093,"Harper, Oklahoma",0.022727272727272728
+1094,"Harris, Texas",0.2536379018612522
+1095,"Harrison, Indiana",0.0
+1096,"Harrison, Iowa",1.630769230769231
+1097,"Harrison, Kentucky",0.0
+1098,"Harrison, Missouri",0.0
+1099,"Harrison, Ohio",0.08295454545454545
+1100,"Harrison, Texas",0.0
+1101,"Harrison, West Virginia",0.0
+1102,"Harrisonburg, Virginia",0.0
+1103,"Hart, Kentucky",0.0
+1104,"Hartford, Connecticut",0.0
+1105,"Hartley, Texas",0.0
+1106,"Harvey, Kansas",0.0
+1107,"Haskell, Kansas",0.2391304347826087
+1108,"Haskell, Oklahoma",0.0
+1109,"Haskell, Texas",0.1619047619047619
+1110,"Hawkins, Tennessee",0.021627906976744188
+1111,"Hayes, Nebraska",0.0
+1112,"Hays, Texas",0.2602941176470588
+1113,"Haywood, North Carolina",0.33676470588235297
+1114,"Haywood, Tennessee",0.0
+1115,"Hemphill, Texas",0.0
+1116,"Hempstead, Arkansas",0.0
+1117,"Henderson, Illinois",0.0
+1118,"Henderson, Kentucky",0.03424657534246575
+1119,"Henderson, North Carolina",0.8253465346534653
+1120,"Henderson, Tennessee",0.0
+1121,"Henderson, Texas",0.5273684210526317
+1122,"Hendricks, Indiana",0.0
+1123,"Hendry, Florida",0.01625
+1124,"Hennepin, Minnesota",0.020513447432762833
+1125,"Henrico, Virginia",0.2
+1126,"Henry, Alabama",0.1460377358490566
+1127,"Henry, Illinois",0.18694354838709676
+1128,"Henry, Indiana",0.0
+1129,"Henry, Iowa",0.6866666666666668
+1130,"Henry, Kentucky",0.0
+1131,"Henry, Missouri",0.0
+1132,"Henry, Ohio",0.0
+1133,"Henry, Tennessee",0.0
+1134,"Henry, Virginia",0.6025641025641025
+1135,"Hernando, Florida",0.10870466321243522
+1136,"Hertford, North Carolina",0.09069767441860466
+1137,"Hickman, Kentucky",0.0
+1138,"Hickman, Tennessee",0.0
+1139,"Hickory, Missouri",0.18882352941176472
+1140,"Hidalgo, New Mexico",0.0
+1141,"Hidalgo, Texas",0.004081632653061225
+1142,"Highland, Ohio",0.0
+1143,"Highland, Virginia",0.19166666666666665
+1144,"Highlands, Florida",0.35750000000000004
+1145,"Hill, Montana",0.0
+1146,"Hill, Texas",0.19545454545454544
+1147,"Hills, Florida",0.16646582278481015
+1148,"Hills, New Hampshire",0.004959630911188006
+1149,"Hillsborough county, Florida",0.0
+1150,"Hillsborough county, New Hampshire",0.0
+1151,"Hillsborough, Florida",0.06231884057971014
+1152,"Hillsborough, New Hampshire",0.0
+1153,"Hillsdale, Michigan",0.0
+1154,"Hitchcock, Nebraska",0.0
+1155,"Hocking, Ohio",0.0
+1156,"Hockley, Texas",0.0
+1157,"Hodgeman, Kansas",0.0
+1158,"Hoke, North Carolina",0.2111111111111111
+1159,"Holmes, Florida",0.041379310344827586
+1160,"Holmes, Ohio",0.02893162393162393
+1161,"Holt, Missouri",0.0
+1162,"Holt, Nebraska",0.008095238095238095
+1163,"Honolulu, Hawaii",0.0
+1164,"Hood river, Oregon",0.0
+1165,"Hood, Texas",0.10830508474576271
+1166,"Hooker, Nebraska",0.0
+1167,"Hoonah-angoon, Alaska",0.1940740740740741
+1168,"Hopewell, Virginia",0.0
+1169,"Hopkins, Kentucky",0.0
+1170,"Hopkins, Texas",0.035217391304347825
+1171,"Horry, South Carolina",0.0
+1172,"Hot spring, Arkansas",0.0
+1173,"Hot springs, Wyoming",0.0
+1174,"Houghton, Michigan",0.37857142857142856
+1175,"Houston, Alabama",0.26793750000000005
+1176,"Houston, Minnesota",0.0
+1177,"Houston, Texas",0.0
+1178,"Howard, Arkansas",0.0
+1179,"Howard, Indiana",0.0
+1180,"Howard, Iowa",0.04285714285714286
+1181,"Howard, Maryland",0.06321243523316063
+1182,"Howard, Missouri",0.0
+1183,"Howard, Nebraska",0.09227272727272728
+1184,"Howard, Texas",0.0
+1185,"Howell, Missouri",0.0
+1186,"Hubbard, Minnesota",0.010294117647058823
+1187,"Hudson, New Jersey",0.0
+1188,"Hudspeth, Texas",0.9866666666666667
+1189,"Hughes, Oklahoma",0.0
+1190,"Hughes, South Dakota",0.0
+1191,"Humboldt, California",0.0
+1192,"Humboldt, Iowa",0.21052631578947367
+1193,"Humboldt, Nevada",1.3298095238095238
+1194,"Humphreys, Tennessee",0.0
+1195,"Hunt, Texas",1.140897435897436
+1196,"Hunterdon, New Jersey",0.006390114739629303
+1197,"Huntingdon, Pennsylvania",0.0
+1198,"Huntington, Indiana",0.12941176470588237
+1199,"Huron, Michigan",3.078125
+1200,"Huron, Ohio",0.0
+1201,"Hutchinson, South Dakota",0.0
+1202,"Hutchinson, Texas",0.0
+1203,"Hyde, North Carolina",0.061111111111111116
+1204,"Iberia parish, Louisiana",0.0
+1205,"Iberia, Louisiana",0.0
+1206,"Iberville, Louisiana",0.015490196078431374
+1207,"Ida, Iowa",1.175
+1208,"Idaho, Idaho",0.0
+1209,"Imperial, California",0.0
+1210,"Independence, Arkansas",0.02
+1211,"Indian river, Florida",1.6944444444444444
+1212,"Indiana, Pennsylvania",0.014577464788732394
+1213,"Ingham, Michigan",0.010752688172043012
+1214,"Inyo, California",0.0
+1215,"Ionia, Michigan",0.009523809523809525
+1216,"Iosco, Michigan",0.125
+1217,"Iowa, Iowa",0.10714285714285714
+1218,"Iowa, Wisconsin",0.06345925925925926
+1219,"Iredell, North Carolina",0.9129337539432176
+1220,"Irion, Texas",0.45
+1221,"Iron, Michigan",0.0
+1222,"Iron, Missouri",0.21466666666666664
+1223,"Iron, Utah",0.02857142857142857
+1224,"Iron, Wisconsin",0.0
+1225,"Iroquois, Illinois",0.0
+1226,"Isabella, Michigan",0.0
+1227,"Isanti, Minnesota",0.04318181818181818
+1228,"Island, Washington",0.0026782273603082854
+1229,"Isle of wight, Virginia",0.0
+1230,"Itasca, Minnesota",0.0
+1231,"Izard, Arkansas",0.6566153846153845
+1232,"Jack, Texas",1.5566666666666666
+1233,"Jackson county, Florida",0.0
+1234,"Jackson, Alabama",0.0
+1235,"Jackson, Arkansas",0.0
+1236,"Jackson, Florida",0.08709677419354837
+1237,"Jackson, Illinois",0.0
+1238,"Jackson, Indiana",0.0
+1239,"Jackson, Iowa",0.12000000000000001
+1240,"Jackson, Kansas",0.7454545454545454
+1241,"Jackson, Kentucky",0.0
+1242,"Jackson, Louisiana",0.0
+1243,"Jackson, Michigan",0.3516483516483517
+1244,"Jackson, Minnesota",2.525
+1245,"Jackson, Missouri",0.0
+1246,"Jackson, North Carolina",0.21062068965517242
+1247,"Jackson, Ohio",0.0
+1248,"Jackson, Oklahoma",0.0
+1249,"Jackson, Oregon",0.0433125
+1250,"Jackson, South Dakota",0.0
+1251,"Jackson, Tennessee",0.0
+1252,"Jackson, Texas",0.044000000000000004
+1253,"Jackson, West Virginia",0.0
+1254,"Jackson, Wisconsin",0.056
+1255,"James (city), Virginia",0.0
+1256,"James city, Virginia",1.530612244897959
+1257,"Jasper county, Missouri",0.0
+1258,"Jasper, Illinois",0.0
+1259,"Jasper, Indiana",0.0
+1260,"Jasper, Iowa",0.7023529411764705
+1261,"Jasper, Missouri",0.01888111888111888
+1262,"Jasper, South Carolina",0.09555555555555556
+1263,"Jasper, Texas",0.12083333333333335
+1264,"Jay, Indiana",0.0
+1265,"Jeff davis, Texas",0.11666666666666665
+1266,"Jefferson county, Florida",0.0
+1267,"Jefferson county, Pennsylvania",0.0
+1268,"Jefferson davis, Louisiana",0.0
+1269,"Jefferson, Alabama",0.0
+1270,"Jefferson, Arkansas",0.013108108108108108
+1271,"Jefferson, Florida",0.27717543859649124
+1272,"Jefferson, Idaho",0.0
+1273,"Jefferson, Indiana",0.0
+1274,"Jefferson, Iowa",0.0
+1275,"Jefferson, Kansas",0.31523809523809526
+1276,"Jefferson, Kentucky",0.0
+1277,"Jefferson, Louisiana",0.0
+1278,"Jefferson, Missouri",0.030299401197604787
+1279,"Jefferson, Montana",0.034375
+1280,"Jefferson, Nebraska",0.0
+1281,"Jefferson, Ohio",0.0
+1282,"Jefferson, Oklahoma",0.0
+1283,"Jefferson, Oregon",0.0
+1284,"Jefferson, Pennsylvania",0.035483870967741936
+1285,"Jefferson, Tennessee",0.0
+1286,"Jefferson, Texas",0.01764705882352941
+1287,"Jefferson, Washington",0.0
+1288,"Jefferson, West Virginia",0.18057471264367816
+1289,"Jefferson, Wisconsin",0.062083333333333345
+1290,"Jennings, Indiana",0.0
+1291,"Jerauld, South Dakota",0.0
+1292,"Jerome, Idaho",0.0
+1293,"Jersey, Illinois",0.0
+1294,"Jessamine, Kentucky",0.0
+1295,"Jewell, Kansas",0.911111111111111
+1296,"Jim hogg, Texas",2.705
+1297,"Jim wells, Texas",0.0
+1298,"Jo daviess, Illinois",0.23178947368421052
+1299,"Johnson, Arkansas",0.0
+1300,"Johnson, Illinois",0.0
+1301,"Johnson, Indiana",0.2225
+1302,"Johnson, Iowa",0.5024590163934426
+1303,"Johnson, Kansas",0.0
+1304,"Johnson, Kentucky",0.0
+1305,"Johnson, Missouri",0.04
+1306,"Johnson, Nebraska",0.08592592592592592
+1307,"Johnson, Tennessee",0.0
+1308,"Johnson, Texas",0.2977083333333333
+1309,"Johnson, Wyoming",0.0
+1310,"Johnston, North Carolina",0.08323353293413173
+1311,"Johnston, Oklahoma",0.16083333333333333
+1312,"Jones, Iowa",0.0
+1313,"Jones, North Carolina",0.0
+1314,"Jones, Texas",0.0
+1315,"Josephine, Oregon",0.0
+1316,"Juab, Utah",0.0
+1317,"Judith basin, Montana",0.0
+1318,"Juneau city and, Alaska",3.3072727272727267
+1319,"Juneau, Alaska",0.0
+1320,"Juneau, Wisconsin",0.005603603603603603
+1321,"Juniata, Pennsylvania",0.0
+1322,"Kalamazoo, Michigan",0.0
+1323,"Kalkaska, Michigan",0.0
+1324,"Kanabec, Minnesota",0.15625
+1325,"Kanawha, West Virginia",0.0
+1326,"Kandiyohi, Minnesota",0.06666666666666667
+1327,"Kane, Illinois",0.391146261682243
+1328,"Kane, Utah",0.0
+1329,"Kankakee, Illinois",0.02669090909090909
+1330,"Karnes, Texas",0.0
+1331,"Kaufman, Texas",0.11
+1332,"Kay, Oklahoma",0.0
+1333,"Kearney, Nebraska",0.0
+1334,"Kearny, Kansas",0.0
+1335,"Keith, Nebraska",0.0
+1336,"Kenai peninsula, Alaska",0.313069306930693
+1337,"Kendall, Illinois",0.09471180451127818
+1338,"Kendall, Texas",0.018933333333333333
+1339,"Kenedy, Texas",0.0
+1340,"Kennebec, Maine",0.0
+1341,"Kenosha, Wisconsin",0.0
+1342,"Kent, Maryland",1.248913043478261
+1343,"Kent, Michigan",0.022222222222222223
+1344,"Kent, Rhode Island",0.0
+1345,"Kent, Texas",0.4633333333333333
+1346,"Kenton, Kentucky",0.0
+1347,"Keokuk, Iowa",0.6571428571428571
+1348,"Kern, California",0.002875175315568022
+1349,"Kerr, Texas",0.042213740458015264
+1350,"Kershaw, South Carolina",0.06227272727272728
+1351,"Ketchikan gateway, Alaska",0.0
+1352,"Kewaunee, Wisconsin",0.01984126984126984
+1353,"Keweenaw, Michigan",0.0
+1354,"Keya paha, Nebraska",0.0
+1355,"Kidder, North Dakota",0.0
+1356,"Kimball, Nebraska",0.06666666666666667
+1357,"Kimble, Texas",1.1784615384615384
+1358,"King and queen, Virginia",0.0
+1359,"King george, Virginia",0.07823529411764707
+1360,"King william, Virginia",2.14943820224719
+1361,"King, Washington",0.0024000000000000002
+1362,"Kingfisher, Oklahoma",0.4176470588235294
+1363,"Kingman, Kansas",7.777777777777778
+1364,"Kings, California",0.0
+1365,"Kingsbury, South Dakota",0.0
+1366,"Kinney, Texas",0.0
+1367,"Kiowa, Kansas",0.0
+1368,"Kiowa, Oklahoma",0.0
+1369,"Kitsap, Washington",0.0039634146341463415
+1370,"Kittitas, Washington",0.0
+1371,"Kittson, Minnesota",1.2199999999999998
+1372,"Klamath, Oregon",0.0
+1373,"Kleberg, Texas",0.03333333333333333
+1374,"Klickitat, Washington",0.0
+1375,"Knott, Kentucky",0.0
+1376,"Knox, Illinois",0.24549019607843137
+1377,"Knox, Indiana",0.0
+1378,"Knox, Kentucky",0.0
+1379,"Knox, Maine",0.09508196721311475
+1380,"Knox, Nebraska",0.0
+1381,"Knox, Ohio",0.0
+1382,"Knox, Tennessee",0.0
+1383,"Knox, Texas",0.1625
+1384,"Kodiak island, Alaska",0.0
+1385,"Koochiching county, Minnesota",0.0
+1386,"Koochiching, Minnesota",0.0
+1387,"Kootenai, Idaho",0.07251184834123223
+1388,"Kosciusko, Indiana",0.14235294117647057
+1389,"Kossuth, Iowa",0.9354166666666667
+1390,"La crosse, Wisconsin",0.0018114143920595533
+1391,"La grange, Indiana",0.0
+1392,"La paz, Arizona",0.2456521739130435
+1393,"La plata, Colorado",0.0
+1394,"La porte, Indiana",0.0
+1395,"La salle, Illinois",0.0
+1396,"La salle, Louisiana",0.0
+1397,"La salle, Texas",0.0
+1398,"Labette, Kansas",2.215
+1399,"Lac qui parle, Minnesota",0.25142857142857145
+1400,"Lackawanna county, Pennsylvania",0.0
+1401,"Lackawanna, Pennsylvania",0.13251748251748252
+1402,"Laclede, Missouri",0.0
+1403,"Lafayette parish, Louisiana",0.0
+1404,"Lafayette, Arkansas",0.0
+1405,"Lafayette, Florida",0.11
+1406,"Lafayette, Louisiana",0.014666666666666666
+1407,"Lafayette, Missouri",0.0
+1408,"Lafayette, Wisconsin",0.0
+1409,"Lafourche, Louisiana",0.039375
+1410,"Lagrange, Indiana",0.19803921568627453
+1411,"Lake and peninsula, Alaska",0.0
+1412,"Lake of the woods, Minnesota",0.0
+1413,"Lake, California",0.038527131782945735
+1414,"Lake, Florida",0.3225900514579759
+1415,"Lake, Illinois",0.09172127139364304
+1416,"Lake, Indiana",0.0
+1417,"Lake, Michigan",0.0
+1418,"Lake, Minnesota",0.182
+1419,"Lake, Montana",0.0
+1420,"Lake, Ohio",0.0
+1421,"Lake, Oregon",0.0
+1422,"Lake, South Dakota",0.2959090909090909
+1423,"Lake, Tennessee",0.0
+1424,"Lamar, Alabama",0.0
+1425,"Lamar, Texas",0.0
+1426,"Lamb, Texas",0.0
+1427,"Lamoille, Vermont",0.0
+1428,"Lamoure, North Dakota",0.0
+1429,"Lampasas, Texas",0.0
+1430,"Lancaster county, Pennsylvania",0.0
+1431,"Lancaster, Nebraska",0.07937022900763357
+1432,"Lancaster, Pennsylvania",0.062217860647693815
+1433,"Lancaster, South Carolina",0.0
+1434,"Lancaster, Virginia",0.24020100502512562
+1435,"Lander, Nevada",0.3194444444444444
+1436,"Lane, Kansas",0.0
+1437,"Lane, Oregon",0.03552816901408451
+1438,"Langlade, Wisconsin",0.0
+1439,"Lapeer, Michigan",0.041666666666666664
+1440,"Laporte, Indiana",0.007246376811594203
+1441,"Laramie, Wyoming",0.0
+1442,"Larue, Kentucky",0.0
+1443,"Lasalle, Illinois",3.7721309937888203
+1444,"Lassen, California",0.0
+1445,"Latah, Idaho",0.0
+1446,"Latimer, Oklahoma",0.06363636363636363
+1447,"Lauderdale, Alabama",0.0
+1448,"Lauderdale, Tennessee",0.04416666666666667
+1449,"Laurel, Kentucky",0.0
+1450,"Laurens, South Carolina",0.0
+1451,"Lavaca, Texas",0.0
+1452,"Lawrence county, Arkansas",0.0
+1453,"Lawrence, Alabama",0.0
+1454,"Lawrence, Arkansas",1.2667307692307692
+1455,"Lawrence, Illinois",0.0
+1456,"Lawrence, Indiana",0.0
+1457,"Lawrence, Kentucky",0.0
+1458,"Lawrence, Missouri",0.0
+1459,"Lawrence, Ohio",0.0
+1460,"Lawrence, Pennsylvania",0.0
+1461,"Lawrence, South Dakota",0.0
+1462,"Lawrence, Tennessee",0.0
+1463,"Le flore, Oklahoma",0.0
+1464,"Le sueur, Minnesota",0.0475
+1465,"Lea, New Mexico",0.08407734806629834
+1466,"Leavenworth, Kansas",0.025555555555555554
+1467,"Lebanon county, Pennsylvania",0.0
+1468,"Lebanon, Pennsylvania",0.1274390243902439
+1469,"Lee county, South Carolina",0.0
+1470,"Lee, Alabama",0.012727272727272726
+1471,"Lee, Arkansas",0.0
+1472,"Lee, Florida",0.046225
+1473,"Lee, Illinois",0.4525514018691588
+1474,"Lee, Iowa",0.4000000000000001
+1475,"Lee, Kentucky",0.008571428571428572
+1476,"Lee, North Carolina",0.01818181818181818
+1477,"Lee, South Carolina",0.0
+1478,"Lee, Texas",0.3625
+1479,"Lee, Virginia",0.1
+1480,"Leelanau, Michigan",0.0
+1481,"Lehigh county, Pennsylvania",0.0
+1482,"Lehigh, Pennsylvania",0.03934460887949261
+1483,"Lemhi, Idaho",0.0
+1484,"Lenawee, Michigan",0.07272727272727272
+1485,"Lenoir, North Carolina",0.10790697674418605
+1486,"Leon, Florida",0.003454545454545454
+1487,"Leon, Texas",0.3429032258064516
+1488,"Leslie, Kentucky",0.0
+1489,"Letcher, Kentucky",0.0
+1490,"Levy county, Florida",3.393548387096774
+1491,"Levy, Florida",0.3001923076923077
+1492,"Lewis and clark, Montana",0.007042253521126761
+1493,"Lewis county, Washington",0.0
+1494,"Lewis, Idaho",0.0
+1495,"Lewis, Kentucky",0.0
+1496,"Lewis, Missouri",0.0
+1497,"Lewis, Tennessee",0.20157894736842105
+1498,"Lewis, Washington",0.02919831223628692
+1499,"Lewis, West Virginia",0.0
+1500,"Lexington county, South Carolina",0.0
+1501,"Lexington, South Carolina",0.06300261096605744
+1502,"Liberty, Florida",0.0
+1503,"Liberty, Montana",0.0
+1504,"Liberty, Texas",0.5043478260869566
+1505,"Licking, Ohio",0.11666666666666667
+1506,"Limestone, Alabama",0.0
+1507,"Limestone, Texas",0.06842105263157895
+1508,"Lincoln parish, Louisiana",0.0
+1509,"Lincoln, Arkansas",0.2210752688172043
+1510,"Lincoln, Idaho",0.0
+1511,"Lincoln, Kansas",0.24545454545454548
+1512,"Lincoln, Kentucky",0.0
+1513,"Lincoln, Louisiana",0.01602739726027397
+1514,"Lincoln, Maine",0.0
+1515,"Lincoln, Minnesota",0.175
+1516,"Lincoln, Missouri",0.017246376811594202
+1517,"Lincoln, Montana",0.0
+1518,"Lincoln, Nebraska",0.0
+1519,"Lincoln, Nevada",0.0
+1520,"Lincoln, New Mexico",0.07132158590308368
+1521,"Lincoln, North Carolina",0.02553191489361702
+1522,"Lincoln, Oklahoma",0.22188118811881188
+1523,"Lincoln, Oregon",0.043260869565217394
+1524,"Lincoln, South Dakota",0.0
+1525,"Lincoln, Tennessee",0.0
+1526,"Lincoln, Washington",0.0
+1527,"Lincoln, West Virginia",0.0
+1528,"Lincoln, Wisconsin",0.0
+1529,"Lincoln, Wyoming",0.0
+1530,"Linn county, Oregon",0.0
+1531,"Linn, Iowa",0.0
+1532,"Linn, Kansas",0.09523809523809523
+1533,"Linn, Missouri",0.0
+1534,"Linn, Oregon",0.046714285714285715
+1535,"Lipscomb, Texas",0.0
+1536,"Little river, Arkansas",0.0
+1537,"Live oak, Texas",0.0
+1538,"Livingston parish, Louisiana",0.0
+1539,"Livingston, Illinois",0.10645
+1540,"Livingston, Kentucky",0.0
+1541,"Livingston, Louisiana",0.060238095238095236
+1542,"Livingston, Michigan",0.15
+1543,"Livingston, Missouri",0.0
+1544,"Llano, Texas",0.04411764705882353
+1545,"Logan, Arkansas",0.34310344827586203
+1546,"Logan, Illinois",0.08673469387755102
+1547,"Logan, Kansas",0.0
+1548,"Logan, Nebraska",0.0
+1549,"Logan, North Dakota",0.0
+1550,"Logan, Ohio",0.21662068965517242
+1551,"Logan, Oklahoma",0.17482014388489206
+1552,"Logan, West Virginia",0.013999999999999999
+1553,"Lonoke, Arkansas",0.29910256410256414
+1554,"Lorain, Ohio",0.0
+1555,"Los alamos, New Mexico",0.0
+1556,"Los angeles county, California",0.0
+1557,"Los angeles, California",0.005015771339835978
+1558,"Loudon, Tennessee",0.0
+1559,"Loudoun, Virginia",0.13250871080139373
+1560,"Louisa, Iowa",0.5608695652173913
+1561,"Louisa, Virginia",0.20307692307692307
+1562,"Loup, Nebraska",0.0
+1563,"Love, Oklahoma",0.0
+1564,"Loving, Texas",4.97
+1565,"Lowndes, Alabama",0.0
+1566,"Lubbock, Texas",3.667796610169491
+1567,"Lucas, Iowa",1.435
+1568,"Lucas, Ohio",0.0
+1569,"Luce, Michigan",0.0
+1570,"Luna, New Mexico",0.0
+1571,"Lunenburg, Virginia",0.0
+1572,"Luzerne county, Pennsylvania",0.0
+1573,"Luzerne, Pennsylvania",0.14619205298013244
+1574,"Lycoming county, Pennsylvania",0.0
+1575,"Lycoming, Pennsylvania",0.04477611940298507
+1576,"Lyman, South Dakota",0.0
+1577,"Lynchburg, Virginia",0.0
+1578,"Lynn, Texas",1.2175675675675675
+1579,"Lyon, Iowa",0.8333333333333334
+1580,"Lyon, Kansas",1.2
+1581,"Lyon, Kentucky",0.0
+1582,"Lyon, Minnesota",0.0
+1583,"Lyon, Nevada",0.23156028368794326
+1584,"Mackinac, Michigan",0.0
+1585,"Macomb, Michigan",0.0
+1586,"Macon, Alabama",0.4115384615384615
+1587,"Macon, Illinois",0.03933333333333333
+1588,"Macon, Missouri",0.0
+1589,"Macon, North Carolina",0.1408
+1590,"Macon, Tennessee",0.0
+1591,"Macoupin, Illinois",0.0
+1592,"Madera county, California",0.0
+1593,"Madera, California",0.0
+1594,"Madison, Alabama",0.07135416666666666
+1595,"Madison, Florida",0.0
+1596,"Madison, Idaho",0.0
+1597,"Madison, Illinois",0.0
+1598,"Madison, Indiana",0.0
+1599,"Madison, Iowa",0.9941176470588237
+1600,"Madison, Kentucky",0.0
+1601,"Madison, Louisiana",0.0
+1602,"Madison, Missouri",0.118
+1603,"Madison, Montana",0.02614035087719298
+1604,"Madison, Nebraska",0.0
+1605,"Madison, North Carolina",0.0
+1606,"Madison, Ohio",0.023809523809523808
+1607,"Madison, Tennessee",0.04856209150326797
+1608,"Madison, Texas",0.0
+1609,"Madison, Virginia",0.044444444444444446
+1610,"Magoffin, Kentucky",0.0
+1611,"Mahaska, Iowa",0.2285714285714286
+1612,"Mahnomen, Minnesota",0.0
+1613,"Mahoning, Ohio",1.2509615384615385
+1614,"Major, Oklahoma",0.7161904761904763
+1615,"Malheur, Oregon",0.0
+1616,"Manassas, Virginia",0.0
+1617,"Manatee county, Florida",0.0
+1618,"Manatee, Florida",0.03405405405405405
+1619,"Manistee, Michigan",0.044444444444444446
+1620,"Manitowoc, Wisconsin",0.023416666666666665
+1621,"Marathon, Wisconsin",0.03869436201780416
+1622,"Marengo, Alabama",0.04431818181818182
+1623,"Maricopa, Arizona",3.2240366430260052
+1624,"Maries county, Missouri",0.0
+1625,"Maries, Missouri",0.073
+1626,"Marin, California",0.012244897959183673
+1627,"Marinette, Wisconsin",0.10704225352112676
+1628,"Marion county, Florida",0.0
+1629,"Marion county, Missouri",0.0
+1630,"Marion, Alabama",0.013421052631578948
+1631,"Marion, Arkansas",0.18241379310344827
+1632,"Marion, Florida",0.18018757327080892
+1633,"Marion, Illinois",0.0
+1634,"Marion, Indiana",0.007575757575757576
+1635,"Marion, Iowa",0.0
+1636,"Marion, Kansas",0.049999999999999996
+1637,"Marion, Kentucky",0.0
+1638,"Marion, Missouri",0.0
+1639,"Marion, Ohio",0.0
+1640,"Marion, Oregon",0.005740740740740741
+1641,"Marion, South Carolina",0.22866666666666666
+1642,"Marion, Tennessee",0.0
+1643,"Marion, Texas",0.2690476190476191
+1644,"Marion, West Virginia",0.0
+1645,"Mariposa, California",0.04073394495412844
+1646,"Marlboro, South Carolina",0.0
+1647,"Marquette, Michigan",0.0
+1648,"Marquette, Wisconsin",0.0
+1649,"Marshall, Alabama",0.0
+1650,"Marshall, Illinois",0.0
+1651,"Marshall, Indiana",0.0
+1652,"Marshall, Iowa",0.09333333333333332
+1653,"Marshall, Kansas",0.24225806451612902
+1654,"Marshall, Kentucky",0.0
+1655,"Marshall, Minnesota",0.09411764705882353
+1656,"Marshall, Oklahoma",0.03875
+1657,"Marshall, South Dakota",0.0
+1658,"Marshall, Tennessee",0.0
+1659,"Marshall, West Virginia",0.016666666666666666
+1660,"Martin county, Florida",0.0
+1661,"Martin, Florida",0.08535211267605634
+1662,"Martin, Indiana",0.0
+1663,"Martin, Kentucky",0.5199999999999999
+1664,"Martin, Minnesota",0.13814814814814816
+1665,"Martin, North Carolina",0.0
+1666,"Martin, Texas",0.0
+1667,"Martinsville, Virginia",0.0
+1668,"Mason, Illinois",0.0
+1669,"Mason, Kentucky",0.0
+1670,"Mason, Michigan",0.38863636363636367
+1671,"Mason, Texas",0.0
+1672,"Mason, Washington",0.002791327913279133
+1673,"Mason, West Virginia",0.02631578947368421
+1674,"Massac, Illinois",0.0
+1675,"Matagorda, Texas",0.09574468085106383
+1676,"Matanuska-susitna borough, Alaska",0.0
+1677,"Matanuska-susitna, Alaska",0.020879120879120878
+1678,"Mathews, Virginia",0.17428571428571427
+1679,"Maui, Hawaii",0.0
+1680,"Maury, Tennessee",0.0
+1681,"Maverick, Texas",0.0
+1682,"Mayes, Oklahoma",0.0
+1683,"Mcclain, Oklahoma",0.0
+1684,"Mccone, Montana",0.0
+1685,"Mccook, South Dakota",0.0
+1686,"Mccormick, South Carolina",0.0
+1687,"Mccracken, Kentucky",0.0
+1688,"Mccreary, Kentucky",0.0
+1689,"Mcculloch, Texas",0.08823529411764706
+1690,"Mccurtain, Oklahoma",0.0
+1691,"Mcdonald, Missouri",0.0191044776119403
+1692,"Mcdonough, Illinois",0.0
+1693,"Mcdowell, North Carolina",0.1641509433962264
+1694,"Mcdowell, West Virginia",0.039591836734693873
+1695,"Mchenry, Illinois",0.07495762711864408
+1696,"Mchenry, North Dakota",0.0
+1697,"Mcintosh, North Dakota",0.0
+1698,"Mcintosh, Oklahoma",0.0
+1699,"Mckean county, Pennsylvania",0.0
+1700,"Mckean, Pennsylvania",0.0
+1701,"Mckenzie, North Dakota",0.0
+1702,"Mckinley, New Mexico",0.027894736842105264
+1703,"Mclean, Illinois",0.5599999193548386
+1704,"Mclean, Kentucky",0.0
+1705,"Mclean, North Dakota",0.0
+1706,"Mclennan, Texas",0.3745762711864407
+1707,"Mcleod, Minnesota",0.0
+1708,"Mcminn, Tennessee",0.0
+1709,"Mcmullen, Texas",0.0
+1710,"Mcnairy, Tennessee",0.0
+1711,"Mcpherson, Kansas",0.018837209302325582
+1712,"Mcpherson, Nebraska",0.0
+1713,"Meade, Kansas",0.0
+1714,"Meade, Kentucky",0.0
+1715,"Meade, South Dakota",0.0
+1716,"Meagher, Montana",0.0
+1717,"Mecklenburg, North Carolina",0.36694610778443115
+1718,"Mecklenburg, Virginia",0.05344827586206897
+1719,"Mecosta, Michigan",0.0
+1720,"Medina, Ohio",0.016037735849056604
+1721,"Medina, Texas",0.13224137931034483
+1722,"Meeker, Minnesota",0.13243243243243244
+1723,"Meigs, Ohio",0.0
+1724,"Meigs, Tennessee",0.0
+1725,"Menard, Illinois",0.0
+1726,"Menard, Texas",0.0
+1727,"Mendocino, California",0.010905172413793105
+1728,"Menifee, Kentucky",0.0
+1729,"Menominee, Michigan",0.030303030303030304
+1730,"Menominee, Wisconsin",0.0
+1731,"Merced, California",0.006160337552742616
+1732,"Mercer county, Pennsylvania",0.0
+1733,"Mercer, Illinois",0.0
+1734,"Mercer, Kentucky",0.0
+1735,"Mercer, Missouri",0.0
+1736,"Mercer, New Jersey",0.0231095406360424
+1737,"Mercer, North Dakota",0.0
+1738,"Mercer, Ohio",0.0
+1739,"Mercer, Pennsylvania",29.67753623188406
+1740,"Mercer, West Virginia",0.013953488372093023
+1741,"Merrick, Nebraska",0.0
+1742,"Merrimack, New Hampshire",0.0012875536480686696
+1743,"Miami, Indiana",0.0
+1744,"Miami, Kansas",0.0
+1745,"Miami, Ohio",0.0030864197530864196
+1746,"Miami-dade, Florida",0.028
+1747,"Middlesex county, Massachusetts",0.0
+1748,"Middlesex, Massachusetts",0.008393387028401866
+1749,"Middlesex, New Jersey",0.0
+1750,"Middlesex, Virginia",0.0
+1751,"Midland, Michigan",0.09090909090909091
+1752,"Midland, Texas",0.0
+1753,"Mifflin county, Pennsylvania",0.0
+1754,"Mifflin, Pennsylvania",0.0
+1755,"Milam, Texas",0.18
+1756,"Millard, Utah",0.0
+1757,"Mille lacs county, Minnesota",0.0
+1758,"Mille lacs, Minnesota",0.08
+1759,"Miller, Arkansas",0.15727272727272726
+1760,"Miller, Missouri",0.03229508196721311
+1761,"Mills, Iowa",0.35
+1762,"Mills, Texas",0.0
+1763,"Milwaukee, Wisconsin",0.18323353293413172
+1764,"Miner, South Dakota",0.0
+1765,"Mineral, Montana",0.0
+1766,"Mineral, Nevada",0.0
+1767,"Mineral, West Virginia",0.0
+1768,"Mingo, West Virginia",0.0
+1769,"Minidoka, Idaho",0.0
+1770,"Minnehaha, South Dakota",0.0
+1771,"Missaukee, Michigan",0.0
+1772,"Mississippi, Arkansas",0.0
+1773,"Mississippi, Missouri",0.042666666666666665
+1774,"Missoula, Montana",0.00234192037470726
+1775,"Mitchell, Iowa",0.19090909090909092
+1776,"Mitchell, Kansas",0.0
+1777,"Mitchell, North Carolina",0.0
+1778,"Mitchell, Texas",4.45
+1779,"Mobile, Alabama",0.11066914498141263
+1780,"Modoc, California",0.1336842105263158
+1781,"Mohave, Arizona",0.19604316546762587
+1782,"Moniteau, Missouri",0.0
+1783,"Monmouth, New Jersey",0.047824933687002656
+1784,"Mono, California",0.0
+1785,"Monona, Iowa",0.2375
+1786,"Monongalia, West Virginia",0.0
+1787,"Monroe county, Pennsylvania",0.271875
+1788,"Monroe, Alabama",0.044000000000000004
+1789,"Monroe, Arkansas",0.025454545454545455
+1790,"Monroe, Florida",0.0
+1791,"Monroe, Illinois",0.0
+1792,"Monroe, Indiana",0.0
+1793,"Monroe, Kentucky",0.0
+1794,"Monroe, Michigan",0.13333333333333333
+1795,"Monroe, Missouri",0.0
+1796,"Monroe, Ohio",0.0
+1797,"Monroe, Pennsylvania",0.16064318529862173
+1798,"Monroe, Tennessee",0.0
+1799,"Monroe, West Virginia",0.0
+1800,"Monroe, Wisconsin",0.028495049504950496
+1801,"Montague, Texas",0.021739130434782608
+1802,"Montcalm, Michigan",0.0
+1803,"Monterey, California",0.0024734042553191493
+1804,"Montgomery county, Pennsylvania",0.01793103448275862
+1805,"Montgomery, Alabama",0.07925
+1806,"Montgomery, Arkansas",0.0
+1807,"Montgomery, Illinois",0.0
+1808,"Montgomery, Indiana",0.0
+1809,"Montgomery, Iowa",0.09583333333333333
+1810,"Montgomery, Kansas",0.08
+1811,"Montgomery, Kentucky",0.0
+1812,"Montgomery, Maryland",0.04450261780104712
+1813,"Montgomery, Missouri",1.1703571428571429
+1814,"Montgomery, North Carolina",0.0
+1815,"Montgomery, Ohio",0.19231441048034936
+1816,"Montgomery, Pennsylvania",0.04827561327561327
+1817,"Montgomery, Tennessee",0.0
+1818,"Montgomery, Texas",0.26764705882352946
+1819,"Montgomery, Virginia",0.16808510638297874
+1820,"Montmorency, Michigan",0.0
+1821,"Montour, Pennsylvania",0.140625
+1822,"Moody, South Dakota",0.0
+1823,"Moore county, Texas",0.0
+1824,"Moore, North Carolina",0.021616541353383457
+1825,"Moore, Tennessee",0.0
+1826,"Moore, Texas",0.0
+1827,"Mora, New Mexico",0.012692307692307692
+1828,"Morehouse, Louisiana",0.0
+1829,"Morgan, Alabama",0.0
+1830,"Morgan, Illinois",0.0
+1831,"Morgan, Indiana",0.0
+1832,"Morgan, Kentucky",0.0
+1833,"Morgan, Missouri",0.0
+1834,"Morgan, Ohio",0.03764705882352941
+1835,"Morgan, Tennessee",0.0
+1836,"Morgan, Utah",0.0
+1837,"Morgan, West Virginia",0.01509433962264151
+1838,"Morrill, Nebraska",0.0
+1839,"Morris, Kansas",8.083333333333334
+1840,"Morris, New Jersey",0.004939817043813193
+1841,"Morris, Texas",0.4290909090909091
+1842,"Morrison, Minnesota",0.10766666666666666
+1843,"Morrow, Ohio",0.0
+1844,"Morrow, Oregon",0.06
+1845,"Morton, Kansas",0.11818181818181818
+1846,"Morton, North Dakota",0.0
+1847,"Motley, Texas",0.45
+1848,"Moultrie, Illinois",0.0
+1849,"Mountrail, North Dakota",0.0642857142857143
+1850,"Mower, Minnesota",0.07557142857142857
+1851,"Muhlenberg, Kentucky",0.0
+1852,"Multnomah county, Oregon",0.0
+1853,"Multnomah, Oregon",0.04107692307692307
+1854,"Murray, Minnesota",0.10380952380952382
+1855,"Murray, Oklahoma",0.0
+1856,"Muscatine, Iowa",0.08787878787878788
+1857,"Muskegon, Michigan",3.661363636363636
+1858,"Muskingum, Ohio",0.0
+1859,"Muskogee, Oklahoma",0.0
+1860,"Musselshell, Montana",0.0
+1861,"Nacogdoches, Texas",0.4725862068965518
+1862,"Nance, Nebraska",0.0
+1863,"Nantucket, Massachusetts",0.02
+1864,"Napa, California",0.008733624454148471
+1865,"Nash, North Carolina",0.19160000000000002
+1866,"Nassau, Florida",0.5082758620689656
+1867,"Natchitoches, Louisiana",0.16511627906976745
+1868,"Natrona, Wyoming",0.0
+1869,"Navajo, Arizona",0.030573248407643316
+1870,"Navarro, Texas",0.0
+1871,"Nelson, Kentucky",0.0
+1872,"Nelson, North Dakota",0.0
+1873,"Nelson, Virginia",0.1597222222222222
+1874,"Nemaha, Kansas",0.13043478260869565
+1875,"Nemaha, Nebraska",0.0
+1876,"Neosho, Kansas",23.25
+1877,"Ness, Kansas",2.2076923076923074
+1878,"Nevada county, Arkansas",0.0
+1879,"Nevada, Arkansas",0.255
+1880,"Nevada, California",0.0
+1881,"New hanover, North Carolina",0.07940594059405941
+1882,"New kent, Virginia",9.855147058823528
+1883,"New london, Connecticut",0.0
+1884,"New madrid, Missouri",0.0
+1885,"Newaygo, Michigan",0.0
+1886,"Newberry, South Carolina",0.023809523809523808
+1887,"Newport news, Virginia",0.0
+1888,"Newport, Rhode Island",0.0
+1889,"Newton county, Arkansas",0.0
+1890,"Newton, Arkansas",0.0
+1891,"Newton, Indiana",0.0393939393939394
+1892,"Newton, Missouri",0.08450704225352113
+1893,"Newton, Texas",0.6625
+1894,"Nez perce, Idaho",0.0
+1895,"Nicholas, Kentucky",0.0
+1896,"Nicholas, West Virginia",0.0
+1897,"Nicollet, Minnesota",0.025
+1898,"Niobrara, Wyoming",0.0
+1899,"Noble, Indiana",0.0
+1900,"Noble, Ohio",0.0
+1901,"Noble, Oklahoma",0.0
+1902,"Nobles, Minnesota",0.728
+1903,"Nodaway, Missouri",0.0
+1904,"Nolan, Texas",0.0
+1905,"Nome, Alaska",2.006625
+1906,"Norfolk, Massachusetts",0.0020329138431752175
+1907,"Norfolk, Virginia",0.0
+1908,"Norman, Minnesota",1.0285714285714287
+1909,"North slope, Alaska",4.99027397260274
+1910,"Northampton county, Pennsylvania",0.0
+1911,"Northampton, North Carolina",0.046511627906976744
+1912,"Northampton, Pennsylvania",0.031610942249240125
+1913,"Northampton, Virginia",0.25979381443298966
+1914,"Northumberland, Pennsylvania",0.33793103448275863
+1915,"Northumberland, Virginia",0.647846889952153
+1916,"Northwest arctic borough, Alaska",0.0
+1917,"Northwest arctic, Alaska",0.12403846153846153
+1918,"Norton, Kansas",1.0166666666666666
+1919,"Norton, Virginia",0.0
+1920,"Nottoway, Virginia",0.03513513513513513
+1921,"Nowata, Oklahoma",0.0
+1922,"Nuckolls, Nebraska",0.0
+1923,"Nueces, Texas",0.0
+1924,"Nye, Nevada",0.17095435684647303
+1925,"O'brien, Iowa",0.09999999999999999
+1926,"Oakland, Michigan",0.24623893805309735
+1927,"Obion, Tennessee",0.0
+1928,"Obrien, Iowa",0.0
+1929,"Ocean, New Jersey",0.03975135135135135
+1930,"Oceana, Michigan",0.0
+1931,"Ochiltree, Texas",0.0
+1932,"Oconee, South Carolina",0.0
+1933,"Oconto, Wisconsin",0.0
+1934,"Ogemaw, Michigan",0.0
+1935,"Ogle, Illinois",0.0029700598802395207
+1936,"Ohio, Indiana",0.0
+1937,"Ohio, Kentucky",0.022514285714285716
+1938,"Ohio, West Virginia",0.0
+1939,"Okaloosa county, Florida",0.0
+1940,"Okaloosa, Florida",0.43220338983050843
+1941,"Okanogan, Washington",0.0
+1942,"Okeechobee, Florida",0.0
+1943,"Okfuskee, Oklahoma",0.029166666666666664
+1944,"Oklahoma, Oklahoma",0.01394871794871795
+1945,"Okmulgee, Oklahoma",1.9304347826086956
+1946,"Oldham, Kentucky",0.0
+1947,"Oldham, Texas",0.0
+1948,"Olmsted, Minnesota",0.009497206703910615
+1949,"Oneida, Idaho",0.0
+1950,"Oneida, Wisconsin",0.16346153846153846
+1951,"Onslow, North Carolina",0.08
+1952,"Ontonagon, Michigan",0.0
+1953,"Orange, California",0.0
+1954,"Orange, Florida",0.03440816326530612
+1955,"Orange, New York",213.32142857142858
+1956,"Orange, North Carolina",0.09563535911602211
+1957,"Orange, Texas",0.06052631578947368
+1958,"Orange, Vermont",0.0
+1959,"Orange, Virginia",0.0
+1960,"Orangeburg, South Carolina",0.0
+1961,"Oregon, Missouri",0.0
+1962,"Orleans, Louisiana",0.0
+1963,"Orleans, Vermont",0.0
+1964,"Osage, Kansas",0.1368421052631579
+1965,"Osage, Missouri",0.0
+1966,"Osage, Oklahoma",0.05795454545454546
+1967,"Osborne, Kansas",0.8988888888888888
+1968,"Osceola, Florida",0.6588202247191011
+1969,"Osceola, Iowa",0.15
+1970,"Osceola, Michigan",3.869565217391304
+1971,"Oscoda, Michigan",0.0
+1972,"Otero county, New Mexico",0.0
+1973,"Otero, New Mexico",0.0
+1974,"Otoe, Nebraska",0.0
+1975,"Otsego, Michigan",0.0
+1976,"Ottawa, Kansas",0.024999999999999998
+1977,"Ottawa, Michigan",0.05273972602739726
+1978,"Ottawa, Ohio",0.12942307692307692
+1979,"Ottawa, Oklahoma",0.04597701149425287
+1980,"Otter tail, Minnesota",0.1261904761904762
+1981,"Ouachita, Arkansas",0.0
+1982,"Ouachita, Louisiana",0.0
+1983,"Outagamie, Wisconsin",0.23713754646840143
+1984,"Overton, Tennessee",0.0
+1985,"Owen, Indiana",0.0
+1986,"Owen, Kentucky",0.0
+1987,"Owsley, Kentucky",0.0
+1988,"Owyhee, Idaho",0.0
+1989,"Oxford, Maine",0.0
+1990,"Ozark, Missouri",0.0
+1991,"Ozaukee, Wisconsin",0.0
+1992,"Pacific, Washington",0.0
+1993,"Page, Iowa",0.66
+1994,"Page, Virginia",0.004864864864864865
+1995,"Palm beach, Florida",0.002631578947368421
+1996,"Palo alto, Iowa",0.16666666666666666
+1997,"Palo pinto, Texas",0.24199999999999997
+1998,"Pamlico, North Carolina",0.0
+1999,"Panola, Texas",0.22527777777777777
+2000,"Park, Montana",0.0
+2001,"Park, Wyoming",0.0
+2002,"Parke, Indiana",0.0
+2003,"Parker, Texas",2.9416981132075475
+2004,"Parmer, Texas",0.07254901960784314
+2005,"Pasco county, Florida",0.0
+2006,"Pasco, Florida",0.021659482758620688
+2007,"Pasquotank, North Carolina",0.0
+2008,"Passaic, New Jersey",0.0
+2009,"Patrick, Virginia",0.0
+2010,"Paulding, Ohio",0.2125
+2011,"Pawnee, Kansas",0.4117647058823529
+2012,"Pawnee, Nebraska",0.0
+2013,"Pawnee, Oklahoma",0.3851851851851852
+2014,"Payette, Idaho",0.0
+2015,"Payne, Oklahoma",0.0
+2016,"Pecos, Texas",0.0
+2017,"Pembina, North Dakota",0.0
+2018,"Pemiscot, Missouri",0.0
+2019,"Pend oreille, Washington",0.0
+2020,"Pender, North Carolina",0.013761467889908258
+2021,"Pendleton, Kentucky",0.0
+2022,"Pendleton, West Virginia",0.6489795918367347
+2023,"Pennington, Minnesota",0.05454545454545454
+2024,"Pennington, South Dakota",0.016884615384615383
+2025,"Penobscot, Maine",0.0
+2026,"Peoria, Illinois",0.004838709677419355
+2027,"Pepin, Wisconsin",0.0
+2028,"Perkins, Nebraska",0.0
+2029,"Perquimans, North Carolina",0.6333333333333334
+2030,"Perry county, Pennsylvania",0.0
+2031,"Perry, Alabama",0.0
+2032,"Perry, Arkansas",0.13736842105263158
+2033,"Perry, Illinois",0.0
+2034,"Perry, Indiana",0.0
+2035,"Perry, Kentucky",0.0
+2036,"Perry, Missouri",0.034999999999999996
+2037,"Perry, Ohio",0.0
+2038,"Perry, Pennsylvania",0.011515151515151515
+2039,"Perry, Tennessee",0.0
+2040,"Pershing, Nevada",0.0
+2041,"Person, North Carolina",0.21818181818181817
+2042,"Petersburg, Alaska",0.0
+2043,"Petroleum, Montana",0.0
+2044,"Pettis, Missouri",0.0
+2045,"Phelps, Missouri",0.11839080459770115
+2046,"Phelps, Nebraska",0.0
+2047,"Philadelphia, Pennsylvania",0.0
+2048,"Phillips, Arkansas",0.0
+2049,"Phillips, Kansas",0.07421052631578948
+2050,"Phillips, Montana",0.0
+2051,"Piatt, Illinois",0.1896969696969697
+2052,"Pickaway, Ohio",2.3295999999999997
+2053,"Pickens, Alabama",0.03314814814814815
+2054,"Pickens, South Carolina",0.0
+2055,"Pickett, Tennessee",0.0
+2056,"Pierce county, Washington",0.0
+2057,"Pierce, Nebraska",0.0
+2058,"Pierce, North Dakota",0.0
+2059,"Pierce, Washington",0.02080786026200873
+2060,"Pierce, Wisconsin",0.0
+2061,"Pike, Alabama",0.048196721311475406
+2062,"Pike, Arkansas",0.0
+2063,"Pike, Illinois",0.6486829268292684
+2064,"Pike, Indiana",0.0
+2065,"Pike, Kentucky",0.0
+2066,"Pike, Missouri",0.0642857142857143
+2067,"Pike, Ohio",0.0
+2068,"Pike, Pennsylvania",0.03780918727915194
+2069,"Pima, Arizona",0.19595645412130633
+2070,"Pinal, Arizona",0.22312849162011172
+2071,"Pine, Minnesota",0.1664935064935065
+2072,"Pinellas, Florida",0.0
+2073,"Pipestone, Minnesota",0.22499999999999998
+2074,"Piscataquis, Maine",0.0
+2075,"Pitt, North Carolina",0.05864197530864197
+2076,"Pittsburg, Oklahoma",0.0
+2077,"Pittsylvania, Virginia",0.04772727272727273
+2078,"Piute, Utah",0.0
+2079,"Placer, California",0.07477477477477477
+2080,"Plaquemines, Louisiana",0.0
+2081,"Platte, Missouri",0.08666666666666667
+2082,"Platte, Nebraska",0.0
+2083,"Platte, Wyoming",0.0
+2084,"Pleasants, West Virginia",0.0
+2085,"Plumas, California",0.0
+2086,"Plymouth, Iowa",0.05
+2087,"Plymouth, Massachusetts",0.0007253886010362694
+2088,"Pocahontas, Iowa",0.8875000000000001
+2089,"Pocahontas, West Virginia",0.053703703703703705
+2090,"Poinsett, Arkansas",0.045306122448979594
+2091,"Pointe coupee parish, Louisiana",0.0
+2092,"Pointe coupee, Louisiana",0.0
+2093,"Polk, Arkansas",0.0
+2094,"Polk, Florida",0.09507407407407407
+2095,"Polk, Iowa",0.9615384615384617
+2096,"Polk, Minnesota",0.060000000000000005
+2097,"Polk, Missouri",0.0
+2098,"Polk, Nebraska",0.0
+2099,"Polk, North Carolina",0.1361904761904762
+2100,"Polk, Oregon",0.0
+2101,"Polk, Tennessee",0.0
+2102,"Polk, Texas",0.09382716049382715
+2103,"Polk, Wisconsin",0.008941176470588235
+2104,"Pondera, Montana",0.0
+2105,"Pontotoc, Oklahoma",0.0391304347826087
+2106,"Pope, Arkansas",0.0
+2107,"Pope, Illinois",0.0
+2108,"Pope, Minnesota",0.03214285714285715
+2109,"Portage county, Wisconsin",0.0
+2110,"Portage, Ohio",0.0
+2111,"Portage, Wisconsin",0.05806451612903226
+2112,"Porter, Indiana",0.0
+2113,"Portsmouth, Virginia",0.0
+2114,"Posey, Indiana",0.0
+2115,"Pottawatomie, Kansas",0.2770114942528736
+2116,"Pottawatomie, Oklahoma",0.02694610778443114
+2117,"Pottawattamie, Iowa",0.165
+2118,"Potter, Pennsylvania",0.0
+2119,"Potter, Texas",0.0
+2120,"Powder river, Montana",0.0
+2121,"Powell, Kentucky",0.0
+2122,"Powell, Montana",0.0
+2123,"Power, Idaho",1.7465116279069766
+2124,"Poweshiek, Iowa",0.5828571428571429
+2125,"Powhatan, Virginia",0.24000000000000002
+2126,"Prairie, Arkansas",0.074
+2127,"Prairie, Montana",0.0
+2128,"Pratt, Kansas",0.010408163265306122
+2129,"Preble, Ohio",0.10638297872340426
+2130,"Presidio, Texas",0.0
+2131,"Presque isle, Michigan",0.0
+2132,"Preston, West Virginia",0.02425
+2133,"Price, Wisconsin",0.0
+2134,"Prince edward, Virginia",0.0
+2135,"Prince george's, Maryland",0.0
+2136,"Prince george, Virginia",0.15391608391608394
+2137,"Prince georges, Maryland",0.0
+2138,"Prince of wales-hyder, Alaska",0.0
+2139,"Prince william, Virginia",0.04105960264900662
+2140,"Providence, Rhode Island",0.456039603960396
+2141,"Pulaski, Arkansas",0.02868421052631579
+2142,"Pulaski, Illinois",0.0
+2143,"Pulaski, Indiana",0.0
+2144,"Pulaski, Kentucky",0.0
+2145,"Pulaski, Missouri",0.005408163265306123
+2146,"Pulaski, Virginia",0.0
+2147,"Pushmataha, Oklahoma",0.0
+2148,"Putnam county, Indiana",0.0
+2149,"Putnam, Florida",0.20567164179104475
+2150,"Putnam, Illinois",0.0
+2151,"Putnam, Indiana",0.0
+2152,"Putnam, Missouri",0.0
+2153,"Putnam, New York",1.7
+2154,"Putnam, Ohio",0.29638297872340424
+2155,"Putnam, Tennessee",0.0
+2156,"Putnam, West Virginia",0.0
+2157,"Quay, New Mexico",0.0
+2158,"Queen anne's, Maryland",0.03414634146341463
+2159,"Racine, Wisconsin",0.02452054794520548
+2160,"Radford, Virginia",0.0
+2161,"Rains, Texas",0.0
+2162,"Raleigh, West Virginia",0.0
+2163,"Ramsey, Minnesota",0.04390243902439024
+2164,"Ramsey, North Dakota",0.0
+2165,"Randall, Texas",0.01864406779661017
+2166,"Randolph, Alabama",0.0
+2167,"Randolph, Arkansas",0.0
+2168,"Randolph, Illinois",0.0
+2169,"Randolph, Indiana",0.0
+2170,"Randolph, Missouri",0.21916666666666665
+2171,"Randolph, North Carolina",0.5213973799126638
+2172,"Randolph, West Virginia",0.0
+2173,"Ransom, North Dakota",0.6085714285714285
+2174,"Rapides, Louisiana",0.0
+2175,"Rappahannock, Virginia",0.0
+2176,"Ravalli, Montana",0.0
+2177,"Rawlins, Kansas",0.0
+2178,"Ray, Missouri",0.0
+2179,"Reagan, Texas",0.0
+2180,"Real, Texas",0.0
+2181,"Red lake county, Minnesota",0.0
+2182,"Red lake, Minnesota",0.36333333333333334
+2183,"Red river, Louisiana",0.0
+2184,"Red river, Texas",0.0
+2185,"Red willow, Nebraska",0.0
+2186,"Redwood, Minnesota",0.022222222222222223
+2187,"Reeves, Texas",0.0
+2188,"Refugio, Texas",0.0
+2189,"Reno, Kansas",0.015584415584415584
+2190,"Renville, Minnesota",0.27058823529411763
+2191,"Republic, Kansas",0.2785714285714286
+2192,"Reynolds, Missouri",0.1388888888888889
+2193,"Rhea, Tennessee",0.0
+2194,"Rice, Kansas",0.16538461538461538
+2195,"Rice, Minnesota",0.1636559139784946
+2196,"Rich, Utah",0.0
+2197,"Richardson, Nebraska",0.0
+2198,"Richland, Illinois",2.036969696969697
+2199,"Richland, Louisiana",0.0927659574468085
+2200,"Richland, Montana",0.0
+2201,"Richland, North Dakota",0.0
+2202,"Richland, Ohio",0.005226480836236934
+2203,"Richland, South Carolina",0.0890625
+2204,"Richland, Wisconsin",0.0
+2205,"Richmond, North Carolina",0.0
+2206,"Richmond, Virginia",0.0
+2207,"Riley, Kansas",0.025
+2208,"Ringgold, Iowa",1.2375
+2209,"Rio arriba, New Mexico",0.06795454545454545
+2210,"Ripley, Indiana",0.0
+2211,"Ripley, Missouri",0.0
+2212,"Ritchie, West Virginia",0.0
+2213,"Riverside, California",0.0
+2214,"Roane, Tennessee",0.0
+2215,"Roane, West Virginia",0.0
+2216,"Roanoke, Virginia",0.0
+2217,"Roberts, South Dakota",0.0
+2218,"Roberts, Texas",0.0
+2219,"Robertson, Tennessee",0.0
+2220,"Robertson, Texas",0.5380952380952382
+2221,"Robeson, North Carolina",0.20380952380952383
+2222,"Rock island, Illinois",0.18968449197860965
+2223,"Rock, Minnesota",0.6749999999999999
+2224,"Rock, Nebraska",0.0
+2225,"Rock, Wisconsin",0.03728937728937729
+2226,"Rockbridge, Virginia",3.8466666666666667
+2227,"Rockcastle, Kentucky",0.0
+2228,"Rockingham, New Hampshire",0.032638259292837715
+2229,"Rockingham, North Carolina",0.2716265060240964
+2230,"Rockingham, Virginia",0.0
+2231,"Roger mills, Oklahoma",0.0
+2232,"Rogers, Oklahoma",0.0
+2233,"Rolette, North Dakota",0.0
+2234,"Rooks, Kansas",0.7056
+2235,"Roosevelt, Montana",0.0
+2236,"Roosevelt, New Mexico",0.12250000000000001
+2237,"Roscommon, Michigan",0.0
+2238,"Roseau, Minnesota",0.06749999999999999
+2239,"Rosebud, Montana",0.0
+2240,"Ross, Ohio",0.0
+2241,"Rowan county, North Carolina",0.0
+2242,"Rowan, Kentucky",0.0
+2243,"Rowan, North Carolina",0.2978032786885246
+2244,"Runnels, Texas",0.0
+2245,"Rush, Indiana",0.0
+2246,"Rush, Kansas",0.46875
+2247,"Rusk, Texas",0.3493150684931507
+2248,"Rusk, Wisconsin",0.0
+2249,"Russell, Alabama",0.1036842105263158
+2250,"Russell, Kansas",0.0
+2251,"Russell, Kentucky",0.23809523809523808
+2252,"Russell, Virginia",0.0
+2253,"Rutherford, North Carolina",0.042187499999999996
+2254,"Rutherford, Tennessee",0.0
+2255,"Rutland, Vermont",0.0
+2256,"Sabine, Louisiana",0.008695652173913044
+2257,"Sabine, Texas",0.9560000000000001
+2258,"Sac, Iowa",0.3230769230769231
+2259,"Sacramento county, California",0.0
+2260,"Sacramento, California",0.14335574767851425
+2261,"Sagadahoc, Maine",0.0
+2262,"Saginaw, Michigan",0.09090909090909091
+2263,"Saint bernard, Louisiana",0.0
+2264,"Saint charles, Missouri",0.02736842105263158
+2265,"Saint clair, Michigan",0.0
+2266,"Saint francois, Missouri",0.6545806451612903
+2267,"Saint james, Louisiana",0.0
+2268,"Saint joseph, Michigan",0.08333333333333333
+2269,"Saint landry, Louisiana",0.0
+2270,"Saint louis, Minnesota",0.698904109589041
+2271,"Saint louis, Missouri",0.030294117647058826
+2272,"Saint marys, Maryland",0.0
+2273,"Saint tammany, Louisiana",0.0
+2274,"Salem, New Jersey",0.015362318840579712
+2275,"Salem, Virginia",0.0
+2276,"Saline county, Arkansas",0.0
+2277,"Saline, Arkansas",0.44423076923076926
+2278,"Saline, Illinois",0.14242857142857143
+2279,"Saline, Kansas",0.4412
+2280,"Saline, Missouri",0.0
+2281,"Saline, Nebraska",0.0
+2282,"Salt lake, Utah",0.0
+2283,"Saluda, South Carolina",0.0
+2284,"Sampson, North Carolina",0.0
+2285,"San augustine, Texas",0.0
+2286,"San benito, California",0.0
+2287,"San bernardino county, California",0.0
+2288,"San bernardino, California",0.04851752021563342
+2289,"San diego county, California",0.0
+2290,"San diego, California",0.0008292682926829268
+2291,"San francisco, California",0.0
+2292,"San jacinto, Texas",0.06444444444444444
+2293,"San joaquin, California",0.002527283170591614
+2294,"San juan, New Mexico",0.0
+2295,"San juan, Utah",0.005714285714285714
+2296,"San juan, Washington",0.0
+2297,"San luis obispo, California",0.0031249999999999997
+2298,"San mateo, California",0.0312568306010929
+2299,"San miguel, New Mexico",0.0
+2300,"San patricio, Texas",0.0
+2301,"San saba, Texas",0.0
+2302,"Sanborn, South Dakota",0.0
+2303,"Sanders, Montana",0.0
+2304,"Sandoval, New Mexico",0.022076502732240436
+2305,"Sandusky, Ohio",0.19339622641509435
+2306,"Sangamon, Illinois",0.0
+2307,"Sanilac, Michigan",0.07
+2308,"Sanpete, Utah",0.0
+2309,"Santa barbara, California",0.0
+2310,"Santa clara, California",0.0016453382084095065
+2311,"Santa cruz, Arizona",0.049565217391304345
+2312,"Santa cruz, California",0.02775061124694377
+2313,"Santa fe, New Mexico",0.058882978723404256
+2314,"Santa rosa county, Florida",0.0
+2315,"Santa rosa, Florida",0.10914285714285714
+2316,"Sarasota, Florida",0.2719811320754717
+2317,"Saratoga, New York",1.1375
+2318,"Sargent, North Dakota",0.0
+2319,"Sarpy, Nebraska",0.005
+2320,"Sauk, Wisconsin",0.020901639344262292
+2321,"Saunders, Nebraska",0.0
+2322,"Sawyer, Wisconsin",0.0
+2323,"Schleicher, Texas",0.0
+2324,"Schoolcraft, Michigan",0.0
+2325,"Schuyler, Illinois",0.0
+2326,"Schuylkill county, Pennsylvania",0.0
+2327,"Schuylkill, Pennsylvania",0.03362229102167183
+2328,"Scioto, Ohio",0.0
+2329,"Scotland, Missouri",0.0
+2330,"Scotland, North Carolina",0.0
+2331,"Scott, Arkansas",0.0
+2332,"Scott, Illinois",0.22090909090909092
+2333,"Scott, Indiana",0.0
+2334,"Scott, Iowa",0.12150537634408601
+2335,"Scott, Kansas",0.0
+2336,"Scott, Kentucky",0.0
+2337,"Scott, Minnesota",0.030588235294117642
+2338,"Scott, Missouri",0.08743119266055047
+2339,"Scott, Tennessee",0.0
+2340,"Scott, Virginia",0.0
+2341,"Scotts bluff, Nebraska",0.0
+2342,"Scurry, Texas",0.31666666666666665
+2343,"Searcy, Arkansas",0.2973529411764706
+2344,"Sebastian, Arkansas",0.011904761904761904
+2345,"Sedgwick, Kansas",0.10288461538461538
+2346,"Seminole county, Florida",0.0
+2347,"Seminole, Florida",0.01374074074074074
+2348,"Seminole, Oklahoma",0.005649717514124294
+2349,"Seneca, Ohio",0.0
+2350,"Sequatchie, Tennessee",0.0
+2351,"Sequoyah, Oklahoma",0.1588235294117647
+2352,"Sevier, Arkansas",0.0
+2353,"Sevier, Tennessee",0.0
+2354,"Sevier, Utah",0.0
+2355,"Seward, Kansas",0.05
+2356,"Seward, Nebraska",0.0
+2357,"Shackelford, Texas",0.0
+2358,"Shannon, Missouri",0.07142857142857142
+2359,"Shannon, South Dakota",0.0
+2360,"Sharp county, Arkansas",0.0
+2361,"Sharp, Arkansas",0.0
+2362,"Shasta, California",0.0
+2363,"Shawano, Wisconsin",1.4832
+2364,"Shawnee, Kansas",0.0
+2365,"Sheboygan, Wisconsin",0.04787644787644787
+2366,"Shelby, Alabama",0.19414364640883977
+2367,"Shelby, Illinois",0.038636363636363635
+2368,"Shelby, Indiana",0.0
+2369,"Shelby, Iowa",0.15555555555555556
+2370,"Shelby, Kentucky",0.0
+2371,"Shelby, Missouri",0.0
+2372,"Shelby, Ohio",0.23488188976377955
+2373,"Shelby, Tennessee",0.23370786516853934
+2374,"Shelby, Texas",0.15037735849056605
+2375,"Shenandoah, Virginia",0.0
+2376,"Sherburne, Minnesota",0.04482758620689655
+2377,"Sheridan, Kansas",0.0
+2378,"Sheridan, Montana",0.0
+2379,"Sheridan, Nebraska",0.0
+2380,"Sheridan, North Dakota",1.27
+2381,"Sheridan, Wyoming",0.0
+2382,"Sherman, Kansas",0.0
+2383,"Sherman, Nebraska",0.0
+2384,"Sherman, Oregon",0.0
+2385,"Sherman, Texas",0.6728571428571428
+2386,"Shiawassee, Michigan",0.016129032258064516
+2387,"Shoshone, Idaho",0.0
+2388,"Sibley, Minnesota",0.0
+2389,"Sierra, California",0.0
+2390,"Sierra, New Mexico",0.0
+2391,"Silver bow, Montana",0.0
+2392,"Silverbow, Montana",0.0
+2393,"Simpson, Kentucky",0.0
+2394,"Sioux, Iowa",1.9249999999999998
+2395,"Sioux, Nebraska",0.0
+2396,"Sioux, North Dakota",0.0
+2397,"Siskiyou, California",0.0
+2398,"Sitka city and, Alaska",0.0
+2399,"Skagit, Washington",0.0
+2400,"Skagway, Alaska",0.0
+2401,"Skamania, Washington",0.0
+2402,"Slope, North Dakota",0.0
+2403,"Smith, Kansas",0.8333333333333334
+2404,"Smith, Tennessee",0.0
+2405,"Smith, Texas",0.8355414012738855
+2406,"Smyth, Virginia",0.0
+2407,"Snohomish county, Washington",0.0
+2408,"Snohomish, Washington",0.002105263157894737
+2409,"Snyder county, Pennsylvania",0.0
+2410,"Snyder, Pennsylvania",0.5071428571428571
+2411,"Socorro, New Mexico",0.0
+2412,"Solano, California",0.0020560747663551406
+2413,"Somerset county, Pennsylvania",0.0
+2414,"Somerset, Maine",0.0
+2415,"Somerset, Maryland",0.0
+2416,"Somerset, New Jersey",0.0024553571428571432
+2417,"Somerset, Pennsylvania",0.0
+2418,"Somervell, Texas",0.025500000000000002
+2419,"Sonoma, California",0.019219330855018587
+2420,"Southampton, Virginia",0.0
+2421,"Southeast fairbanks census area, Alaska",0.0
+2422,"Southeast fairbanks, Alaska",0.0
+2423,"Spartanburg, South Carolina",0.0
+2424,"Spencer, Indiana",0.04642857142857143
+2425,"Spink county, South Dakota",0.0
+2426,"Spink, South Dakota",0.0
+2427,"Spokane, Washington",0.0
+2428,"Spotsylvania, Virginia",0.0
+2429,"St clair, Alabama",0.0
+2430,"St helena, Louisiana",0.0
+2431,"St joseph, Indiana",0.0
+2432,"St landry, Louisiana",0.0
+2433,"St louis, Missouri",0.0
+2434,"St lucie, Florida",0.305
+2435,"St mary's, Maryland",0.0
+2436,"St tammany, Louisiana",0.0
+2437,"St. bernard, Louisiana",0.0
+2438,"St. charles, Louisiana",0.1875
+2439,"St. charles, Missouri",0.48190476190476195
+2440,"St. clair county, Missouri",0.0
+2441,"St. clair, Alabama",0.052
+2442,"St. clair, Illinois",0.1346521739130435
+2443,"St. clair, Michigan",0.0
+2444,"St. clair, Missouri",0.0
+2445,"St. croix, Wisconsin",0.0
+2446,"St. francis, Arkansas",0.05313253012048193
+2447,"St. francois, Missouri",0.03892857142857143
+2448,"St. helena, Louisiana",0.0
+2449,"St. james, Louisiana",0.0
+2450,"St. john the baptist parish, Louisiana",0.0
+2451,"St. john the baptist, Louisiana",0.22230769230769232
+2452,"St. johns, Florida",0.050806451612903224
+2453,"St. joseph county, Indiana",0.0
+2454,"St. joseph, Indiana",0.08591549295774648
+2455,"St. joseph, Michigan",0.21851851851851853
+2456,"St. landry, Louisiana",0.0
+2457,"St. louis, Minnesota",1.0139490445859871
+2458,"St. louis, Missouri",0.0
+2459,"St. lucie, Florida",0.004
+2460,"St. martin parish, Louisiana",0.0
+2461,"St. martin, Louisiana",0.0
+2462,"St. mary parish, Louisiana",0.0
+2463,"St. mary's county, Maryland",0.0
+2464,"St. mary's, Maryland",0.04513888888888889
+2465,"St. mary, Louisiana",0.0225
+2466,"St. tammany parish, Louisiana",0.05058823529411765
+2467,"St. tammany, Louisiana",1.7233458646616542
+2468,"Stafford, Kansas",0.0
+2469,"Stafford, Virginia",0.6525000000000001
+2470,"Stanislaus, California",0.0
+2471,"Stanly, North Carolina",0.13452380952380955
+2472,"Stanton, Kansas",0.38461538461538464
+2473,"Stanton, Nebraska",0.2286206896551724
+2474,"Stark, Illinois",0.0
+2475,"Stark, North Dakota",0.0
+2476,"Stark, Ohio",0.010441640378548896
+2477,"Starke, Indiana",0.0
+2478,"Starr, Texas",0.0
+2479,"Staunton, Virginia",0.0
+2480,"Ste. genevieve, Missouri",0.0
+2481,"Stearns, Minnesota",0.020323886639676114
+2482,"Steele, Minnesota",0.0
+2483,"Stephens, Oklahoma",0.0
+2484,"Stephens, Texas",0.0
+2485,"Stephenson, Illinois",0.013148936170212766
+2486,"Sterling, Texas",0.0
+2487,"Steuben, Indiana",0.0
+2488,"Steuben, New York",0.0
+2489,"Stevens, Kansas",0.0
+2490,"Stevens, Minnesota",0.024999999999999998
+2491,"Stevens, Washington",0.0
+2492,"Stewart, Tennessee",0.38409090909090904
+2493,"Stillwater, Montana",0.0
+2494,"Stoddard, Missouri",0.0
+2495,"Stokes, North Carolina",7.983187499999998
+2496,"Stone, Arkansas",0.14166666666666666
+2497,"Stone, Missouri",0.08971544715447155
+2498,"Stonewall, Texas",0.0
+2499,"Storey, Nevada",0.10275000000000001
+2500,"Story, Iowa",0.0
+2501,"Strafford, New Hampshire",0.0
+2502,"Stutsman, North Dakota",0.0
+2503,"Sublette, Wyoming",0.020253164556962026
+2504,"Suffolk city, Virginia",0.42857142857142855
+2505,"Suffolk, Massachusetts",0.0
+2506,"Suffolk, Virginia",0.0
+2507,"Sullivan, Indiana",0.0
+2508,"Sullivan, Missouri",0.0
+2509,"Sullivan, New Hampshire",0.0
+2510,"Sullivan, Pennsylvania",0.0
+2511,"Sullivan, Tennessee",0.0
+2512,"Summers, West Virginia",0.0
+2513,"Summit, Ohio",0.21479274611398963
+2514,"Summit, Utah",0.0
+2515,"Sumner, Kansas",0.053125
+2516,"Sumner, Tennessee",0.0
+2517,"Sumter, Alabama",0.0
+2518,"Sumter, Florida",0.21614525139664803
+2519,"Sumter, South Carolina",0.004832535885167464
+2520,"Surry, North Carolina",1.4098787878787877
+2521,"Surry, Virginia",0.0
+2522,"Susquehanna, Pennsylvania",0.0
+2523,"Sussex, New Jersey",0.255266604303087
+2524,"Sussex, Virginia",0.034848484848484844
+2525,"Sutter, California",0.0
+2526,"Sutton, Texas",0.0
+2527,"Suwannee, Florida",0.0
+2528,"Swain, North Carolina",3.791891891891892
+2529,"Sweet grass, Montana",0.26473684210526316
+2530,"Sweetwater county, Wyoming",0.0
+2531,"Sweetwater, Wyoming",0.0
+2532,"Swift county, Minnesota",0.0
+2533,"Swift, Minnesota",0.03783783783783783
+2534,"Swisher, Texas",1.191142857142857
+2535,"Switzerland, Indiana",0.0
+2536,"Talbot, Maryland",0.0
+2537,"Talladega, Alabama",0.013834196891191709
+2538,"Tallapoosa, Alabama",0.0
+2539,"Tama, Iowa",0.3
+2540,"Taney, Missouri",0.06682242990654207
+2541,"Tangipahoa parish, Louisiana",0.0
+2542,"Tangipahoa, Louisiana",0.0
+2543,"Taos, New Mexico",0.30278761061946907
+2544,"Tarrant, Texas",0.049365671641791044
+2545,"Taylor, Florida",0.0
+2546,"Taylor, Iowa",0.75
+2547,"Taylor, Kentucky",0.0
+2548,"Taylor, Texas",0.0
+2549,"Taylor, West Virginia",0.0
+2550,"Taylor, Wisconsin",0.41960784313725485
+2551,"Tazewell, Illinois",0.008759825327510918
+2552,"Tazewell, Virginia",0.0
+2553,"Tehama, California",0.0
+2554,"Tensas, Louisiana",0.0
+2555,"Terrebonne, Louisiana",0.0
+2556,"Terrell, Texas",0.0
+2557,"Terry, Texas",0.0
+2558,"Teton, Idaho",0.0
+2559,"Teton, Montana",0.31545454545454543
+2560,"Teton, Wyoming",0.0
+2561,"Texas, Missouri",0.11022727272727272
+2562,"Texas, Oklahoma",0.0035087719298245615
+2563,"Thayer, Nebraska",0.0
+2564,"Thomas, Kansas",0.0
+2565,"Thomas, Nebraska",0.0
+2566,"Throckmorton, Texas",0.0
+2567,"Thurston, Nebraska",0.017575757575757574
+2568,"Thurston, Washington",0.006697819314641746
+2569,"Tillamook county, Oregon",0.0
+2570,"Tillamook, Oregon",0.618804347826087
+2571,"Tillman, Oklahoma",0.13684210526315788
+2572,"Tioga county, Pennsylvania",0.0
+2573,"Tioga, Pennsylvania",0.012643678160919542
+2574,"Tippecanoe, Indiana",0.010344827586206896
+2575,"Tipton, Indiana",0.0
+2576,"Tipton, Tennessee",0.034666666666666665
+2577,"Titus, Texas",0.0
+2578,"Todd, Kentucky",0.0
+2579,"Todd, Minnesota",0.04708333333333333
+2580,"Todd, South Dakota",0.0
+2581,"Tom green, Texas",0.2652173913043478
+2582,"Tooele, Utah",0.0
+2583,"Toole, Montana",0.0
+2584,"Torrance, New Mexico",0.0
+2585,"Towner, North Dakota",0.0
+2586,"Traill, North Dakota",0.0
+2587,"Transylvania, North Carolina",0.017123287671232876
+2588,"Traverse, Minnesota",0.33076923076923076
+2589,"Travis, Texas",0.10500000000000001
+2590,"Treasure, Montana",0.0
+2591,"Trego, Kansas",0.0
+2592,"Trempealeau, Wisconsin",0.020202020202020204
+2593,"Trigg, Kentucky",0.0
+2594,"Trimble, Kentucky",0.0
+2595,"Trinity, California",0.0
+2596,"Trinity, Texas",0.09766666666666665
+2597,"Tripp, South Dakota",0.0
+2598,"Trousdale, Tennessee",0.0
+2599,"Trumbull, Ohio",0.047058823529411764
+2600,"Tucker, West Virginia",0.0
+2601,"Tulare, California",0.0004804392587508579
+2602,"Tulsa, Oklahoma",0.0
+2603,"Tuolumne, California",0.0
+2604,"Turner, South Dakota",0.0
+2605,"Tuscaloosa, Alabama",0.0
+2606,"Tuscarawas, Ohio",0.0
+2607,"Tuscola, Michigan",0.3402061855670103
+2608,"Twin falls, Idaho",0.0
+2609,"Tyler, Texas",0.525
+2610,"Tyler, West Virginia",0.0
+2611,"Tyrrell, North Carolina",0.07906976744186048
+2612,"Uinta, Wyoming",0.0
+2613,"Uintah, Utah",0.0
+2614,"Umatilla, Oregon",0.03909774436090225
+2615,"Unicoi, Tennessee",0.0
+2616,"Union county, Pennsylvania",0.0
+2617,"Union parish, Louisiana",0.0
+2618,"Union, Arkansas",0.9326033057851238
+2619,"Union, Florida",0.0
+2620,"Union, Illinois",0.0
+2621,"Union, Indiana",0.0
+2622,"Union, Iowa",0.7727272727272727
+2623,"Union, Kentucky",0.0
+2624,"Union, Louisiana",0.0
+2625,"Union, New Jersey",0.0
+2626,"Union, New Mexico",0.14058823529411765
+2627,"Union, North Carolina",0.0
+2628,"Union, Ohio",0.0
+2629,"Union, Oregon",0.0
+2630,"Union, Pennsylvania",0.019230769230769232
+2631,"Union, South Carolina",0.0
+2632,"Union, South Dakota",1.081923076923077
+2633,"Union, Tennessee",0.0
+2634,"Unknown, South Carolina",0.0
+2635,"Upshur, Texas",1.643793103448276
+2636,"Upshur, West Virginia",0.0
+2637,"Upton, Texas",0.0
+2638,"Utah, Utah",0.00406871609403255
+2639,"Uvalde, Texas",0.0
+2640,"Val verde, Texas",0.0275
+2641,"Valdez-cordova census area, Alaska",0.0
+2642,"Valdez-cordova, Alaska",0.34376146788990836
+2643,"Valencia, New Mexico",0.0
+2644,"Valley, Idaho",0.0
+2645,"Valley, Montana",0.1303030303030303
+2646,"Valley, Nebraska",0.0
+2647,"Van buren, Arkansas",0.0
+2648,"Van buren, Iowa",1.8285714285714285
+2649,"Van buren, Michigan",0.0
+2650,"Van buren, Tennessee",0.0
+2651,"Van wert, Ohio",0.05173913043478261
+2652,"Van zandt, Texas",3.473333333333333
+2653,"Vance, North Carolina",0.0
+2654,"Vanderburgh, Indiana",0.0
+2655,"Venango county, Pennsylvania",0.0
+2656,"Venango, Pennsylvania",0.13636363636363635
+2657,"Ventura, California",1.4823899371069182
+2658,"Vermilion, Illinois",0.0
+2659,"Vermilion, Louisiana",0.0
+2660,"Vermillion county, Indiana",0.0
+2661,"Vermillion, Indiana",0.0
+2662,"Vernon, Louisiana",0.013043478260869565
+2663,"Vernon, Missouri",0.0
+2664,"Vernon, Wisconsin",0.01817204301075269
+2665,"Victoria, Texas",0.0
+2666,"Vigo, Indiana",0.0
+2667,"Vilas, Wisconsin",0.0
+2668,"Vinton, Ohio",0.0
+2669,"Volusia, Florida",0.14920863309352517
+2670,"Wabash, Illinois",0.5564500000000001
+2671,"Wabash, Indiana",0.0
+2672,"Wabasha, Minnesota",0.10701754385964912
+2673,"Wabaunsee, Kansas",0.075
+2674,"Wade hampton, Alaska",0.0
+2675,"Wadena, Minnesota",0.192
+2676,"Wagoner, Oklahoma",0.22054054054054054
+2677,"Wahkiakum, Washington",0.0
+2678,"Wake, North Carolina",0.6476131511528608
+2679,"Wakulla, Florida",0.06256410256410257
+2680,"Waldo, Maine",0.0
+2681,"Walker, Alabama",0.0
+2682,"Walker, Texas",0.19166666666666665
+2683,"Walla walla, Washington",0.012061855670103093
+2684,"Wallace, Kansas",0.0
+2685,"Waller, Texas",0.0
+2686,"Wallowa, Oregon",0.0
+2687,"Walsh, North Dakota",0.0
+2688,"Walton, Florida",1.0007462686567163
+2689,"Walworth, South Dakota",0.0
+2690,"Walworth, Wisconsin",0.07374485596707818
+2691,"Wapello, Iowa",0.0
+2692,"Ward, North Dakota",0.0
+2693,"Ward, Texas",0.0
+2694,"Warren county, Pennsylvania",0.0
+2695,"Warren, Illinois",0.22553333333333334
+2696,"Warren, Indiana",0.0
+2697,"Warren, Iowa",0.0
+2698,"Warren, Kentucky",0.0
+2699,"Warren, Missouri",0.36538461538461536
+2700,"Warren, New Jersey",0.020875576036866354
+2701,"Warren, New York",0.6176470588235294
+2702,"Warren, North Carolina",0.0
+2703,"Warren, Ohio",0.1226530612244898
+2704,"Warren, Pennsylvania",0.0
+2705,"Warren, Tennessee",0.0
+2706,"Warren, Virginia",0.0
+2707,"Warrick, Indiana",0.0
+2708,"Wasatch, Utah",0.8333333333333334
+2709,"Wasco, Oregon",0.014754098360655738
+2710,"Waseca, Minnesota",0.1619047619047619
+2711,"Washakie, Wyoming",0.0
+2712,"Washburn, Wisconsin",0.0
+2713,"Washington county, Florida",0.0
+2714,"Washington county, Pennsylvania",0.0
+2715,"Washington county, Rhode Island",0.0
+2716,"Washington parish, Louisiana",0.0
+2717,"Washington, Alabama",0.16699999999999998
+2718,"Washington, Arkansas",0.0
+2719,"Washington, Florida",1.0395833333333333
+2720,"Washington, Idaho",0.0
+2721,"Washington, Illinois",0.0
+2722,"Washington, Indiana",0.0
+2723,"Washington, Iowa",0.4947619047619048
+2724,"Washington, Kansas",0.016363636363636365
+2725,"Washington, Kentucky",0.0
+2726,"Washington, Louisiana",0.0240625
+2727,"Washington, Maine",0.36918238993710695
+2728,"Washington, Maryland",0.24710144927536232
+2729,"Washington, Minnesota",0.06721518987341772
+2730,"Washington, Missouri",0.0
+2731,"Washington, Nebraska",0.008870967741935484
+2732,"Washington, New York",1.2869565217391303
+2733,"Washington, North Carolina",0.0
+2734,"Washington, Ohio",0.014074074074074076
+2735,"Washington, Oklahoma",0.0
+2736,"Washington, Oregon",0.00808080808080808
+2737,"Washington, Pennsylvania",0.0
+2738,"Washington, Rhode Island",0.0
+2739,"Washington, Tennessee",0.0
+2740,"Washington, Texas",0.4764705882352941
+2741,"Washington, Utah",0.0
+2742,"Washington, Vermont",0.0
+2743,"Washington, Virginia",0.0
+2744,"Washington, Wisconsin",0.0675177304964539
+2745,"Washita, Oklahoma",0.29183673469387755
+2746,"Washoe, Nevada",0.4122568093385214
+2747,"Washtenaw, Michigan",0.04081632653061224
+2748,"Watauga, North Carolina",0.03005181347150259
+2749,"Watonwan, Minnesota",0.23529411764705882
+2750,"Waukesha, Wisconsin",0.007679558011049724
+2751,"Waupaca, Wisconsin",0.0
+2752,"Waushara, Wisconsin",0.05131578947368422
+2753,"Wayne, Illinois",0.03905555555555555
+2754,"Wayne, Indiana",0.0
+2755,"Wayne, Kentucky",0.0
+2756,"Wayne, Michigan",0.0
+2757,"Wayne, Missouri",0.0
+2758,"Wayne, Nebraska",0.0315
+2759,"Wayne, North Carolina",0.0937888198757764
+2760,"Wayne, Ohio",0.1787533875338753
+2761,"Wayne, Pennsylvania",0.11424242424242423
+2762,"Wayne, Tennessee",0.0
+2763,"Wayne, Utah",0.0
+2764,"Wayne, West Virginia",0.055999999999999994
+2765,"Waynesboro city, Virginia",0.0
+2766,"Weakley, Tennessee",0.0
+2767,"Webb county, Texas",0.0
+2768,"Webb, Texas",0.0
+2769,"Weber, Utah",0.0
+2770,"Webster, Iowa",0.9755555555555555
+2771,"Webster, Kentucky",0.0
+2772,"Webster, Louisiana",0.0
+2773,"Webster, Missouri",0.2569333333333334
+2774,"Webster, Nebraska",0.0
+2775,"Webster, West Virginia",0.0
+2776,"Wells, Indiana",0.0
+2777,"Wells, North Dakota",0.0
+2778,"West baton rouge, Louisiana",0.0
+2779,"West carroll parish, Louisiana",0.0
+2780,"West carroll, Louisiana",0.0
+2781,"West feliciana, Louisiana",0.0
+2782,"Westmoreland, Pennsylvania",0.0
+2783,"Westmoreland, Virginia",2.54059829059829
+2784,"Weston, Wyoming",0.0
+2785,"Wetzel, West Virginia",0.02258064516129032
+2786,"Wexford, Michigan",0.125
+2787,"Wharton, Texas",0.05454545454545456
+2788,"Whatcom, Washington",0.0
+2789,"Wheatland, Montana",0.0
+2790,"Wheeler, Nebraska",0.0
+2791,"Wheeler, Oregon",0.0
+2792,"Wheeler, Texas",0.0
+2793,"White pine, Nevada",0.0
+2794,"White, Arkansas",0.047931034482758615
+2795,"White, Illinois",0.0
+2796,"White, Indiana",0.0
+2797,"White, Tennessee",0.0
+2798,"Whiteside, Illinois",0.011146341463414635
+2799,"Whitley, Indiana",0.0
+2800,"Whitley, Kentucky",0.0
+2801,"Whitman, Washington",0.0
+2802,"Wibaux, Montana",0.0
+2803,"Wichita, Kansas",0.0
+2804,"Wichita, Texas",0.48944444444444446
+2805,"Wicomico, Maryland",0.03728070175438596
+2806,"Wilbarger, Texas",0.0
+2807,"Wilcox, Alabama",0.0
+2808,"Wilkes, North Carolina",0.055737704918032795
+2809,"Wilkin, Minnesota",0.0
+2810,"Will, Illinois",0.06403563748079877
+2811,"Willacy county, Texas",0.41
+2812,"Willacy, Texas",0.3833333333333333
+2813,"Williams, North Dakota",0.0
+2814,"Williams, Ohio",0.0
+2815,"Williamsburg, South Carolina",0.21324324324324323
+2816,"Williamson, Illinois",0.0
+2817,"Williamson, Tennessee",0.0
+2818,"Williamson, Texas",0.13684210526315788
+2819,"Wilson, Kansas",0.0
+2820,"Wilson, North Carolina",0.06923076923076923
+2821,"Wilson, Tennessee",0.0
+2822,"Wilson, Texas",0.0
+2823,"Winchester, Virginia",0.0
+2824,"Windham, Vermont",0.03218390804597701
+2825,"Windsor, Vermont",0.0
+2826,"Winkler, Texas",0.25882352941176473
+2827,"Winn, Louisiana",0.0
+2828,"Winnebago, Illinois",0.008470103092783506
+2829,"Winnebago, Iowa",0.12727272727272726
+2830,"Winnebago, Wisconsin",0.01763975155279503
+2831,"Winneshiek, Iowa",0.11551724137931033
+2832,"Winona, Minnesota",0.108
+2833,"Winston, Alabama",0.0
+2834,"Wise, Texas",0.006944444444444444
+2835,"Wise, Virginia",0.4711538461538461
+2836,"Wolfe, Kentucky",0.049999999999999996
+2837,"Wood, Ohio",21.051773049645384
+2838,"Wood, Texas",0.22691358024691358
+2839,"Wood, West Virginia",0.01
+2840,"Wood, Wisconsin",0.15443037974683546
+2841,"Woodbury, Iowa",0.16923076923076924
+2842,"Woodford, Illinois",0.007865168539325841
+2843,"Woodford, Kentucky",0.0
+2844,"Woodruff, Arkansas",0.058260869565217394
+2845,"Woods, Oklahoma",0.038461538461538464
+2846,"Woodson, Kansas",0.0
+2847,"Woodward, Oklahoma",0.0
+2848,"Worcester, Maryland",0.2768292682926829
+2849,"Worcester, Massachusetts",0.203460960960961
+2850,"Worth, Iowa",25.519375000000007
+2851,"Worth, Missouri",0.0
+2852,"Wrangell, Alaska",0.0
+2853,"Wright, Iowa",0.041176470588235294
+2854,"Wright, Minnesota",0.0
+2855,"Wright, Missouri",0.038461538461538464
+2856,"Wyandot, Ohio",0.0
+2857,"Wyandotte, Kansas",0.0
+2858,"Wyoming, Pennsylvania",0.0
+2859,"Wyoming, West Virginia",0.0
+2860,"Wythe, Virginia",0.0
+2861,"Yadkin, North Carolina",0.7324528301886793
+2862,"Yakima, Washington",0.0014005602240896359
+2863,"Yakutat, Alaska",0.0
+2864,"Yamhill, Oregon",0.006388888888888888
+2865,"Yancey, North Carolina",0.3111111111111111
+2866,"Yankton, South Dakota",0.0
+2867,"Yavapai, Arizona",0.18191321499013804
+2868,"Yell, Arkansas",0.0
+2869,"Yellow medicine county, Minnesota",0.0
+2870,"Yellow medicine, Minnesota",0.0
+2871,"Yellowstone, Montana",0.0
+2872,"Yoakum, Texas",0.0
+2873,"Yolo, California",0.0024193548387096775
+2874,"York county, Pennsylvania",0.0
+2875,"York, Maine",0.0
+2876,"York, Nebraska",0.079873417721519
+2877,"York, Pennsylvania",0.013656307129798904
+2878,"York, South Carolina",0.0
+2879,"York, Virginia",0.0
+2880,"Young, Texas",0.0
+2881,"Yuba, California",0.4
+2882,"Yukon-koyukuk census area, Alaska",0.0
+2883,"Yukon-koyukuk, Alaska",0.08577922077922079
+2884,"Yuma county, Arizona",0.0
+2885,"Yuma, Arizona",0.11402439024390243
+2886,"Zapata county, Texas",0.0
+2887,"Zapata, Texas",0.0
+2888,"Zavala, Texas",0.0
