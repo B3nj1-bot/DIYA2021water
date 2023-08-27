@@ -27,7 +27,7 @@ from sklearn.metrics import r2_score
 # activity = pd.read_csv("physical_activity_cleaned.csv")
 # smoking = pd.read_csv("smoking_cleaned.csv")
 
-six_year = pd.read_csv("six_year_all_cancers_obesity_alcohol_smoking.csv")
+six_year = pd.read_csv("final_dataset.csv")
 # six_year = pd.merge(six_year,obesity,how='outer',on='county')
 # six_year = pd.merge(six_year,alcohol,how='outer',on='county')
 # six_year = pd.merge(six_year,activity,how='outer',on='county')
