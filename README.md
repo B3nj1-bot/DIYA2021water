@@ -8,7 +8,7 @@ Link to presentation slides [here](https://docs.google.com/presentation/d/19mxmM
 
 
 # Data
-ML model and predictions: regression_model.py"   
+ML model and predictions: "regression_model.py"   
   
 [Drinking water chemical data (2006-11)](https://www.epa.gov/dwsixyearreview/six-year-review-3-compliance-monitoring-data-2006-2011)  
    
