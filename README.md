@@ -8,10 +8,12 @@ Link to presentation slides [here](https://docs.google.com/presentation/d/19mxmM
 
 
 # Data
-**water_regression.py** contains code for building the ML model and predictions. **six_year_all_cancers_obesity_alcohol_smoking.csv** contains the final curated data set.
+"**water_regression.py**" contains code for building the ML model and predictions.   
+"**six_year_all_cancers_obesity_alcohol_smoking.csv**" contains the final curated data set.  
+
 Drinking water chemical data (2006-11) - https://www.epa.gov/dwsixyearreview/six-year-review-3-compliance-monitoring-data-2006-2011  
 Cancer incidence by county (2013-2017) - https://gis.cancer.gov/canceratlas/tableview/?d=1&a=2&r=1&s=1   
 Lifestyle (obesity, physical activity, alcohol) data by county (2011) - http://www.healthdata.org/us-health/data-download   
 Smoking data by county (1996-2012) - http://ghdx.healthdata.org/record/ihme-data/united-states-smoking-prevalence-county-1996-2012  
 
-Cancer and lifestyle data has been uploaded to the repository, EPA water data is available at the link above.
+
